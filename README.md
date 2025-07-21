@@ -3,6 +3,8 @@
 ## Introduction to the dataset
 CFRep is an open-access video dataset designed for rep-based exercise validation for functional fitness settings. The dataset attempts to alleviate the limited quantity of free access, carefully labeled data for movement evaluation quality and repetition accuracy inside functional fitness scenarios.
 
+![Dataset Sample](dataset_sample.png)
+
 ## Data Preparation
 
 - Recorded videos in three distinct camera angles: front, diagonal, and side.
