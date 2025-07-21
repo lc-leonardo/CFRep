@@ -49,7 +49,7 @@ CFRep is an open-access video dataset designed for rep-based exercise validation
 
 ### CFRep Dataset Construction
 
-| Exercise       | Videos per Camera Angle         |       |       | Total | Reps |
+| Exercise       |        | Videos per Camera Angle       |       | Total | Reps |
 |----------------|----------------------------------|-------|-------|--------|------|
 |                | Front                           | Diag  | Side  |        |      |
 | Deadlift       | 7                                | 7     | 7     | 21     | 258  |
