@@ -1,0 +1,8172 @@
+[
+  {
+    "filename": "deadlift_diag_m1_6_6.mp4",
+    "exercise": "deadlift",
+    "binary_label": "111111000000",
+    "rep_count": 6,
+    "segments": [
+      {
+        "start": 0,
+        "end": 162,
+        "label": "prep"
+      },
+      {
+        "start": 163,
+        "end": 188,
+        "label": "rep"
+      },
+      {
+        "start": 189,
+        "end": 235,
+        "label": "rep"
+      },
+      {
+        "start": 236,
+        "end": 290,
+        "label": "rep"
+      },
+      {
+        "start": 291,
+        "end": 342,
+        "label": "rep"
+      },
+      {
+        "start": 343,
+        "end": 396,
+        "label": "rep"
+      },
+      {
+        "start": 397,
+        "end": 452,
+        "label": "rep"
+      },
+      {
+        "start": 453,
+        "end": 515,
+        "label": "no-rep"
+      },
+      {
+        "start": 516,
+        "end": 571,
+        "label": "no-rep"
+      },
+      {
+        "start": 572,
+        "end": 633,
+        "label": "no-rep"
+      },
+      {
+        "start": 634,
+        "end": 692,
+        "label": "no-rep"
+      },
+      {
+        "start": 693,
+        "end": 756,
+        "label": "no-rep"
+      },
+      {
+        "start": 757,
+        "end": 842,
+        "label": "no-rep"
+      },
+      {
+        "start": 843,
+        "end": 884,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 163,
+        "end": 188
+      },
+      {
+        "start": 189,
+        "end": 235
+      },
+      {
+        "start": 236,
+        "end": 290
+      },
+      {
+        "start": 291,
+        "end": 342
+      },
+      {
+        "start": 343,
+        "end": 396
+      },
+      {
+        "start": 397,
+        "end": 452
+      }
+    ]
+  },
+  {
+    "filename": "deadlift_diag_m2_6_5.mp4",
+    "exercise": "deadlift",
+    "binary_label": "11111100000",
+    "rep_count": 6,
+    "segments": [
+      {
+        "start": 0,
+        "end": 98,
+        "label": "prep"
+      },
+      {
+        "start": 99,
+        "end": 125,
+        "label": "rep"
+      },
+      {
+        "start": 126,
+        "end": 171,
+        "label": "rep"
+      },
+      {
+        "start": 172,
+        "end": 222,
+        "label": "rep"
+      },
+      {
+        "start": 223,
+        "end": 270,
+        "label": "rep"
+      },
+      {
+        "start": 271,
+        "end": 326,
+        "label": "rep"
+      },
+      {
+        "start": 327,
+        "end": 373,
+        "label": "rep"
+      },
+      {
+        "start": 374,
+        "end": 428,
+        "label": "no-rep"
+      },
+      {
+        "start": 429,
+        "end": 474,
+        "label": "no-rep"
+      },
+      {
+        "start": 475,
+        "end": 516,
+        "label": "no-rep"
+      },
+      {
+        "start": 517,
+        "end": 559,
+        "label": "no-rep"
+      },
+      {
+        "start": 560,
+        "end": 600,
+        "label": "no-rep"
+      },
+      {
+        "start": 601,
+        "end": 657,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 99,
+        "end": 125
+      },
+      {
+        "start": 126,
+        "end": 171
+      },
+      {
+        "start": 172,
+        "end": 222
+      },
+      {
+        "start": 223,
+        "end": 270
+      },
+      {
+        "start": 271,
+        "end": 326
+      },
+      {
+        "start": 327,
+        "end": 373
+      }
+    ]
+  },
+  {
+    "filename": "deadlift_diag_m3_12_0.mp4",
+    "exercise": "deadlift",
+    "binary_label": "111111111111",
+    "rep_count": 12,
+    "segments": [
+      {
+        "start": 0,
+        "end": 64,
+        "label": "prep"
+      },
+      {
+        "start": 65,
+        "end": 98,
+        "label": "rep"
+      },
+      {
+        "start": 99,
+        "end": 147,
+        "label": "rep"
+      },
+      {
+        "start": 148,
+        "end": 195,
+        "label": "rep"
+      },
+      {
+        "start": 196,
+        "end": 248,
+        "label": "rep"
+      },
+      {
+        "start": 249,
+        "end": 302,
+        "label": "rep"
+      },
+      {
+        "start": 303,
+        "end": 359,
+        "label": "rep"
+      },
+      {
+        "start": 360,
+        "end": 418,
+        "label": "rep"
+      },
+      {
+        "start": 419,
+        "end": 470,
+        "label": "rep"
+      },
+      {
+        "start": 471,
+        "end": 524,
+        "label": "rep"
+      },
+      {
+        "start": 525,
+        "end": 588,
+        "label": "rep"
+      },
+      {
+        "start": 589,
+        "end": 644,
+        "label": "rep"
+      },
+      {
+        "start": 645,
+        "end": 704,
+        "label": "rep"
+      },
+      {
+        "start": 705,
+        "end": 780,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 65,
+        "end": 98
+      },
+      {
+        "start": 99,
+        "end": 147
+      },
+      {
+        "start": 148,
+        "end": 195
+      },
+      {
+        "start": 196,
+        "end": 248
+      },
+      {
+        "start": 249,
+        "end": 302
+      },
+      {
+        "start": 303,
+        "end": 359
+      },
+      {
+        "start": 360,
+        "end": 418
+      },
+      {
+        "start": 419,
+        "end": 470
+      },
+      {
+        "start": 471,
+        "end": 524
+      },
+      {
+        "start": 525,
+        "end": 588
+      },
+      {
+        "start": 589,
+        "end": 644
+      },
+      {
+        "start": 645,
+        "end": 704
+      }
+    ]
+  },
+  {
+    "filename": "deadlift_diag_m4_7_6.mp4",
+    "exercise": "deadlift",
+    "binary_label": "1111111000000",
+    "rep_count": 7,
+    "segments": [
+      {
+        "start": 0,
+        "end": 116,
+        "label": "prep"
+      },
+      {
+        "start": 117,
+        "end": 154,
+        "label": "rep"
+      },
+      {
+        "start": 155,
+        "end": 214,
+        "label": "rep"
+      },
+      {
+        "start": 215,
+        "end": 267,
+        "label": "rep"
+      },
+      {
+        "start": 268,
+        "end": 333,
+        "label": "rep"
+      },
+      {
+        "start": 334,
+        "end": 380,
+        "label": "rep"
+      },
+      {
+        "start": 381,
+        "end": 437,
+        "label": "rep"
+      },
+      {
+        "start": 438,
+        "end": 498,
+        "label": "rep"
+      },
+      {
+        "start": 499,
+        "end": 563,
+        "label": "no-rep"
+      },
+      {
+        "start": 564,
+        "end": 603,
+        "label": "no-rep"
+      },
+      {
+        "start": 604,
+        "end": 646,
+        "label": "no-rep"
+      },
+      {
+        "start": 647,
+        "end": 684,
+        "label": "no-rep"
+      },
+      {
+        "start": 685,
+        "end": 727,
+        "label": "no-rep"
+      },
+      {
+        "start": 728,
+        "end": 765,
+        "label": "no-rep"
+      },
+      {
+        "start": 766,
+        "end": 808,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 117,
+        "end": 154
+      },
+      {
+        "start": 155,
+        "end": 214
+      },
+      {
+        "start": 215,
+        "end": 267
+      },
+      {
+        "start": 268,
+        "end": 333
+      },
+      {
+        "start": 334,
+        "end": 380
+      },
+      {
+        "start": 381,
+        "end": 437
+      },
+      {
+        "start": 438,
+        "end": 498
+      }
+    ]
+  },
+  {
+    "filename": "deadlift_diag_w1_9_3.mp4",
+    "exercise": "deadlift",
+    "binary_label": "100110111111",
+    "rep_count": 9,
+    "segments": [
+      {
+        "start": 0,
+        "end": 149,
+        "label": "prep"
+      },
+      {
+        "start": 150,
+        "end": 215,
+        "label": "rep"
+      },
+      {
+        "start": 216,
+        "end": 275,
+        "label": "no-rep"
+      },
+      {
+        "start": 276,
+        "end": 329,
+        "label": "no-rep"
+      },
+      {
+        "start": 330,
+        "end": 378,
+        "label": "rep"
+      },
+      {
+        "start": 379,
+        "end": 430,
+        "label": "rep"
+      },
+      {
+        "start": 431,
+        "end": 479,
+        "label": "no-rep"
+      },
+      {
+        "start": 480,
+        "end": 519,
+        "label": "rep"
+      },
+      {
+        "start": 520,
+        "end": 563,
+        "label": "rep"
+      },
+      {
+        "start": 564,
+        "end": 607,
+        "label": "rep"
+      },
+      {
+        "start": 608,
+        "end": 653,
+        "label": "rep"
+      },
+      {
+        "start": 654,
+        "end": 706,
+        "label": "rep"
+      },
+      {
+        "start": 707,
+        "end": 754,
+        "label": "rep"
+      },
+      {
+        "start": 755,
+        "end": 791,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 150,
+        "end": 215
+      },
+      {
+        "start": 330,
+        "end": 378
+      },
+      {
+        "start": 379,
+        "end": 430
+      },
+      {
+        "start": 480,
+        "end": 519
+      },
+      {
+        "start": 520,
+        "end": 563
+      },
+      {
+        "start": 564,
+        "end": 607
+      },
+      {
+        "start": 608,
+        "end": 653
+      },
+      {
+        "start": 654,
+        "end": 706
+      },
+      {
+        "start": 707,
+        "end": 754
+      }
+    ]
+  },
+  {
+    "filename": "deadlift_diag_w2_9_6.mp4",
+    "exercise": "deadlift",
+    "binary_label": "111000000011111",
+    "rep_count": 8,
+    "segments": [
+      {
+        "start": 0,
+        "end": 79,
+        "label": "prep"
+      },
+      {
+        "start": 80,
+        "end": 106,
+        "label": "rep"
+      },
+      {
+        "start": 107,
+        "end": 157,
+        "label": "rep"
+      },
+      {
+        "start": 158,
+        "end": 214,
+        "label": "rep"
+      },
+      {
+        "start": 215,
+        "end": 270,
+        "label": "no-rep"
+      },
+      {
+        "start": 271,
+        "end": 311,
+        "label": "no-rep"
+      },
+      {
+        "start": 312,
+        "end": 353,
+        "label": "no-rep"
+      },
+      {
+        "start": 354,
+        "end": 397,
+        "label": "no-rep"
+      },
+      {
+        "start": 398,
+        "end": 440,
+        "label": "no-rep"
+      },
+      {
+        "start": 441,
+        "end": 484,
+        "label": "no-rep"
+      },
+      {
+        "start": 485,
+        "end": 524,
+        "label": "no-rep"
+      },
+      {
+        "start": 525,
+        "end": 574,
+        "label": "rep"
+      },
+      {
+        "start": 575,
+        "end": 627,
+        "label": "rep"
+      },
+      {
+        "start": 628,
+        "end": 682,
+        "label": "rep"
+      },
+      {
+        "start": 683,
+        "end": 736,
+        "label": "rep"
+      },
+      {
+        "start": 737,
+        "end": 790,
+        "label": "rep"
+      },
+      {
+        "start": 791,
+        "end": 824,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 80,
+        "end": 106
+      },
+      {
+        "start": 107,
+        "end": 157
+      },
+      {
+        "start": 158,
+        "end": 214
+      },
+      {
+        "start": 525,
+        "end": 574
+      },
+      {
+        "start": 575,
+        "end": 627
+      },
+      {
+        "start": 628,
+        "end": 682
+      },
+      {
+        "start": 683,
+        "end": 736
+      },
+      {
+        "start": 737,
+        "end": 790
+      }
+    ]
+  },
+  {
+    "filename": "deadlift_diag_w4_11_2.mp4",
+    "exercise": "deadlift",
+    "binary_label": "1011111110111",
+    "rep_count": 11,
+    "segments": [
+      {
+        "start": 0,
+        "end": 50,
+        "label": "prep"
+      },
+      {
+        "start": 51,
+        "end": 87,
+        "label": "rep"
+      },
+      {
+        "start": 88,
+        "end": 140,
+        "label": "no-rep"
+      },
+      {
+        "start": 141,
+        "end": 196,
+        "label": "rep"
+      },
+      {
+        "start": 197,
+        "end": 255,
+        "label": "rep"
+      },
+      {
+        "start": 256,
+        "end": 308,
+        "label": "rep"
+      },
+      {
+        "start": 309,
+        "end": 355,
+        "label": "rep"
+      },
+      {
+        "start": 356,
+        "end": 411,
+        "label": "rep"
+      },
+      {
+        "start": 412,
+        "end": 470,
+        "label": "rep"
+      },
+      {
+        "start": 471,
+        "end": 524,
+        "label": "rep"
+      },
+      {
+        "start": 525,
+        "end": 577,
+        "label": "no-rep"
+      },
+      {
+        "start": 578,
+        "end": 632,
+        "label": "rep"
+      },
+      {
+        "start": 633,
+        "end": 683,
+        "label": "rep"
+      },
+      {
+        "start": 684,
+        "end": 733,
+        "label": "rep"
+      },
+      {
+        "start": 734,
+        "end": 771,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 51,
+        "end": 87
+      },
+      {
+        "start": 141,
+        "end": 196
+      },
+      {
+        "start": 197,
+        "end": 255
+      },
+      {
+        "start": 256,
+        "end": 308
+      },
+      {
+        "start": 309,
+        "end": 355
+      },
+      {
+        "start": 356,
+        "end": 411
+      },
+      {
+        "start": 412,
+        "end": 470
+      },
+      {
+        "start": 471,
+        "end": 524
+      },
+      {
+        "start": 578,
+        "end": 632
+      },
+      {
+        "start": 633,
+        "end": 683
+      },
+      {
+        "start": 684,
+        "end": 733
+      }
+    ]
+  },
+  {
+    "filename": "deadlift_front_m1_13_0.mp4",
+    "exercise": "deadlift",
+    "binary_label": "1111111111111",
+    "rep_count": 13,
+    "segments": [
+      {
+        "start": 0,
+        "end": 145,
+        "label": "prep"
+      },
+      {
+        "start": 146,
+        "end": 188,
+        "label": "rep"
+      },
+      {
+        "start": 189,
+        "end": 242,
+        "label": "rep"
+      },
+      {
+        "start": 243,
+        "end": 299,
+        "label": "rep"
+      },
+      {
+        "start": 300,
+        "end": 353,
+        "label": "rep"
+      },
+      {
+        "start": 354,
+        "end": 405,
+        "label": "rep"
+      },
+      {
+        "start": 406,
+        "end": 463,
+        "label": "rep"
+      },
+      {
+        "start": 464,
+        "end": 516,
+        "label": "rep"
+      },
+      {
+        "start": 517,
+        "end": 574,
+        "label": "rep"
+      },
+      {
+        "start": 575,
+        "end": 629,
+        "label": "rep"
+      },
+      {
+        "start": 630,
+        "end": 682,
+        "label": "rep"
+      },
+      {
+        "start": 683,
+        "end": 734,
+        "label": "rep"
+      },
+      {
+        "start": 735,
+        "end": 791,
+        "label": "rep"
+      },
+      {
+        "start": 792,
+        "end": 846,
+        "label": "rep"
+      },
+      {
+        "start": 847,
+        "end": 900,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 146,
+        "end": 188
+      },
+      {
+        "start": 189,
+        "end": 242
+      },
+      {
+        "start": 243,
+        "end": 299
+      },
+      {
+        "start": 300,
+        "end": 353
+      },
+      {
+        "start": 354,
+        "end": 405
+      },
+      {
+        "start": 406,
+        "end": 463
+      },
+      {
+        "start": 464,
+        "end": 516
+      },
+      {
+        "start": 517,
+        "end": 574
+      },
+      {
+        "start": 575,
+        "end": 629
+      },
+      {
+        "start": 630,
+        "end": 682
+      },
+      {
+        "start": 683,
+        "end": 734
+      },
+      {
+        "start": 735,
+        "end": 791
+      },
+      {
+        "start": 792,
+        "end": 846
+      }
+    ]
+  },
+  {
+    "filename": "deadlift_front_m2_13_0.mp4",
+    "exercise": "deadlift",
+    "binary_label": "1111111111111",
+    "rep_count": 13,
+    "segments": [
+      {
+        "start": 0,
+        "end": 66,
+        "label": "prep"
+      },
+      {
+        "start": 67,
+        "end": 91,
+        "label": "rep"
+      },
+      {
+        "start": 92,
+        "end": 139,
+        "label": "rep"
+      },
+      {
+        "start": 140,
+        "end": 185,
+        "label": "rep"
+      },
+      {
+        "start": 186,
+        "end": 229,
+        "label": "rep"
+      },
+      {
+        "start": 230,
+        "end": 273,
+        "label": "rep"
+      },
+      {
+        "start": 274,
+        "end": 316,
+        "label": "rep"
+      },
+      {
+        "start": 317,
+        "end": 358,
+        "label": "rep"
+      },
+      {
+        "start": 359,
+        "end": 400,
+        "label": "rep"
+      },
+      {
+        "start": 401,
+        "end": 443,
+        "label": "rep"
+      },
+      {
+        "start": 444,
+        "end": 485,
+        "label": "rep"
+      },
+      {
+        "start": 486,
+        "end": 524,
+        "label": "rep"
+      },
+      {
+        "start": 525,
+        "end": 567,
+        "label": "rep"
+      },
+      {
+        "start": 568,
+        "end": 615,
+        "label": "rep"
+      },
+      {
+        "start": 616,
+        "end": 646,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 67,
+        "end": 91
+      },
+      {
+        "start": 92,
+        "end": 139
+      },
+      {
+        "start": 140,
+        "end": 185
+      },
+      {
+        "start": 186,
+        "end": 229
+      },
+      {
+        "start": 230,
+        "end": 273
+      },
+      {
+        "start": 274,
+        "end": 316
+      },
+      {
+        "start": 317,
+        "end": 358
+      },
+      {
+        "start": 359,
+        "end": 400
+      },
+      {
+        "start": 401,
+        "end": 443
+      },
+      {
+        "start": 444,
+        "end": 485
+      },
+      {
+        "start": 486,
+        "end": 524
+      },
+      {
+        "start": 525,
+        "end": 567
+      },
+      {
+        "start": 568,
+        "end": 615
+      }
+    ]
+  },
+  {
+    "filename": "deadlift_front_m3_10_0.mp4",
+    "exercise": "deadlift",
+    "binary_label": "1111111111",
+    "rep_count": 10,
+    "segments": [
+      {
+        "start": 0,
+        "end": 82,
+        "label": "prep"
+      },
+      {
+        "start": 83,
+        "end": 124,
+        "label": "rep"
+      },
+      {
+        "start": 125,
+        "end": 180,
+        "label": "rep"
+      },
+      {
+        "start": 181,
+        "end": 240,
+        "label": "rep"
+      },
+      {
+        "start": 241,
+        "end": 297,
+        "label": "rep"
+      },
+      {
+        "start": 298,
+        "end": 351,
+        "label": "rep"
+      },
+      {
+        "start": 352,
+        "end": 406,
+        "label": "rep"
+      },
+      {
+        "start": 407,
+        "end": 459,
+        "label": "rep"
+      },
+      {
+        "start": 460,
+        "end": 513,
+        "label": "rep"
+      },
+      {
+        "start": 514,
+        "end": 566,
+        "label": "rep"
+      },
+      {
+        "start": 567,
+        "end": 621,
+        "label": "rep"
+      },
+      {
+        "start": 622,
+        "end": 685,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 83,
+        "end": 124
+      },
+      {
+        "start": 125,
+        "end": 180
+      },
+      {
+        "start": 181,
+        "end": 240
+      },
+      {
+        "start": 241,
+        "end": 297
+      },
+      {
+        "start": 298,
+        "end": 351
+      },
+      {
+        "start": 352,
+        "end": 406
+      },
+      {
+        "start": 407,
+        "end": 459
+      },
+      {
+        "start": 460,
+        "end": 513
+      },
+      {
+        "start": 514,
+        "end": 566
+      },
+      {
+        "start": 567,
+        "end": 621
+      }
+    ]
+  },
+  {
+    "filename": "deadlift_front_m4_10_2.mp4",
+    "exercise": "deadlift",
+    "binary_label": "111110011111",
+    "rep_count": 10,
+    "segments": [
+      {
+        "start": 0,
+        "end": 16,
+        "label": "prep"
+      },
+      {
+        "start": 17,
+        "end": 50,
+        "label": "rep"
+      },
+      {
+        "start": 51,
+        "end": 114,
+        "label": "rep"
+      },
+      {
+        "start": 115,
+        "end": 162,
+        "label": "rep"
+      },
+      {
+        "start": 163,
+        "end": 219,
+        "label": "rep"
+      },
+      {
+        "start": 220,
+        "end": 284,
+        "label": "rep"
+      },
+      {
+        "start": 285,
+        "end": 320,
+        "label": "no-rep"
+      },
+      {
+        "start": 321,
+        "end": 353,
+        "label": "no-rep"
+      },
+      {
+        "start": 354,
+        "end": 420,
+        "label": "rep"
+      },
+      {
+        "start": 421,
+        "end": 530,
+        "label": "rep"
+      },
+      {
+        "start": 531,
+        "end": 593,
+        "label": "rep"
+      },
+      {
+        "start": 594,
+        "end": 649,
+        "label": "rep"
+      },
+      {
+        "start": 650,
+        "end": 710,
+        "label": "rep"
+      },
+      {
+        "start": 711,
+        "end": 762,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 17,
+        "end": 50
+      },
+      {
+        "start": 51,
+        "end": 114
+      },
+      {
+        "start": 115,
+        "end": 162
+      },
+      {
+        "start": 163,
+        "end": 219
+      },
+      {
+        "start": 220,
+        "end": 284
+      },
+      {
+        "start": 354,
+        "end": 420
+      },
+      {
+        "start": 421,
+        "end": 530
+      },
+      {
+        "start": 531,
+        "end": 593
+      },
+      {
+        "start": 594,
+        "end": 649
+      },
+      {
+        "start": 650,
+        "end": 710
+      }
+    ]
+  },
+  {
+    "filename": "deadlift_front_w1_6_6.mp4",
+    "exercise": "deadlift",
+    "binary_label": "110001001011",
+    "rep_count": 6,
+    "segments": [
+      {
+        "start": 0,
+        "end": 100,
+        "label": "prep"
+      },
+      {
+        "start": 101,
+        "end": 147,
+        "label": "rep"
+      },
+      {
+        "start": 148,
+        "end": 191,
+        "label": "rep"
+      },
+      {
+        "start": 192,
+        "end": 237,
+        "label": "no-rep"
+      },
+      {
+        "start": 238,
+        "end": 278,
+        "label": "no-rep"
+      },
+      {
+        "start": 279,
+        "end": 318,
+        "label": "no-rep"
+      },
+      {
+        "start": 319,
+        "end": 361,
+        "label": "rep"
+      },
+      {
+        "start": 362,
+        "end": 402,
+        "label": "no-rep"
+      },
+      {
+        "start": 403,
+        "end": 442,
+        "label": "no-rep"
+      },
+      {
+        "start": 443,
+        "end": 484,
+        "label": "rep"
+      },
+      {
+        "start": 485,
+        "end": 528,
+        "label": "no-rep"
+      },
+      {
+        "start": 529,
+        "end": 570,
+        "label": "rep"
+      },
+      {
+        "start": 571,
+        "end": 620,
+        "label": "rep"
+      },
+      {
+        "start": 621,
+        "end": 776,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 101,
+        "end": 147
+      },
+      {
+        "start": 148,
+        "end": 191
+      },
+      {
+        "start": 319,
+        "end": 361
+      },
+      {
+        "start": 443,
+        "end": 484
+      },
+      {
+        "start": 529,
+        "end": 570
+      },
+      {
+        "start": 571,
+        "end": 620
+      }
+    ]
+  },
+  {
+    "filename": "deadlift_front_w2_12_0.mp4",
+    "exercise": "deadlift",
+    "binary_label": "111111111111",
+    "rep_count": 12,
+    "segments": [
+      {
+        "start": 0,
+        "end": 57,
+        "label": "prep"
+      },
+      {
+        "start": 58,
+        "end": 83,
+        "label": "rep"
+      },
+      {
+        "start": 84,
+        "end": 142,
+        "label": "rep"
+      },
+      {
+        "start": 143,
+        "end": 197,
+        "label": "rep"
+      },
+      {
+        "start": 198,
+        "end": 260,
+        "label": "rep"
+      },
+      {
+        "start": 261,
+        "end": 326,
+        "label": "rep"
+      },
+      {
+        "start": 327,
+        "end": 391,
+        "label": "rep"
+      },
+      {
+        "start": 392,
+        "end": 450,
+        "label": "rep"
+      },
+      {
+        "start": 451,
+        "end": 517,
+        "label": "rep"
+      },
+      {
+        "start": 518,
+        "end": 592,
+        "label": "rep"
+      },
+      {
+        "start": 593,
+        "end": 660,
+        "label": "rep"
+      },
+      {
+        "start": 661,
+        "end": 731,
+        "label": "rep"
+      },
+      {
+        "start": 732,
+        "end": 796,
+        "label": "rep"
+      },
+      {
+        "start": 797,
+        "end": 828,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 58,
+        "end": 83
+      },
+      {
+        "start": 84,
+        "end": 142
+      },
+      {
+        "start": 143,
+        "end": 197
+      },
+      {
+        "start": 198,
+        "end": 260
+      },
+      {
+        "start": 261,
+        "end": 326
+      },
+      {
+        "start": 327,
+        "end": 391
+      },
+      {
+        "start": 392,
+        "end": 450
+      },
+      {
+        "start": 451,
+        "end": 517
+      },
+      {
+        "start": 518,
+        "end": 592
+      },
+      {
+        "start": 593,
+        "end": 660
+      },
+      {
+        "start": 661,
+        "end": 731
+      },
+      {
+        "start": 732,
+        "end": 796
+      }
+    ]
+  },
+  {
+    "filename": "deadlift_front_w4_12_0.mp4",
+    "exercise": "deadlift",
+    "binary_label": "111111111111",
+    "rep_count": 12,
+    "segments": [
+      {
+        "start": 0,
+        "end": 67,
+        "label": "prep"
+      },
+      {
+        "start": 68,
+        "end": 103,
+        "label": "rep"
+      },
+      {
+        "start": 104,
+        "end": 152,
+        "label": "rep"
+      },
+      {
+        "start": 153,
+        "end": 197,
+        "label": "rep"
+      },
+      {
+        "start": 198,
+        "end": 247,
+        "label": "rep"
+      },
+      {
+        "start": 248,
+        "end": 296,
+        "label": "rep"
+      },
+      {
+        "start": 297,
+        "end": 349,
+        "label": "rep"
+      },
+      {
+        "start": 350,
+        "end": 400,
+        "label": "rep"
+      },
+      {
+        "start": 401,
+        "end": 451,
+        "label": "rep"
+      },
+      {
+        "start": 452,
+        "end": 503,
+        "label": "rep"
+      },
+      {
+        "start": 504,
+        "end": 554,
+        "label": "rep"
+      },
+      {
+        "start": 555,
+        "end": 606,
+        "label": "rep"
+      },
+      {
+        "start": 607,
+        "end": 656,
+        "label": "rep"
+      },
+      {
+        "start": 657,
+        "end": 669,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 68,
+        "end": 103
+      },
+      {
+        "start": 104,
+        "end": 152
+      },
+      {
+        "start": 153,
+        "end": 197
+      },
+      {
+        "start": 198,
+        "end": 247
+      },
+      {
+        "start": 248,
+        "end": 296
+      },
+      {
+        "start": 297,
+        "end": 349
+      },
+      {
+        "start": 350,
+        "end": 400
+      },
+      {
+        "start": 401,
+        "end": 451
+      },
+      {
+        "start": 452,
+        "end": 503
+      },
+      {
+        "start": 504,
+        "end": 554
+      },
+      {
+        "start": 555,
+        "end": 606
+      },
+      {
+        "start": 607,
+        "end": 656
+      }
+    ]
+  },
+  {
+    "filename": "deadlift_side_m1_11_3.mp4",
+    "exercise": "deadlift",
+    "binary_label": "11111111111000",
+    "rep_count": 11,
+    "segments": [
+      {
+        "start": 0,
+        "end": 96,
+        "label": "prep"
+      },
+      {
+        "start": 97,
+        "end": 144,
+        "label": "rep"
+      },
+      {
+        "start": 145,
+        "end": 198,
+        "label": "rep"
+      },
+      {
+        "start": 199,
+        "end": 253,
+        "label": "rep"
+      },
+      {
+        "start": 254,
+        "end": 305,
+        "label": "rep"
+      },
+      {
+        "start": 306,
+        "end": 348,
+        "label": "rep"
+      },
+      {
+        "start": 349,
+        "end": 409,
+        "label": "rep"
+      },
+      {
+        "start": 410,
+        "end": 455,
+        "label": "rep"
+      },
+      {
+        "start": 456,
+        "end": 505,
+        "label": "rep"
+      },
+      {
+        "start": 506,
+        "end": 564,
+        "label": "rep"
+      },
+      {
+        "start": 565,
+        "end": 618,
+        "label": "rep"
+      },
+      {
+        "start": 619,
+        "end": 677,
+        "label": "rep"
+      },
+      {
+        "start": 678,
+        "end": 736,
+        "label": "no-rep"
+      },
+      {
+        "start": 737,
+        "end": 787,
+        "label": "no-rep"
+      },
+      {
+        "start": 788,
+        "end": 832,
+        "label": "no-rep"
+      },
+      {
+        "start": 833,
+        "end": 889,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 97,
+        "end": 144
+      },
+      {
+        "start": 145,
+        "end": 198
+      },
+      {
+        "start": 199,
+        "end": 253
+      },
+      {
+        "start": 254,
+        "end": 305
+      },
+      {
+        "start": 306,
+        "end": 348
+      },
+      {
+        "start": 349,
+        "end": 409
+      },
+      {
+        "start": 410,
+        "end": 455
+      },
+      {
+        "start": 456,
+        "end": 505
+      },
+      {
+        "start": 506,
+        "end": 564
+      },
+      {
+        "start": 565,
+        "end": 618
+      },
+      {
+        "start": 619,
+        "end": 677
+      }
+    ]
+  },
+  {
+    "filename": "deadlift_side_m2_9_3.mp4",
+    "exercise": "deadlift",
+    "binary_label": "000111111111",
+    "rep_count": 9,
+    "segments": [
+      {
+        "start": 0,
+        "end": 327,
+        "label": "prep"
+      },
+      {
+        "start": 328,
+        "end": 352,
+        "label": "no-rep"
+      },
+      {
+        "start": 353,
+        "end": 395,
+        "label": "no-rep"
+      },
+      {
+        "start": 396,
+        "end": 439,
+        "label": "no-rep"
+      },
+      {
+        "start": 440,
+        "end": 484,
+        "label": "rep"
+      },
+      {
+        "start": 485,
+        "end": 534,
+        "label": "rep"
+      },
+      {
+        "start": 535,
+        "end": 574,
+        "label": "rep"
+      },
+      {
+        "start": 575,
+        "end": 615,
+        "label": "rep"
+      },
+      {
+        "start": 616,
+        "end": 661,
+        "label": "rep"
+      },
+      {
+        "start": 662,
+        "end": 701,
+        "label": "rep"
+      },
+      {
+        "start": 702,
+        "end": 745,
+        "label": "rep"
+      },
+      {
+        "start": 746,
+        "end": 784,
+        "label": "rep"
+      },
+      {
+        "start": 785,
+        "end": 831,
+        "label": "rep"
+      },
+      {
+        "start": 832,
+        "end": 861,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 440,
+        "end": 484
+      },
+      {
+        "start": 485,
+        "end": 534
+      },
+      {
+        "start": 535,
+        "end": 574
+      },
+      {
+        "start": 575,
+        "end": 615
+      },
+      {
+        "start": 616,
+        "end": 661
+      },
+      {
+        "start": 662,
+        "end": 701
+      },
+      {
+        "start": 702,
+        "end": 745
+      },
+      {
+        "start": 746,
+        "end": 784
+      },
+      {
+        "start": 785,
+        "end": 831
+      }
+    ]
+  },
+  {
+    "filename": "deadlift_side_m3_9_3.mp4",
+    "exercise": "deadlift",
+    "binary_label": "111111111000",
+    "rep_count": 9,
+    "segments": [
+      {
+        "start": 0,
+        "end": 91,
+        "label": "prep"
+      },
+      {
+        "start": 92,
+        "end": 119,
+        "label": "rep"
+      },
+      {
+        "start": 120,
+        "end": 173,
+        "label": "rep"
+      },
+      {
+        "start": 174,
+        "end": 228,
+        "label": "rep"
+      },
+      {
+        "start": 229,
+        "end": 286,
+        "label": "rep"
+      },
+      {
+        "start": 287,
+        "end": 342,
+        "label": "rep"
+      },
+      {
+        "start": 343,
+        "end": 396,
+        "label": "rep"
+      },
+      {
+        "start": 397,
+        "end": 455,
+        "label": "rep"
+      },
+      {
+        "start": 456,
+        "end": 507,
+        "label": "rep"
+      },
+      {
+        "start": 508,
+        "end": 568,
+        "label": "rep"
+      },
+      {
+        "start": 569,
+        "end": 620,
+        "label": "no-rep"
+      },
+      {
+        "start": 621,
+        "end": 674,
+        "label": "no-rep"
+      },
+      {
+        "start": 675,
+        "end": 732,
+        "label": "no-rep"
+      },
+      {
+        "start": 733,
+        "end": 779,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 92,
+        "end": 119
+      },
+      {
+        "start": 120,
+        "end": 173
+      },
+      {
+        "start": 174,
+        "end": 228
+      },
+      {
+        "start": 229,
+        "end": 286
+      },
+      {
+        "start": 287,
+        "end": 342
+      },
+      {
+        "start": 343,
+        "end": 396
+      },
+      {
+        "start": 397,
+        "end": 455
+      },
+      {
+        "start": 456,
+        "end": 507
+      },
+      {
+        "start": 508,
+        "end": 568
+      }
+    ]
+  },
+  {
+    "filename": "deadlift_side_m4_8_3.mp4",
+    "exercise": "deadlift",
+    "binary_label": "11111111000",
+    "rep_count": 8,
+    "segments": [
+      {
+        "start": 0,
+        "end": 56,
+        "label": "prep"
+      },
+      {
+        "start": 57,
+        "end": 84,
+        "label": "rep"
+      },
+      {
+        "start": 85,
+        "end": 144,
+        "label": "rep"
+      },
+      {
+        "start": 145,
+        "end": 195,
+        "label": "rep"
+      },
+      {
+        "start": 196,
+        "end": 249,
+        "label": "rep"
+      },
+      {
+        "start": 250,
+        "end": 301,
+        "label": "rep"
+      },
+      {
+        "start": 302,
+        "end": 350,
+        "label": "rep"
+      },
+      {
+        "start": 351,
+        "end": 406,
+        "label": "rep"
+      },
+      {
+        "start": 407,
+        "end": 457,
+        "label": "rep"
+      },
+      {
+        "start": 458,
+        "end": 492,
+        "label": "no-rep"
+      },
+      {
+        "start": 493,
+        "end": 533,
+        "label": "no-rep"
+      },
+      {
+        "start": 534,
+        "end": 578,
+        "label": "no-rep"
+      },
+      {
+        "start": 579,
+        "end": 638,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 57,
+        "end": 84
+      },
+      {
+        "start": 85,
+        "end": 144
+      },
+      {
+        "start": 145,
+        "end": 195
+      },
+      {
+        "start": 196,
+        "end": 249
+      },
+      {
+        "start": 250,
+        "end": 301
+      },
+      {
+        "start": 302,
+        "end": 350
+      },
+      {
+        "start": 351,
+        "end": 406
+      },
+      {
+        "start": 407,
+        "end": 457
+      }
+    ]
+  },
+  {
+    "filename": "deadlift_side_w1_12_0.mp4",
+    "exercise": "deadlift",
+    "binary_label": "111111111111",
+    "rep_count": 12,
+    "segments": [
+      {
+        "start": 0,
+        "end": 75,
+        "label": "prep"
+      },
+      {
+        "start": 76,
+        "end": 109,
+        "label": "rep"
+      },
+      {
+        "start": 110,
+        "end": 158,
+        "label": "rep"
+      },
+      {
+        "start": 159,
+        "end": 209,
+        "label": "rep"
+      },
+      {
+        "start": 210,
+        "end": 263,
+        "label": "rep"
+      },
+      {
+        "start": 264,
+        "end": 314,
+        "label": "rep"
+      },
+      {
+        "start": 315,
+        "end": 366,
+        "label": "rep"
+      },
+      {
+        "start": 367,
+        "end": 421,
+        "label": "rep"
+      },
+      {
+        "start": 422,
+        "end": 477,
+        "label": "rep"
+      },
+      {
+        "start": 478,
+        "end": 529,
+        "label": "rep"
+      },
+      {
+        "start": 530,
+        "end": 587,
+        "label": "rep"
+      },
+      {
+        "start": 588,
+        "end": 647,
+        "label": "rep"
+      },
+      {
+        "start": 648,
+        "end": 700,
+        "label": "rep"
+      },
+      {
+        "start": 701,
+        "end": 721,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 76,
+        "end": 109
+      },
+      {
+        "start": 110,
+        "end": 158
+      },
+      {
+        "start": 159,
+        "end": 209
+      },
+      {
+        "start": 210,
+        "end": 263
+      },
+      {
+        "start": 264,
+        "end": 314
+      },
+      {
+        "start": 315,
+        "end": 366
+      },
+      {
+        "start": 367,
+        "end": 421
+      },
+      {
+        "start": 422,
+        "end": 477
+      },
+      {
+        "start": 478,
+        "end": 529
+      },
+      {
+        "start": 530,
+        "end": 587
+      },
+      {
+        "start": 588,
+        "end": 647
+      },
+      {
+        "start": 648,
+        "end": 700
+      }
+    ]
+  },
+  {
+    "filename": "deadlift_side_w2_9_3.mp4",
+    "exercise": "deadlift",
+    "binary_label": "111000111111",
+    "rep_count": 9,
+    "segments": [
+      {
+        "start": 0,
+        "end": 81,
+        "label": "prep"
+      },
+      {
+        "start": 82,
+        "end": 111,
+        "label": "rep"
+      },
+      {
+        "start": 112,
+        "end": 166,
+        "label": "rep"
+      },
+      {
+        "start": 167,
+        "end": 221,
+        "label": "rep"
+      },
+      {
+        "start": 222,
+        "end": 273,
+        "label": "no-rep"
+      },
+      {
+        "start": 274,
+        "end": 322,
+        "label": "no-rep"
+      },
+      {
+        "start": 323,
+        "end": 372,
+        "label": "no-rep"
+      },
+      {
+        "start": 373,
+        "end": 420,
+        "label": "rep"
+      },
+      {
+        "start": 421,
+        "end": 477,
+        "label": "rep"
+      },
+      {
+        "start": 478,
+        "end": 530,
+        "label": "rep"
+      },
+      {
+        "start": 531,
+        "end": 588,
+        "label": "rep"
+      },
+      {
+        "start": 589,
+        "end": 641,
+        "label": "rep"
+      },
+      {
+        "start": 642,
+        "end": 699,
+        "label": "rep"
+      },
+      {
+        "start": 700,
+        "end": 723,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 82,
+        "end": 111
+      },
+      {
+        "start": 112,
+        "end": 166
+      },
+      {
+        "start": 167,
+        "end": 221
+      },
+      {
+        "start": 373,
+        "end": 420
+      },
+      {
+        "start": 421,
+        "end": 477
+      },
+      {
+        "start": 478,
+        "end": 530
+      },
+      {
+        "start": 531,
+        "end": 588
+      },
+      {
+        "start": 589,
+        "end": 641
+      },
+      {
+        "start": 642,
+        "end": 699
+      }
+    ]
+  },
+  {
+    "filename": "deadlift_side_w4_7_6.mp4",
+    "exercise": "deadlift",
+    "binary_label": "1001100100111",
+    "rep_count": 7,
+    "segments": [
+      {
+        "start": 0,
+        "end": 56,
+        "label": "prep"
+      },
+      {
+        "start": 57,
+        "end": 93,
+        "label": "rep"
+      },
+      {
+        "start": 94,
+        "end": 143,
+        "label": "no-rep"
+      },
+      {
+        "start": 144,
+        "end": 194,
+        "label": "no-rep"
+      },
+      {
+        "start": 195,
+        "end": 247,
+        "label": "rep"
+      },
+      {
+        "start": 248,
+        "end": 303,
+        "label": "rep"
+      },
+      {
+        "start": 304,
+        "end": 352,
+        "label": "no-rep"
+      },
+      {
+        "start": 353,
+        "end": 410,
+        "label": "no-rep"
+      },
+      {
+        "start": 411,
+        "end": 460,
+        "label": "rep"
+      },
+      {
+        "start": 461,
+        "end": 507,
+        "label": "no-rep"
+      },
+      {
+        "start": 508,
+        "end": 554,
+        "label": "no-rep"
+      },
+      {
+        "start": 555,
+        "end": 602,
+        "label": "rep"
+      },
+      {
+        "start": 603,
+        "end": 655,
+        "label": "rep"
+      },
+      {
+        "start": 656,
+        "end": 697,
+        "label": "rep"
+      },
+      {
+        "start": 698,
+        "end": 735,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 57,
+        "end": 93
+      },
+      {
+        "start": 195,
+        "end": 247
+      },
+      {
+        "start": 248,
+        "end": 303
+      },
+      {
+        "start": 411,
+        "end": 460
+      },
+      {
+        "start": 555,
+        "end": 602
+      },
+      {
+        "start": 603,
+        "end": 655
+      },
+      {
+        "start": 656,
+        "end": 697
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_diag_m1_12_3.mp4",
+    "exercise": "double_unders",
+    "binary_label": "011111111111100",
+    "rep_count": 12,
+    "segments": [
+      {
+        "start": 0,
+        "end": 13,
+        "label": "prep"
+      },
+      {
+        "start": 14,
+        "end": 28,
+        "label": "no-rep"
+      },
+      {
+        "start": 29,
+        "end": 45,
+        "label": "rep"
+      },
+      {
+        "start": 46,
+        "end": 63,
+        "label": "rep"
+      },
+      {
+        "start": 64,
+        "end": 77,
+        "label": "rep"
+      },
+      {
+        "start": 78,
+        "end": 94,
+        "label": "rep"
+      },
+      {
+        "start": 95,
+        "end": 112,
+        "label": "rep"
+      },
+      {
+        "start": 113,
+        "end": 127,
+        "label": "rep"
+      },
+      {
+        "start": 128,
+        "end": 145,
+        "label": "rep"
+      },
+      {
+        "start": 146,
+        "end": 162,
+        "label": "rep"
+      },
+      {
+        "start": 163,
+        "end": 178,
+        "label": "rep"
+      },
+      {
+        "start": 179,
+        "end": 194,
+        "label": "rep"
+      },
+      {
+        "start": 195,
+        "end": 212,
+        "label": "rep"
+      },
+      {
+        "start": 213,
+        "end": 229,
+        "label": "rep"
+      },
+      {
+        "start": 230,
+        "end": 247,
+        "label": "no-rep"
+      },
+      {
+        "start": 248,
+        "end": 271,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 29,
+        "end": 45
+      },
+      {
+        "start": 46,
+        "end": 63
+      },
+      {
+        "start": 64,
+        "end": 77
+      },
+      {
+        "start": 78,
+        "end": 94
+      },
+      {
+        "start": 95,
+        "end": 112
+      },
+      {
+        "start": 113,
+        "end": 127
+      },
+      {
+        "start": 128,
+        "end": 145
+      },
+      {
+        "start": 146,
+        "end": 162
+      },
+      {
+        "start": 163,
+        "end": 178
+      },
+      {
+        "start": 179,
+        "end": 194
+      },
+      {
+        "start": 195,
+        "end": 212
+      },
+      {
+        "start": 213,
+        "end": 229
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_diag_m2_8_7.mp4",
+    "exercise": "double_unders",
+    "binary_label": "000000111111110",
+    "rep_count": 8,
+    "segments": [
+      {
+        "start": 0,
+        "end": 40,
+        "label": "prep"
+      },
+      {
+        "start": 41,
+        "end": 55,
+        "label": "no-rep"
+      },
+      {
+        "start": 56,
+        "end": 66,
+        "label": "no-rep"
+      },
+      {
+        "start": 67,
+        "end": 75,
+        "label": "no-rep"
+      },
+      {
+        "start": 76,
+        "end": 86,
+        "label": "no-rep"
+      },
+      {
+        "start": 87,
+        "end": 98,
+        "label": "no-rep"
+      },
+      {
+        "start": 99,
+        "end": 110,
+        "label": "no-rep"
+      },
+      {
+        "start": 111,
+        "end": 128,
+        "label": "rep"
+      },
+      {
+        "start": 129,
+        "end": 145,
+        "label": "rep"
+      },
+      {
+        "start": 146,
+        "end": 163,
+        "label": "rep"
+      },
+      {
+        "start": 164,
+        "end": 178,
+        "label": "rep"
+      },
+      {
+        "start": 179,
+        "end": 196,
+        "label": "rep"
+      },
+      {
+        "start": 197,
+        "end": 213,
+        "label": "rep"
+      },
+      {
+        "start": 214,
+        "end": 230,
+        "label": "rep"
+      },
+      {
+        "start": 231,
+        "end": 247,
+        "label": "rep"
+      },
+      {
+        "start": 248,
+        "end": 264,
+        "label": "no-rep"
+      },
+      {
+        "start": 265,
+        "end": 367,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 111,
+        "end": 128
+      },
+      {
+        "start": 129,
+        "end": 145
+      },
+      {
+        "start": 146,
+        "end": 163
+      },
+      {
+        "start": 164,
+        "end": 178
+      },
+      {
+        "start": 179,
+        "end": 196
+      },
+      {
+        "start": 197,
+        "end": 213
+      },
+      {
+        "start": 214,
+        "end": 230
+      },
+      {
+        "start": 231,
+        "end": 247
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_diag_m3_6_6.mp4",
+    "exercise": "double_unders",
+    "binary_label": "000000111111",
+    "rep_count": 6,
+    "segments": [
+      {
+        "start": 0,
+        "end": 16,
+        "label": "prep"
+      },
+      {
+        "start": 17,
+        "end": 29,
+        "label": "no-rep"
+      },
+      {
+        "start": 30,
+        "end": 45,
+        "label": "no-rep"
+      },
+      {
+        "start": 46,
+        "end": 60,
+        "label": "no-rep"
+      },
+      {
+        "start": 61,
+        "end": 74,
+        "label": "no-rep"
+      },
+      {
+        "start": 75,
+        "end": 88,
+        "label": "no-rep"
+      },
+      {
+        "start": 89,
+        "end": 104,
+        "label": "no-rep"
+      },
+      {
+        "start": 105,
+        "end": 121,
+        "label": "rep"
+      },
+      {
+        "start": 122,
+        "end": 138,
+        "label": "rep"
+      },
+      {
+        "start": 139,
+        "end": 154,
+        "label": "rep"
+      },
+      {
+        "start": 155,
+        "end": 170,
+        "label": "rep"
+      },
+      {
+        "start": 171,
+        "end": 188,
+        "label": "rep"
+      },
+      {
+        "start": 189,
+        "end": 204,
+        "label": "rep"
+      },
+      {
+        "start": 205,
+        "end": 241,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 105,
+        "end": 121
+      },
+      {
+        "start": 122,
+        "end": 138
+      },
+      {
+        "start": 139,
+        "end": 154
+      },
+      {
+        "start": 155,
+        "end": 170
+      },
+      {
+        "start": 171,
+        "end": 188
+      },
+      {
+        "start": 189,
+        "end": 204
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_diag_m4_14_3.mp4",
+    "exercise": "double_unders",
+    "binary_label": "00111111111111110",
+    "rep_count": 14,
+    "segments": [
+      {
+        "start": 0,
+        "end": 28,
+        "label": "prep"
+      },
+      {
+        "start": 29,
+        "end": 48,
+        "label": "no-rep"
+      },
+      {
+        "start": 49,
+        "end": 64,
+        "label": "no-rep"
+      },
+      {
+        "start": 65,
+        "end": 80,
+        "label": "rep"
+      },
+      {
+        "start": 81,
+        "end": 97,
+        "label": "rep"
+      },
+      {
+        "start": 98,
+        "end": 114,
+        "label": "rep"
+      },
+      {
+        "start": 115,
+        "end": 130,
+        "label": "rep"
+      },
+      {
+        "start": 131,
+        "end": 146,
+        "label": "rep"
+      },
+      {
+        "start": 147,
+        "end": 162,
+        "label": "rep"
+      },
+      {
+        "start": 163,
+        "end": 178,
+        "label": "rep"
+      },
+      {
+        "start": 179,
+        "end": 194,
+        "label": "rep"
+      },
+      {
+        "start": 195,
+        "end": 210,
+        "label": "rep"
+      },
+      {
+        "start": 211,
+        "end": 226,
+        "label": "rep"
+      },
+      {
+        "start": 227,
+        "end": 243,
+        "label": "rep"
+      },
+      {
+        "start": 244,
+        "end": 259,
+        "label": "rep"
+      },
+      {
+        "start": 260,
+        "end": 276,
+        "label": "rep"
+      },
+      {
+        "start": 277,
+        "end": 293,
+        "label": "rep"
+      },
+      {
+        "start": 294,
+        "end": 306,
+        "label": "no-rep"
+      },
+      {
+        "start": 307,
+        "end": 334,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 65,
+        "end": 80
+      },
+      {
+        "start": 81,
+        "end": 97
+      },
+      {
+        "start": 98,
+        "end": 114
+      },
+      {
+        "start": 115,
+        "end": 130
+      },
+      {
+        "start": 131,
+        "end": 146
+      },
+      {
+        "start": 147,
+        "end": 162
+      },
+      {
+        "start": 163,
+        "end": 178
+      },
+      {
+        "start": 179,
+        "end": 194
+      },
+      {
+        "start": 195,
+        "end": 210
+      },
+      {
+        "start": 211,
+        "end": 226
+      },
+      {
+        "start": 227,
+        "end": 243
+      },
+      {
+        "start": 244,
+        "end": 259
+      },
+      {
+        "start": 260,
+        "end": 276
+      },
+      {
+        "start": 277,
+        "end": 293
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_diag_w2_6_4.mp4",
+    "exercise": "double_unders",
+    "binary_label": "1100110110",
+    "rep_count": 6,
+    "segments": [
+      {
+        "start": 0,
+        "end": 33,
+        "label": "prep"
+      },
+      {
+        "start": 34,
+        "end": 55,
+        "label": "rep"
+      },
+      {
+        "start": 56,
+        "end": 72,
+        "label": "rep"
+      },
+      {
+        "start": 73,
+        "end": 88,
+        "label": "no-rep"
+      },
+      {
+        "start": 89,
+        "end": 103,
+        "label": "no-rep"
+      },
+      {
+        "start": 104,
+        "end": 120,
+        "label": "rep"
+      },
+      {
+        "start": 121,
+        "end": 137,
+        "label": "rep"
+      },
+      {
+        "start": 138,
+        "end": 154,
+        "label": "no-rep"
+      },
+      {
+        "start": 155,
+        "end": 169,
+        "label": "rep"
+      },
+      {
+        "start": 170,
+        "end": 186,
+        "label": "rep"
+      },
+      {
+        "start": 187,
+        "end": 202,
+        "label": "no-rep"
+      },
+      {
+        "start": 203,
+        "end": 254,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 34,
+        "end": 55
+      },
+      {
+        "start": 56,
+        "end": 72
+      },
+      {
+        "start": 104,
+        "end": 120
+      },
+      {
+        "start": 121,
+        "end": 137
+      },
+      {
+        "start": 155,
+        "end": 169
+      },
+      {
+        "start": 170,
+        "end": 186
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_diag_w3_8_6.mp4",
+    "exercise": "double_unders",
+    "binary_label": "00000011111111",
+    "rep_count": 8,
+    "segments": [
+      {
+        "start": 0,
+        "end": 31,
+        "label": "prep"
+      },
+      {
+        "start": 32,
+        "end": 47,
+        "label": "no-rep"
+      },
+      {
+        "start": 48,
+        "end": 63,
+        "label": "no-rep"
+      },
+      {
+        "start": 64,
+        "end": 73,
+        "label": "no-rep"
+      },
+      {
+        "start": 74,
+        "end": 88,
+        "label": "no-rep"
+      },
+      {
+        "start": 89,
+        "end": 100,
+        "label": "no-rep"
+      },
+      {
+        "start": 101,
+        "end": 116,
+        "label": "no-rep"
+      },
+      {
+        "start": 117,
+        "end": 131,
+        "label": "rep"
+      },
+      {
+        "start": 132,
+        "end": 150,
+        "label": "rep"
+      },
+      {
+        "start": 151,
+        "end": 165,
+        "label": "rep"
+      },
+      {
+        "start": 166,
+        "end": 183,
+        "label": "rep"
+      },
+      {
+        "start": 184,
+        "end": 201,
+        "label": "rep"
+      },
+      {
+        "start": 202,
+        "end": 219,
+        "label": "rep"
+      },
+      {
+        "start": 220,
+        "end": 234,
+        "label": "rep"
+      },
+      {
+        "start": 235,
+        "end": 250,
+        "label": "rep"
+      },
+      {
+        "start": 251,
+        "end": 281,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 117,
+        "end": 131
+      },
+      {
+        "start": 132,
+        "end": 150
+      },
+      {
+        "start": 151,
+        "end": 165
+      },
+      {
+        "start": 166,
+        "end": 183
+      },
+      {
+        "start": 184,
+        "end": 201
+      },
+      {
+        "start": 202,
+        "end": 219
+      },
+      {
+        "start": 220,
+        "end": 234
+      },
+      {
+        "start": 235,
+        "end": 250
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_diag_w4_15_10.mp4",
+    "exercise": "double_unders",
+    "binary_label": "0000111111111111000011001",
+    "rep_count": 15,
+    "segments": [
+      {
+        "start": 0,
+        "end": 0,
+        "label": "prep"
+      },
+      {
+        "start": 1,
+        "end": 9,
+        "label": "no-rep"
+      },
+      {
+        "start": 10,
+        "end": 25,
+        "label": "no-rep"
+      },
+      {
+        "start": 26,
+        "end": 38,
+        "label": "no-rep"
+      },
+      {
+        "start": 39,
+        "end": 54,
+        "label": "no-rep"
+      },
+      {
+        "start": 55,
+        "end": 71,
+        "label": "rep"
+      },
+      {
+        "start": 72,
+        "end": 87,
+        "label": "rep"
+      },
+      {
+        "start": 88,
+        "end": 105,
+        "label": "rep"
+      },
+      {
+        "start": 106,
+        "end": 123,
+        "label": "rep"
+      },
+      {
+        "start": 124,
+        "end": 140,
+        "label": "rep"
+      },
+      {
+        "start": 141,
+        "end": 155,
+        "label": "rep"
+      },
+      {
+        "start": 156,
+        "end": 174,
+        "label": "rep"
+      },
+      {
+        "start": 175,
+        "end": 190,
+        "label": "rep"
+      },
+      {
+        "start": 191,
+        "end": 207,
+        "label": "rep"
+      },
+      {
+        "start": 208,
+        "end": 224,
+        "label": "rep"
+      },
+      {
+        "start": 225,
+        "end": 242,
+        "label": "rep"
+      },
+      {
+        "start": 243,
+        "end": 259,
+        "label": "rep"
+      },
+      {
+        "start": 260,
+        "end": 276,
+        "label": "no-rep"
+      },
+      {
+        "start": 277,
+        "end": 291,
+        "label": "no-rep"
+      },
+      {
+        "start": 292,
+        "end": 305,
+        "label": "no-rep"
+      },
+      {
+        "start": 306,
+        "end": 322,
+        "label": "no-rep"
+      },
+      {
+        "start": 323,
+        "end": 341,
+        "label": "rep"
+      },
+      {
+        "start": 342,
+        "end": 357,
+        "label": "rep"
+      },
+      {
+        "start": 358,
+        "end": 376,
+        "label": "no-rep"
+      },
+      {
+        "start": 377,
+        "end": 390,
+        "label": "no-rep"
+      },
+      {
+        "start": 391,
+        "end": 406,
+        "label": "rep"
+      },
+      {
+        "start": 407,
+        "end": 447,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 55,
+        "end": 71
+      },
+      {
+        "start": 72,
+        "end": 87
+      },
+      {
+        "start": 88,
+        "end": 105
+      },
+      {
+        "start": 106,
+        "end": 123
+      },
+      {
+        "start": 124,
+        "end": 140
+      },
+      {
+        "start": 141,
+        "end": 155
+      },
+      {
+        "start": 156,
+        "end": 174
+      },
+      {
+        "start": 175,
+        "end": 190
+      },
+      {
+        "start": 191,
+        "end": 207
+      },
+      {
+        "start": 208,
+        "end": 224
+      },
+      {
+        "start": 225,
+        "end": 242
+      },
+      {
+        "start": 243,
+        "end": 259
+      },
+      {
+        "start": 323,
+        "end": 341
+      },
+      {
+        "start": 342,
+        "end": 357
+      },
+      {
+        "start": 391,
+        "end": 406
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_front_m1_9_1.mp4",
+    "exercise": "double_unders",
+    "binary_label": "0111111111",
+    "rep_count": 9,
+    "segments": [
+      {
+        "start": 0,
+        "end": 20,
+        "label": "prep"
+      },
+      {
+        "start": 21,
+        "end": 37,
+        "label": "no-rep"
+      },
+      {
+        "start": 38,
+        "end": 56,
+        "label": "rep"
+      },
+      {
+        "start": 57,
+        "end": 73,
+        "label": "rep"
+      },
+      {
+        "start": 74,
+        "end": 90,
+        "label": "rep"
+      },
+      {
+        "start": 91,
+        "end": 106,
+        "label": "rep"
+      },
+      {
+        "start": 107,
+        "end": 124,
+        "label": "rep"
+      },
+      {
+        "start": 125,
+        "end": 143,
+        "label": "rep"
+      },
+      {
+        "start": 144,
+        "end": 158,
+        "label": "rep"
+      },
+      {
+        "start": 159,
+        "end": 173,
+        "label": "rep"
+      },
+      {
+        "start": 174,
+        "end": 187,
+        "label": "rep"
+      },
+      {
+        "start": 188,
+        "end": 214,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 38,
+        "end": 56
+      },
+      {
+        "start": 57,
+        "end": 73
+      },
+      {
+        "start": 74,
+        "end": 90
+      },
+      {
+        "start": 91,
+        "end": 106
+      },
+      {
+        "start": 107,
+        "end": 124
+      },
+      {
+        "start": 125,
+        "end": 143
+      },
+      {
+        "start": 144,
+        "end": 158
+      },
+      {
+        "start": 159,
+        "end": 173
+      },
+      {
+        "start": 174,
+        "end": 187
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_front_m2_12_2.mp4",
+    "exercise": "double_unders",
+    "binary_label": "01111111111110",
+    "rep_count": 12,
+    "segments": [
+      {
+        "start": 0,
+        "end": 20,
+        "label": "prep"
+      },
+      {
+        "start": 21,
+        "end": 39,
+        "label": "no-rep"
+      },
+      {
+        "start": 40,
+        "end": 55,
+        "label": "rep"
+      },
+      {
+        "start": 56,
+        "end": 71,
+        "label": "rep"
+      },
+      {
+        "start": 72,
+        "end": 87,
+        "label": "rep"
+      },
+      {
+        "start": 88,
+        "end": 105,
+        "label": "rep"
+      },
+      {
+        "start": 106,
+        "end": 122,
+        "label": "rep"
+      },
+      {
+        "start": 123,
+        "end": 139,
+        "label": "rep"
+      },
+      {
+        "start": 140,
+        "end": 155,
+        "label": "rep"
+      },
+      {
+        "start": 156,
+        "end": 172,
+        "label": "rep"
+      },
+      {
+        "start": 173,
+        "end": 186,
+        "label": "rep"
+      },
+      {
+        "start": 187,
+        "end": 202,
+        "label": "rep"
+      },
+      {
+        "start": 203,
+        "end": 219,
+        "label": "rep"
+      },
+      {
+        "start": 220,
+        "end": 234,
+        "label": "rep"
+      },
+      {
+        "start": 235,
+        "end": 248,
+        "label": "no-rep"
+      },
+      {
+        "start": 249,
+        "end": 270,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 40,
+        "end": 55
+      },
+      {
+        "start": 56,
+        "end": 71
+      },
+      {
+        "start": 72,
+        "end": 87
+      },
+      {
+        "start": 88,
+        "end": 105
+      },
+      {
+        "start": 106,
+        "end": 122
+      },
+      {
+        "start": 123,
+        "end": 139
+      },
+      {
+        "start": 140,
+        "end": 155
+      },
+      {
+        "start": 156,
+        "end": 172
+      },
+      {
+        "start": 173,
+        "end": 186
+      },
+      {
+        "start": 187,
+        "end": 202
+      },
+      {
+        "start": 203,
+        "end": 219
+      },
+      {
+        "start": 220,
+        "end": 234
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_front_m3_12_2.mp4",
+    "exercise": "double_unders",
+    "binary_label": "01111111111110",
+    "rep_count": 12,
+    "segments": [
+      {
+        "start": 0,
+        "end": 34,
+        "label": "prep"
+      },
+      {
+        "start": 35,
+        "end": 52,
+        "label": "no-rep"
+      },
+      {
+        "start": 53,
+        "end": 69,
+        "label": "rep"
+      },
+      {
+        "start": 70,
+        "end": 87,
+        "label": "rep"
+      },
+      {
+        "start": 88,
+        "end": 103,
+        "label": "rep"
+      },
+      {
+        "start": 104,
+        "end": 119,
+        "label": "rep"
+      },
+      {
+        "start": 120,
+        "end": 134,
+        "label": "rep"
+      },
+      {
+        "start": 135,
+        "end": 150,
+        "label": "rep"
+      },
+      {
+        "start": 151,
+        "end": 165,
+        "label": "rep"
+      },
+      {
+        "start": 166,
+        "end": 182,
+        "label": "rep"
+      },
+      {
+        "start": 183,
+        "end": 198,
+        "label": "rep"
+      },
+      {
+        "start": 199,
+        "end": 214,
+        "label": "rep"
+      },
+      {
+        "start": 215,
+        "end": 230,
+        "label": "rep"
+      },
+      {
+        "start": 231,
+        "end": 245,
+        "label": "rep"
+      },
+      {
+        "start": 246,
+        "end": 262,
+        "label": "no-rep"
+      },
+      {
+        "start": 263,
+        "end": 276,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 53,
+        "end": 69
+      },
+      {
+        "start": 70,
+        "end": 87
+      },
+      {
+        "start": 88,
+        "end": 103
+      },
+      {
+        "start": 104,
+        "end": 119
+      },
+      {
+        "start": 120,
+        "end": 134
+      },
+      {
+        "start": 135,
+        "end": 150
+      },
+      {
+        "start": 151,
+        "end": 165
+      },
+      {
+        "start": 166,
+        "end": 182
+      },
+      {
+        "start": 183,
+        "end": 198
+      },
+      {
+        "start": 199,
+        "end": 214
+      },
+      {
+        "start": 215,
+        "end": 230
+      },
+      {
+        "start": 231,
+        "end": 245
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_front_m4_14_2.mp4",
+    "exercise": "double_unders",
+    "binary_label": "0111111111111110",
+    "rep_count": 14,
+    "segments": [
+      {
+        "start": 0,
+        "end": 36,
+        "label": "prep"
+      },
+      {
+        "start": 37,
+        "end": 55,
+        "label": "no-rep"
+      },
+      {
+        "start": 56,
+        "end": 73,
+        "label": "rep"
+      },
+      {
+        "start": 74,
+        "end": 88,
+        "label": "rep"
+      },
+      {
+        "start": 89,
+        "end": 106,
+        "label": "rep"
+      },
+      {
+        "start": 107,
+        "end": 121,
+        "label": "rep"
+      },
+      {
+        "start": 122,
+        "end": 137,
+        "label": "rep"
+      },
+      {
+        "start": 138,
+        "end": 155,
+        "label": "rep"
+      },
+      {
+        "start": 156,
+        "end": 171,
+        "label": "rep"
+      },
+      {
+        "start": 172,
+        "end": 187,
+        "label": "rep"
+      },
+      {
+        "start": 188,
+        "end": 204,
+        "label": "rep"
+      },
+      {
+        "start": 205,
+        "end": 221,
+        "label": "rep"
+      },
+      {
+        "start": 222,
+        "end": 238,
+        "label": "rep"
+      },
+      {
+        "start": 239,
+        "end": 254,
+        "label": "rep"
+      },
+      {
+        "start": 255,
+        "end": 271,
+        "label": "rep"
+      },
+      {
+        "start": 272,
+        "end": 288,
+        "label": "rep"
+      },
+      {
+        "start": 289,
+        "end": 302,
+        "label": "no-rep"
+      },
+      {
+        "start": 303,
+        "end": 341,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 56,
+        "end": 73
+      },
+      {
+        "start": 74,
+        "end": 88
+      },
+      {
+        "start": 89,
+        "end": 106
+      },
+      {
+        "start": 107,
+        "end": 121
+      },
+      {
+        "start": 122,
+        "end": 137
+      },
+      {
+        "start": 138,
+        "end": 155
+      },
+      {
+        "start": 156,
+        "end": 171
+      },
+      {
+        "start": 172,
+        "end": 187
+      },
+      {
+        "start": 188,
+        "end": 204
+      },
+      {
+        "start": 205,
+        "end": 221
+      },
+      {
+        "start": 222,
+        "end": 238
+      },
+      {
+        "start": 239,
+        "end": 254
+      },
+      {
+        "start": 255,
+        "end": 271
+      },
+      {
+        "start": 272,
+        "end": 288
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_front_w2_13_1.mp4",
+    "exercise": "double_unders",
+    "binary_label": "11111111111110",
+    "rep_count": 13,
+    "segments": [
+      {
+        "start": 0,
+        "end": 23,
+        "label": "prep"
+      },
+      {
+        "start": 24,
+        "end": 41,
+        "label": "rep"
+      },
+      {
+        "start": 42,
+        "end": 58,
+        "label": "rep"
+      },
+      {
+        "start": 59,
+        "end": 74,
+        "label": "rep"
+      },
+      {
+        "start": 75,
+        "end": 89,
+        "label": "rep"
+      },
+      {
+        "start": 90,
+        "end": 106,
+        "label": "rep"
+      },
+      {
+        "start": 107,
+        "end": 121,
+        "label": "rep"
+      },
+      {
+        "start": 122,
+        "end": 137,
+        "label": "rep"
+      },
+      {
+        "start": 138,
+        "end": 153,
+        "label": "rep"
+      },
+      {
+        "start": 154,
+        "end": 169,
+        "label": "rep"
+      },
+      {
+        "start": 170,
+        "end": 185,
+        "label": "rep"
+      },
+      {
+        "start": 186,
+        "end": 200,
+        "label": "rep"
+      },
+      {
+        "start": 201,
+        "end": 216,
+        "label": "rep"
+      },
+      {
+        "start": 217,
+        "end": 233,
+        "label": "rep"
+      },
+      {
+        "start": 234,
+        "end": 246,
+        "label": "no-rep"
+      },
+      {
+        "start": 247,
+        "end": 275,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 24,
+        "end": 41
+      },
+      {
+        "start": 42,
+        "end": 58
+      },
+      {
+        "start": 59,
+        "end": 74
+      },
+      {
+        "start": 75,
+        "end": 89
+      },
+      {
+        "start": 90,
+        "end": 106
+      },
+      {
+        "start": 107,
+        "end": 121
+      },
+      {
+        "start": 122,
+        "end": 137
+      },
+      {
+        "start": 138,
+        "end": 153
+      },
+      {
+        "start": 154,
+        "end": 169
+      },
+      {
+        "start": 170,
+        "end": 185
+      },
+      {
+        "start": 186,
+        "end": 200
+      },
+      {
+        "start": 201,
+        "end": 216
+      },
+      {
+        "start": 217,
+        "end": 233
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_front_w3_7_8.mp4",
+    "exercise": "double_unders",
+    "binary_label": "000111100001110",
+    "rep_count": 7,
+    "segments": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "prep"
+      },
+      {
+        "start": 13,
+        "end": 25,
+        "label": "no-rep"
+      },
+      {
+        "start": 26,
+        "end": 39,
+        "label": "no-rep"
+      },
+      {
+        "start": 40,
+        "end": 54,
+        "label": "no-rep"
+      },
+      {
+        "start": 55,
+        "end": 70,
+        "label": "rep"
+      },
+      {
+        "start": 71,
+        "end": 87,
+        "label": "rep"
+      },
+      {
+        "start": 88,
+        "end": 106,
+        "label": "rep"
+      },
+      {
+        "start": 107,
+        "end": 123,
+        "label": "rep"
+      },
+      {
+        "start": 124,
+        "end": 141,
+        "label": "no-rep"
+      },
+      {
+        "start": 142,
+        "end": 155,
+        "label": "no-rep"
+      },
+      {
+        "start": 156,
+        "end": 169,
+        "label": "no-rep"
+      },
+      {
+        "start": 170,
+        "end": 182,
+        "label": "no-rep"
+      },
+      {
+        "start": 183,
+        "end": 198,
+        "label": "rep"
+      },
+      {
+        "start": 199,
+        "end": 216,
+        "label": "rep"
+      },
+      {
+        "start": 217,
+        "end": 233,
+        "label": "rep"
+      },
+      {
+        "start": 234,
+        "end": 249,
+        "label": "no-rep"
+      },
+      {
+        "start": 250,
+        "end": 276,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 55,
+        "end": 70
+      },
+      {
+        "start": 71,
+        "end": 87
+      },
+      {
+        "start": 88,
+        "end": 106
+      },
+      {
+        "start": 107,
+        "end": 123
+      },
+      {
+        "start": 183,
+        "end": 198
+      },
+      {
+        "start": 199,
+        "end": 216
+      },
+      {
+        "start": 217,
+        "end": 233
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_front_w4_12_3.mp4",
+    "exercise": "double_unders",
+    "binary_label": "011111111111001",
+    "rep_count": 12,
+    "segments": [
+      {
+        "start": 0,
+        "end": 33,
+        "label": "prep"
+      },
+      {
+        "start": 34,
+        "end": 51,
+        "label": "no-rep"
+      },
+      {
+        "start": 52,
+        "end": 69,
+        "label": "rep"
+      },
+      {
+        "start": 70,
+        "end": 85,
+        "label": "rep"
+      },
+      {
+        "start": 86,
+        "end": 103,
+        "label": "rep"
+      },
+      {
+        "start": 104,
+        "end": 120,
+        "label": "rep"
+      },
+      {
+        "start": 121,
+        "end": 136,
+        "label": "rep"
+      },
+      {
+        "start": 137,
+        "end": 154,
+        "label": "rep"
+      },
+      {
+        "start": 155,
+        "end": 171,
+        "label": "rep"
+      },
+      {
+        "start": 172,
+        "end": 188,
+        "label": "rep"
+      },
+      {
+        "start": 189,
+        "end": 206,
+        "label": "rep"
+      },
+      {
+        "start": 207,
+        "end": 222,
+        "label": "rep"
+      },
+      {
+        "start": 223,
+        "end": 239,
+        "label": "rep"
+      },
+      {
+        "start": 240,
+        "end": 257,
+        "label": "no-rep"
+      },
+      {
+        "start": 258,
+        "end": 273,
+        "label": "no-rep"
+      },
+      {
+        "start": 274,
+        "end": 290,
+        "label": "rep"
+      },
+      {
+        "start": 291,
+        "end": 328,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 52,
+        "end": 69
+      },
+      {
+        "start": 70,
+        "end": 85
+      },
+      {
+        "start": 86,
+        "end": 103
+      },
+      {
+        "start": 104,
+        "end": 120
+      },
+      {
+        "start": 121,
+        "end": 136
+      },
+      {
+        "start": 137,
+        "end": 154
+      },
+      {
+        "start": 155,
+        "end": 171
+      },
+      {
+        "start": 172,
+        "end": 188
+      },
+      {
+        "start": 189,
+        "end": 206
+      },
+      {
+        "start": 207,
+        "end": 222
+      },
+      {
+        "start": 223,
+        "end": 239
+      },
+      {
+        "start": 274,
+        "end": 290
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_side_m1_13_2.mp4",
+    "exercise": "double_unders",
+    "binary_label": "011111111111110",
+    "rep_count": 13,
+    "segments": [
+      {
+        "start": 0,
+        "end": 17,
+        "label": "prep"
+      },
+      {
+        "start": 18,
+        "end": 37,
+        "label": "no-rep"
+      },
+      {
+        "start": 38,
+        "end": 54,
+        "label": "rep"
+      },
+      {
+        "start": 55,
+        "end": 71,
+        "label": "rep"
+      },
+      {
+        "start": 72,
+        "end": 88,
+        "label": "rep"
+      },
+      {
+        "start": 89,
+        "end": 105,
+        "label": "rep"
+      },
+      {
+        "start": 106,
+        "end": 121,
+        "label": "rep"
+      },
+      {
+        "start": 122,
+        "end": 140,
+        "label": "rep"
+      },
+      {
+        "start": 141,
+        "end": 157,
+        "label": "rep"
+      },
+      {
+        "start": 158,
+        "end": 173,
+        "label": "rep"
+      },
+      {
+        "start": 174,
+        "end": 190,
+        "label": "rep"
+      },
+      {
+        "start": 191,
+        "end": 207,
+        "label": "rep"
+      },
+      {
+        "start": 208,
+        "end": 223,
+        "label": "rep"
+      },
+      {
+        "start": 224,
+        "end": 241,
+        "label": "rep"
+      },
+      {
+        "start": 242,
+        "end": 259,
+        "label": "rep"
+      },
+      {
+        "start": 260,
+        "end": 274,
+        "label": "no-rep"
+      },
+      {
+        "start": 275,
+        "end": 317,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 38,
+        "end": 54
+      },
+      {
+        "start": 55,
+        "end": 71
+      },
+      {
+        "start": 72,
+        "end": 88
+      },
+      {
+        "start": 89,
+        "end": 105
+      },
+      {
+        "start": 106,
+        "end": 121
+      },
+      {
+        "start": 122,
+        "end": 140
+      },
+      {
+        "start": 141,
+        "end": 157
+      },
+      {
+        "start": 158,
+        "end": 173
+      },
+      {
+        "start": 174,
+        "end": 190
+      },
+      {
+        "start": 191,
+        "end": 207
+      },
+      {
+        "start": 208,
+        "end": 223
+      },
+      {
+        "start": 224,
+        "end": 241
+      },
+      {
+        "start": 242,
+        "end": 259
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_side_m2_17_2.mp4",
+    "exercise": "double_unders",
+    "binary_label": "0111111111111111101",
+    "rep_count": 17,
+    "segments": [
+      {
+        "start": 0,
+        "end": 15,
+        "label": "prep"
+      },
+      {
+        "start": 16,
+        "end": 33,
+        "label": "no-rep"
+      },
+      {
+        "start": 34,
+        "end": 51,
+        "label": "rep"
+      },
+      {
+        "start": 52,
+        "end": 68,
+        "label": "rep"
+      },
+      {
+        "start": 69,
+        "end": 88,
+        "label": "rep"
+      },
+      {
+        "start": 89,
+        "end": 105,
+        "label": "rep"
+      },
+      {
+        "start": 106,
+        "end": 122,
+        "label": "rep"
+      },
+      {
+        "start": 123,
+        "end": 140,
+        "label": "rep"
+      },
+      {
+        "start": 141,
+        "end": 157,
+        "label": "rep"
+      },
+      {
+        "start": 158,
+        "end": 175,
+        "label": "rep"
+      },
+      {
+        "start": 176,
+        "end": 192,
+        "label": "rep"
+      },
+      {
+        "start": 193,
+        "end": 209,
+        "label": "rep"
+      },
+      {
+        "start": 210,
+        "end": 227,
+        "label": "rep"
+      },
+      {
+        "start": 228,
+        "end": 244,
+        "label": "rep"
+      },
+      {
+        "start": 245,
+        "end": 262,
+        "label": "rep"
+      },
+      {
+        "start": 263,
+        "end": 279,
+        "label": "rep"
+      },
+      {
+        "start": 280,
+        "end": 296,
+        "label": "rep"
+      },
+      {
+        "start": 297,
+        "end": 313,
+        "label": "rep"
+      },
+      {
+        "start": 314,
+        "end": 330,
+        "label": "no-rep"
+      },
+      {
+        "start": 331,
+        "end": 347,
+        "label": "rep"
+      },
+      {
+        "start": 348,
+        "end": 388,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 34,
+        "end": 51
+      },
+      {
+        "start": 52,
+        "end": 68
+      },
+      {
+        "start": 69,
+        "end": 88
+      },
+      {
+        "start": 89,
+        "end": 105
+      },
+      {
+        "start": 106,
+        "end": 122
+      },
+      {
+        "start": 123,
+        "end": 140
+      },
+      {
+        "start": 141,
+        "end": 157
+      },
+      {
+        "start": 158,
+        "end": 175
+      },
+      {
+        "start": 176,
+        "end": 192
+      },
+      {
+        "start": 193,
+        "end": 209
+      },
+      {
+        "start": 210,
+        "end": 227
+      },
+      {
+        "start": 228,
+        "end": 244
+      },
+      {
+        "start": 245,
+        "end": 262
+      },
+      {
+        "start": 263,
+        "end": 279
+      },
+      {
+        "start": 280,
+        "end": 296
+      },
+      {
+        "start": 297,
+        "end": 313
+      },
+      {
+        "start": 331,
+        "end": 347
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_side_m3_15_4.mp4",
+    "exercise": "double_unders",
+    "binary_label": "0111101111100111111",
+    "rep_count": 15,
+    "segments": [
+      {
+        "start": 0,
+        "end": 23,
+        "label": "prep"
+      },
+      {
+        "start": 24,
+        "end": 41,
+        "label": "no-rep"
+      },
+      {
+        "start": 42,
+        "end": 57,
+        "label": "rep"
+      },
+      {
+        "start": 58,
+        "end": 74,
+        "label": "rep"
+      },
+      {
+        "start": 75,
+        "end": 91,
+        "label": "rep"
+      },
+      {
+        "start": 92,
+        "end": 108,
+        "label": "rep"
+      },
+      {
+        "start": 109,
+        "end": 125,
+        "label": "no-rep"
+      },
+      {
+        "start": 126,
+        "end": 139,
+        "label": "rep"
+      },
+      {
+        "start": 140,
+        "end": 157,
+        "label": "rep"
+      },
+      {
+        "start": 158,
+        "end": 175,
+        "label": "rep"
+      },
+      {
+        "start": 176,
+        "end": 191,
+        "label": "rep"
+      },
+      {
+        "start": 192,
+        "end": 208,
+        "label": "rep"
+      },
+      {
+        "start": 209,
+        "end": 225,
+        "label": "no-rep"
+      },
+      {
+        "start": 226,
+        "end": 244,
+        "label": "no-rep"
+      },
+      {
+        "start": 245,
+        "end": 260,
+        "label": "rep"
+      },
+      {
+        "start": 261,
+        "end": 276,
+        "label": "rep"
+      },
+      {
+        "start": 277,
+        "end": 293,
+        "label": "rep"
+      },
+      {
+        "start": 294,
+        "end": 310,
+        "label": "rep"
+      },
+      {
+        "start": 311,
+        "end": 326,
+        "label": "rep"
+      },
+      {
+        "start": 327,
+        "end": 342,
+        "label": "rep"
+      },
+      {
+        "start": 343,
+        "end": 379,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 42,
+        "end": 57
+      },
+      {
+        "start": 58,
+        "end": 74
+      },
+      {
+        "start": 75,
+        "end": 91
+      },
+      {
+        "start": 92,
+        "end": 108
+      },
+      {
+        "start": 126,
+        "end": 139
+      },
+      {
+        "start": 140,
+        "end": 157
+      },
+      {
+        "start": 158,
+        "end": 175
+      },
+      {
+        "start": 176,
+        "end": 191
+      },
+      {
+        "start": 192,
+        "end": 208
+      },
+      {
+        "start": 245,
+        "end": 260
+      },
+      {
+        "start": 261,
+        "end": 276
+      },
+      {
+        "start": 277,
+        "end": 293
+      },
+      {
+        "start": 294,
+        "end": 310
+      },
+      {
+        "start": 311,
+        "end": 326
+      },
+      {
+        "start": 327,
+        "end": 342
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_side_m4_11_7.mp4",
+    "exercise": "double_unders",
+    "binary_label": "011111111000001110",
+    "rep_count": 11,
+    "segments": [
+      {
+        "start": 0,
+        "end": 19,
+        "label": "prep"
+      },
+      {
+        "start": 20,
+        "end": 39,
+        "label": "no-rep"
+      },
+      {
+        "start": 40,
+        "end": 55,
+        "label": "rep"
+      },
+      {
+        "start": 56,
+        "end": 72,
+        "label": "rep"
+      },
+      {
+        "start": 73,
+        "end": 88,
+        "label": "rep"
+      },
+      {
+        "start": 89,
+        "end": 104,
+        "label": "rep"
+      },
+      {
+        "start": 105,
+        "end": 120,
+        "label": "rep"
+      },
+      {
+        "start": 121,
+        "end": 136,
+        "label": "rep"
+      },
+      {
+        "start": 137,
+        "end": 152,
+        "label": "rep"
+      },
+      {
+        "start": 153,
+        "end": 169,
+        "label": "rep"
+      },
+      {
+        "start": 170,
+        "end": 187,
+        "label": "no-rep"
+      },
+      {
+        "start": 188,
+        "end": 201,
+        "label": "no-rep"
+      },
+      {
+        "start": 202,
+        "end": 215,
+        "label": "no-rep"
+      },
+      {
+        "start": 216,
+        "end": 232,
+        "label": "no-rep"
+      },
+      {
+        "start": 233,
+        "end": 318,
+        "label": "no-rep"
+      },
+      {
+        "start": 319,
+        "end": 333,
+        "label": "rep"
+      },
+      {
+        "start": 334,
+        "end": 349,
+        "label": "rep"
+      },
+      {
+        "start": 350,
+        "end": 365,
+        "label": "rep"
+      },
+      {
+        "start": 366,
+        "end": 381,
+        "label": "no-rep"
+      },
+      {
+        "start": 382,
+        "end": 452,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 40,
+        "end": 55
+      },
+      {
+        "start": 56,
+        "end": 72
+      },
+      {
+        "start": 73,
+        "end": 88
+      },
+      {
+        "start": 89,
+        "end": 104
+      },
+      {
+        "start": 105,
+        "end": 120
+      },
+      {
+        "start": 121,
+        "end": 136
+      },
+      {
+        "start": 137,
+        "end": 152
+      },
+      {
+        "start": 153,
+        "end": 169
+      },
+      {
+        "start": 319,
+        "end": 333
+      },
+      {
+        "start": 334,
+        "end": 349
+      },
+      {
+        "start": 350,
+        "end": 365
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_side_w2_10_3.mp4",
+    "exercise": "double_unders",
+    "binary_label": "1111111001110",
+    "rep_count": 10,
+    "segments": [
+      {
+        "start": 0,
+        "end": 15,
+        "label": "prep"
+      },
+      {
+        "start": 16,
+        "end": 36,
+        "label": "rep"
+      },
+      {
+        "start": 37,
+        "end": 52,
+        "label": "rep"
+      },
+      {
+        "start": 53,
+        "end": 68,
+        "label": "rep"
+      },
+      {
+        "start": 69,
+        "end": 83,
+        "label": "rep"
+      },
+      {
+        "start": 84,
+        "end": 98,
+        "label": "rep"
+      },
+      {
+        "start": 99,
+        "end": 113,
+        "label": "rep"
+      },
+      {
+        "start": 114,
+        "end": 128,
+        "label": "rep"
+      },
+      {
+        "start": 129,
+        "end": 144,
+        "label": "no-rep"
+      },
+      {
+        "start": 145,
+        "end": 158,
+        "label": "no-rep"
+      },
+      {
+        "start": 159,
+        "end": 174,
+        "label": "rep"
+      },
+      {
+        "start": 175,
+        "end": 190,
+        "label": "rep"
+      },
+      {
+        "start": 191,
+        "end": 205,
+        "label": "rep"
+      },
+      {
+        "start": 206,
+        "end": 237,
+        "label": "no-rep"
+      },
+      {
+        "start": 238,
+        "end": 269,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 16,
+        "end": 36
+      },
+      {
+        "start": 37,
+        "end": 52
+      },
+      {
+        "start": 53,
+        "end": 68
+      },
+      {
+        "start": 69,
+        "end": 83
+      },
+      {
+        "start": 84,
+        "end": 98
+      },
+      {
+        "start": 99,
+        "end": 113
+      },
+      {
+        "start": 114,
+        "end": 128
+      },
+      {
+        "start": 159,
+        "end": 174
+      },
+      {
+        "start": 175,
+        "end": 190
+      },
+      {
+        "start": 191,
+        "end": 205
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_side_w3_9_12.mp4",
+    "exercise": "double_unders",
+    "binary_label": "000001110001110001110",
+    "rep_count": 9,
+    "segments": [
+      {
+        "start": 0,
+        "end": 14,
+        "label": "prep"
+      },
+      {
+        "start": 15,
+        "end": 28,
+        "label": "no-rep"
+      },
+      {
+        "start": 29,
+        "end": 41,
+        "label": "no-rep"
+      },
+      {
+        "start": 42,
+        "end": 54,
+        "label": "no-rep"
+      },
+      {
+        "start": 55,
+        "end": 70,
+        "label": "no-rep"
+      },
+      {
+        "start": 71,
+        "end": 85,
+        "label": "no-rep"
+      },
+      {
+        "start": 86,
+        "end": 102,
+        "label": "rep"
+      },
+      {
+        "start": 103,
+        "end": 119,
+        "label": "rep"
+      },
+      {
+        "start": 120,
+        "end": 136,
+        "label": "rep"
+      },
+      {
+        "start": 137,
+        "end": 154,
+        "label": "no-rep"
+      },
+      {
+        "start": 155,
+        "end": 169,
+        "label": "no-rep"
+      },
+      {
+        "start": 170,
+        "end": 183,
+        "label": "no-rep"
+      },
+      {
+        "start": 184,
+        "end": 201,
+        "label": "rep"
+      },
+      {
+        "start": 202,
+        "end": 218,
+        "label": "rep"
+      },
+      {
+        "start": 219,
+        "end": 235,
+        "label": "rep"
+      },
+      {
+        "start": 236,
+        "end": 252,
+        "label": "no-rep"
+      },
+      {
+        "start": 253,
+        "end": 268,
+        "label": "no-rep"
+      },
+      {
+        "start": 269,
+        "end": 283,
+        "label": "no-rep"
+      },
+      {
+        "start": 284,
+        "end": 299,
+        "label": "rep"
+      },
+      {
+        "start": 300,
+        "end": 317,
+        "label": "rep"
+      },
+      {
+        "start": 318,
+        "end": 335,
+        "label": "rep"
+      },
+      {
+        "start": 336,
+        "end": 354,
+        "label": "no-rep"
+      },
+      {
+        "start": 355,
+        "end": 382,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 86,
+        "end": 102
+      },
+      {
+        "start": 103,
+        "end": 119
+      },
+      {
+        "start": 120,
+        "end": 136
+      },
+      {
+        "start": 184,
+        "end": 201
+      },
+      {
+        "start": 202,
+        "end": 218
+      },
+      {
+        "start": 219,
+        "end": 235
+      },
+      {
+        "start": 284,
+        "end": 299
+      },
+      {
+        "start": 300,
+        "end": 317
+      },
+      {
+        "start": 318,
+        "end": 335
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_side_w4_15_9.mp4",
+    "exercise": "double_unders",
+    "binary_label": "000111111111111000100110",
+    "rep_count": 15,
+    "segments": [
+      {
+        "start": 0,
+        "end": 56,
+        "label": "prep"
+      },
+      {
+        "start": 57,
+        "end": 75,
+        "label": "no-rep"
+      },
+      {
+        "start": 76,
+        "end": 90,
+        "label": "no-rep"
+      },
+      {
+        "start": 91,
+        "end": 105,
+        "label": "no-rep"
+      },
+      {
+        "start": 106,
+        "end": 123,
+        "label": "rep"
+      },
+      {
+        "start": 124,
+        "end": 140,
+        "label": "rep"
+      },
+      {
+        "start": 141,
+        "end": 156,
+        "label": "rep"
+      },
+      {
+        "start": 157,
+        "end": 173,
+        "label": "rep"
+      },
+      {
+        "start": 174,
+        "end": 191,
+        "label": "rep"
+      },
+      {
+        "start": 192,
+        "end": 208,
+        "label": "rep"
+      },
+      {
+        "start": 209,
+        "end": 225,
+        "label": "rep"
+      },
+      {
+        "start": 226,
+        "end": 242,
+        "label": "rep"
+      },
+      {
+        "start": 243,
+        "end": 258,
+        "label": "rep"
+      },
+      {
+        "start": 259,
+        "end": 276,
+        "label": "rep"
+      },
+      {
+        "start": 277,
+        "end": 293,
+        "label": "rep"
+      },
+      {
+        "start": 294,
+        "end": 310,
+        "label": "rep"
+      },
+      {
+        "start": 311,
+        "end": 326,
+        "label": "no-rep"
+      },
+      {
+        "start": 327,
+        "end": 341,
+        "label": "no-rep"
+      },
+      {
+        "start": 342,
+        "end": 356,
+        "label": "no-rep"
+      },
+      {
+        "start": 357,
+        "end": 373,
+        "label": "rep"
+      },
+      {
+        "start": 374,
+        "end": 390,
+        "label": "no-rep"
+      },
+      {
+        "start": 391,
+        "end": 405,
+        "label": "no-rep"
+      },
+      {
+        "start": 406,
+        "end": 423,
+        "label": "rep"
+      },
+      {
+        "start": 424,
+        "end": 441,
+        "label": "rep"
+      },
+      {
+        "start": 442,
+        "end": 458,
+        "label": "no-rep"
+      },
+      {
+        "start": 459,
+        "end": 490,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 106,
+        "end": 123
+      },
+      {
+        "start": 124,
+        "end": 140
+      },
+      {
+        "start": 141,
+        "end": 156
+      },
+      {
+        "start": 157,
+        "end": 173
+      },
+      {
+        "start": 174,
+        "end": 191
+      },
+      {
+        "start": 192,
+        "end": 208
+      },
+      {
+        "start": 209,
+        "end": 225
+      },
+      {
+        "start": 226,
+        "end": 242
+      },
+      {
+        "start": 243,
+        "end": 258
+      },
+      {
+        "start": 259,
+        "end": 276
+      },
+      {
+        "start": 277,
+        "end": 293
+      },
+      {
+        "start": 294,
+        "end": 310
+      },
+      {
+        "start": 357,
+        "end": 373
+      },
+      {
+        "start": 406,
+        "end": 423
+      },
+      {
+        "start": 424,
+        "end": 441
+      }
+    ]
+  },
+  {
+    "filename": "squat_diag_m1_6_7.mp4",
+    "exercise": "squat",
+    "binary_label": "1111110000000",
+    "rep_count": 6,
+    "segments": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "prep"
+      },
+      {
+        "start": 7,
+        "end": 60,
+        "label": "rep"
+      },
+      {
+        "start": 61,
+        "end": 106,
+        "label": "rep"
+      },
+      {
+        "start": 107,
+        "end": 150,
+        "label": "rep"
+      },
+      {
+        "start": 151,
+        "end": 196,
+        "label": "rep"
+      },
+      {
+        "start": 197,
+        "end": 240,
+        "label": "rep"
+      },
+      {
+        "start": 241,
+        "end": 305,
+        "label": "rep"
+      },
+      {
+        "start": 306,
+        "end": 358,
+        "label": "no-rep"
+      },
+      {
+        "start": 359,
+        "end": 397,
+        "label": "no-rep"
+      },
+      {
+        "start": 398,
+        "end": 449,
+        "label": "no-rep"
+      },
+      {
+        "start": 450,
+        "end": 504,
+        "label": "no-rep"
+      },
+      {
+        "start": 505,
+        "end": 549,
+        "label": "no-rep"
+      },
+      {
+        "start": 550,
+        "end": 600,
+        "label": "no-rep"
+      },
+      {
+        "start": 601,
+        "end": 653,
+        "label": "no-rep"
+      },
+      {
+        "start": 654,
+        "end": 693,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 7,
+        "end": 60
+      },
+      {
+        "start": 61,
+        "end": 106
+      },
+      {
+        "start": 107,
+        "end": 150
+      },
+      {
+        "start": 151,
+        "end": 196
+      },
+      {
+        "start": 197,
+        "end": 240
+      },
+      {
+        "start": 241,
+        "end": 305
+      }
+    ]
+  },
+  {
+    "filename": "squat_diag_m2_8_6.mp4",
+    "exercise": "squat",
+    "binary_label": "10101110100011",
+    "rep_count": 8,
+    "segments": [
+      {
+        "start": 0,
+        "end": 53,
+        "label": "prep"
+      },
+      {
+        "start": 54,
+        "end": 106,
+        "label": "rep"
+      },
+      {
+        "start": 107,
+        "end": 138,
+        "label": "no-rep"
+      },
+      {
+        "start": 139,
+        "end": 185,
+        "label": "rep"
+      },
+      {
+        "start": 186,
+        "end": 226,
+        "label": "no-rep"
+      },
+      {
+        "start": 227,
+        "end": 274,
+        "label": "rep"
+      },
+      {
+        "start": 275,
+        "end": 315,
+        "label": "rep"
+      },
+      {
+        "start": 316,
+        "end": 365,
+        "label": "rep"
+      },
+      {
+        "start": 366,
+        "end": 404,
+        "label": "no-rep"
+      },
+      {
+        "start": 405,
+        "end": 453,
+        "label": "rep"
+      },
+      {
+        "start": 454,
+        "end": 497,
+        "label": "no-rep"
+      },
+      {
+        "start": 498,
+        "end": 547,
+        "label": "no-rep"
+      },
+      {
+        "start": 548,
+        "end": 597,
+        "label": "no-rep"
+      },
+      {
+        "start": 598,
+        "end": 647,
+        "label": "rep"
+      },
+      {
+        "start": 648,
+        "end": 696,
+        "label": "rep"
+      },
+      {
+        "start": 697,
+        "end": 730,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 54,
+        "end": 106
+      },
+      {
+        "start": 139,
+        "end": 185
+      },
+      {
+        "start": 227,
+        "end": 274
+      },
+      {
+        "start": 275,
+        "end": 315
+      },
+      {
+        "start": 316,
+        "end": 365
+      },
+      {
+        "start": 405,
+        "end": 453
+      },
+      {
+        "start": 598,
+        "end": 647
+      },
+      {
+        "start": 648,
+        "end": 696
+      }
+    ]
+  },
+  {
+    "filename": "squat_diag_m3_12_0.mp4",
+    "exercise": "squat",
+    "binary_label": "111111111111",
+    "rep_count": 12,
+    "segments": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "prep"
+      },
+      {
+        "start": 13,
+        "end": 65,
+        "label": "rep"
+      },
+      {
+        "start": 66,
+        "end": 107,
+        "label": "rep"
+      },
+      {
+        "start": 108,
+        "end": 152,
+        "label": "rep"
+      },
+      {
+        "start": 153,
+        "end": 197,
+        "label": "rep"
+      },
+      {
+        "start": 198,
+        "end": 241,
+        "label": "rep"
+      },
+      {
+        "start": 242,
+        "end": 285,
+        "label": "rep"
+      },
+      {
+        "start": 286,
+        "end": 329,
+        "label": "rep"
+      },
+      {
+        "start": 330,
+        "end": 373,
+        "label": "rep"
+      },
+      {
+        "start": 374,
+        "end": 416,
+        "label": "rep"
+      },
+      {
+        "start": 417,
+        "end": 457,
+        "label": "rep"
+      },
+      {
+        "start": 458,
+        "end": 501,
+        "label": "rep"
+      },
+      {
+        "start": 502,
+        "end": 547,
+        "label": "rep"
+      },
+      {
+        "start": 548,
+        "end": 564,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 13,
+        "end": 65
+      },
+      {
+        "start": 66,
+        "end": 107
+      },
+      {
+        "start": 108,
+        "end": 152
+      },
+      {
+        "start": 153,
+        "end": 197
+      },
+      {
+        "start": 198,
+        "end": 241
+      },
+      {
+        "start": 242,
+        "end": 285
+      },
+      {
+        "start": 286,
+        "end": 329
+      },
+      {
+        "start": 330,
+        "end": 373
+      },
+      {
+        "start": 374,
+        "end": 416
+      },
+      {
+        "start": 417,
+        "end": 457
+      },
+      {
+        "start": 458,
+        "end": 501
+      },
+      {
+        "start": 502,
+        "end": 547
+      }
+    ]
+  },
+  {
+    "filename": "squat_diag_m4_6_6.mp4",
+    "exercise": "squat",
+    "binary_label": "110001111000",
+    "rep_count": 6,
+    "segments": [
+      {
+        "start": 0,
+        "end": 24,
+        "label": "prep"
+      },
+      {
+        "start": 25,
+        "end": 66,
+        "label": "rep"
+      },
+      {
+        "start": 67,
+        "end": 106,
+        "label": "rep"
+      },
+      {
+        "start": 107,
+        "end": 148,
+        "label": "no-rep"
+      },
+      {
+        "start": 149,
+        "end": 189,
+        "label": "no-rep"
+      },
+      {
+        "start": 190,
+        "end": 228,
+        "label": "no-rep"
+      },
+      {
+        "start": 229,
+        "end": 264,
+        "label": "rep"
+      },
+      {
+        "start": 265,
+        "end": 310,
+        "label": "rep"
+      },
+      {
+        "start": 311,
+        "end": 364,
+        "label": "rep"
+      },
+      {
+        "start": 365,
+        "end": 405,
+        "label": "rep"
+      },
+      {
+        "start": 406,
+        "end": 448,
+        "label": "no-rep"
+      },
+      {
+        "start": 449,
+        "end": 488,
+        "label": "no-rep"
+      },
+      {
+        "start": 489,
+        "end": 524,
+        "label": "no-rep"
+      },
+      {
+        "start": 525,
+        "end": 564,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 25,
+        "end": 66
+      },
+      {
+        "start": 67,
+        "end": 106
+      },
+      {
+        "start": 229,
+        "end": 264
+      },
+      {
+        "start": 265,
+        "end": 310
+      },
+      {
+        "start": 311,
+        "end": 364
+      },
+      {
+        "start": 365,
+        "end": 405
+      }
+    ]
+  },
+  {
+    "filename": "squat_diag_w1_9_3.mp4",
+    "exercise": "squat",
+    "binary_label": "111110001111",
+    "rep_count": 9,
+    "segments": [
+      {
+        "start": 0,
+        "end": 18,
+        "label": "prep"
+      },
+      {
+        "start": 19,
+        "end": 62,
+        "label": "rep"
+      },
+      {
+        "start": 63,
+        "end": 102,
+        "label": "rep"
+      },
+      {
+        "start": 103,
+        "end": 142,
+        "label": "rep"
+      },
+      {
+        "start": 143,
+        "end": 183,
+        "label": "rep"
+      },
+      {
+        "start": 184,
+        "end": 223,
+        "label": "rep"
+      },
+      {
+        "start": 224,
+        "end": 265,
+        "label": "no-rep"
+      },
+      {
+        "start": 266,
+        "end": 303,
+        "label": "no-rep"
+      },
+      {
+        "start": 304,
+        "end": 340,
+        "label": "no-rep"
+      },
+      {
+        "start": 341,
+        "end": 383,
+        "label": "rep"
+      },
+      {
+        "start": 384,
+        "end": 424,
+        "label": "rep"
+      },
+      {
+        "start": 425,
+        "end": 465,
+        "label": "rep"
+      },
+      {
+        "start": 466,
+        "end": 507,
+        "label": "rep"
+      },
+      {
+        "start": 508,
+        "end": 533,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 19,
+        "end": 62
+      },
+      {
+        "start": 63,
+        "end": 102
+      },
+      {
+        "start": 103,
+        "end": 142
+      },
+      {
+        "start": 143,
+        "end": 183
+      },
+      {
+        "start": 184,
+        "end": 223
+      },
+      {
+        "start": 341,
+        "end": 383
+      },
+      {
+        "start": 384,
+        "end": 424
+      },
+      {
+        "start": 425,
+        "end": 465
+      },
+      {
+        "start": 466,
+        "end": 507
+      }
+    ]
+  },
+  {
+    "filename": "squat_diag_w2_5_7.mp4",
+    "exercise": "squat",
+    "binary_label": "111110000000",
+    "rep_count": 5,
+    "segments": [
+      {
+        "start": 0,
+        "end": 26,
+        "label": "prep"
+      },
+      {
+        "start": 27,
+        "end": 73,
+        "label": "rep"
+      },
+      {
+        "start": 74,
+        "end": 122,
+        "label": "rep"
+      },
+      {
+        "start": 123,
+        "end": 163,
+        "label": "rep"
+      },
+      {
+        "start": 164,
+        "end": 204,
+        "label": "rep"
+      },
+      {
+        "start": 205,
+        "end": 248,
+        "label": "rep"
+      },
+      {
+        "start": 249,
+        "end": 288,
+        "label": "no-rep"
+      },
+      {
+        "start": 289,
+        "end": 323,
+        "label": "no-rep"
+      },
+      {
+        "start": 324,
+        "end": 361,
+        "label": "no-rep"
+      },
+      {
+        "start": 362,
+        "end": 396,
+        "label": "no-rep"
+      },
+      {
+        "start": 397,
+        "end": 435,
+        "label": "no-rep"
+      },
+      {
+        "start": 436,
+        "end": 470,
+        "label": "no-rep"
+      },
+      {
+        "start": 471,
+        "end": 512,
+        "label": "no-rep"
+      },
+      {
+        "start": 513,
+        "end": 534,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 27,
+        "end": 73
+      },
+      {
+        "start": 74,
+        "end": 122
+      },
+      {
+        "start": 123,
+        "end": 163
+      },
+      {
+        "start": 164,
+        "end": 204
+      },
+      {
+        "start": 205,
+        "end": 248
+      }
+    ]
+  },
+  {
+    "filename": "squat_diag_w4_10_3.mp4",
+    "exercise": "squat",
+    "binary_label": "1110101110111",
+    "rep_count": 10,
+    "segments": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "prep"
+      },
+      {
+        "start": 5,
+        "end": 55,
+        "label": "rep"
+      },
+      {
+        "start": 56,
+        "end": 100,
+        "label": "rep"
+      },
+      {
+        "start": 101,
+        "end": 150,
+        "label": "rep"
+      },
+      {
+        "start": 151,
+        "end": 196,
+        "label": "no-rep"
+      },
+      {
+        "start": 197,
+        "end": 244,
+        "label": "rep"
+      },
+      {
+        "start": 245,
+        "end": 297,
+        "label": "no-rep"
+      },
+      {
+        "start": 298,
+        "end": 338,
+        "label": "rep"
+      },
+      {
+        "start": 339,
+        "end": 387,
+        "label": "rep"
+      },
+      {
+        "start": 388,
+        "end": 437,
+        "label": "rep"
+      },
+      {
+        "start": 438,
+        "end": 481,
+        "label": "no-rep"
+      },
+      {
+        "start": 482,
+        "end": 530,
+        "label": "rep"
+      },
+      {
+        "start": 531,
+        "end": 583,
+        "label": "rep"
+      },
+      {
+        "start": 584,
+        "end": 632,
+        "label": "rep"
+      },
+      {
+        "start": 633,
+        "end": 657,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 5,
+        "end": 55
+      },
+      {
+        "start": 56,
+        "end": 100
+      },
+      {
+        "start": 101,
+        "end": 150
+      },
+      {
+        "start": 197,
+        "end": 244
+      },
+      {
+        "start": 298,
+        "end": 338
+      },
+      {
+        "start": 339,
+        "end": 387
+      },
+      {
+        "start": 388,
+        "end": 437
+      },
+      {
+        "start": 482,
+        "end": 530
+      },
+      {
+        "start": 531,
+        "end": 583
+      },
+      {
+        "start": 584,
+        "end": 632
+      }
+    ]
+  },
+  {
+    "filename": "squat_front_m1_9_4.mp4",
+    "exercise": "squat",
+    "binary_label": "1111111110000",
+    "rep_count": 9,
+    "segments": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "prep"
+      },
+      {
+        "start": 10,
+        "end": 53,
+        "label": "rep"
+      },
+      {
+        "start": 54,
+        "end": 103,
+        "label": "rep"
+      },
+      {
+        "start": 104,
+        "end": 149,
+        "label": "rep"
+      },
+      {
+        "start": 150,
+        "end": 192,
+        "label": "rep"
+      },
+      {
+        "start": 193,
+        "end": 237,
+        "label": "rep"
+      },
+      {
+        "start": 238,
+        "end": 282,
+        "label": "rep"
+      },
+      {
+        "start": 283,
+        "end": 327,
+        "label": "rep"
+      },
+      {
+        "start": 328,
+        "end": 376,
+        "label": "rep"
+      },
+      {
+        "start": 377,
+        "end": 430,
+        "label": "rep"
+      },
+      {
+        "start": 431,
+        "end": 477,
+        "label": "no-rep"
+      },
+      {
+        "start": 478,
+        "end": 534,
+        "label": "no-rep"
+      },
+      {
+        "start": 535,
+        "end": 578,
+        "label": "no-rep"
+      },
+      {
+        "start": 579,
+        "end": 647,
+        "label": "no-rep"
+      },
+      {
+        "start": 648,
+        "end": 667,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 10,
+        "end": 53
+      },
+      {
+        "start": 54,
+        "end": 103
+      },
+      {
+        "start": 104,
+        "end": 149
+      },
+      {
+        "start": 150,
+        "end": 192
+      },
+      {
+        "start": 193,
+        "end": 237
+      },
+      {
+        "start": 238,
+        "end": 282
+      },
+      {
+        "start": 283,
+        "end": 327
+      },
+      {
+        "start": 328,
+        "end": 376
+      },
+      {
+        "start": 377,
+        "end": 430
+      }
+    ]
+  },
+  {
+    "filename": "squat_front_m2_13_0.mp4",
+    "exercise": "squat",
+    "binary_label": "1111111111111",
+    "rep_count": 13,
+    "segments": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "prep"
+      },
+      {
+        "start": 4,
+        "end": 49,
+        "label": "rep"
+      },
+      {
+        "start": 50,
+        "end": 98,
+        "label": "rep"
+      },
+      {
+        "start": 99,
+        "end": 148,
+        "label": "rep"
+      },
+      {
+        "start": 149,
+        "end": 190,
+        "label": "rep"
+      },
+      {
+        "start": 191,
+        "end": 240,
+        "label": "rep"
+      },
+      {
+        "start": 241,
+        "end": 294,
+        "label": "rep"
+      },
+      {
+        "start": 295,
+        "end": 340,
+        "label": "rep"
+      },
+      {
+        "start": 341,
+        "end": 391,
+        "label": "rep"
+      },
+      {
+        "start": 392,
+        "end": 446,
+        "label": "rep"
+      },
+      {
+        "start": 447,
+        "end": 487,
+        "label": "rep"
+      },
+      {
+        "start": 488,
+        "end": 540,
+        "label": "rep"
+      },
+      {
+        "start": 541,
+        "end": 589,
+        "label": "rep"
+      },
+      {
+        "start": 590,
+        "end": 634,
+        "label": "rep"
+      },
+      {
+        "start": 635,
+        "end": 658,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 4,
+        "end": 49
+      },
+      {
+        "start": 50,
+        "end": 98
+      },
+      {
+        "start": 99,
+        "end": 148
+      },
+      {
+        "start": 149,
+        "end": 190
+      },
+      {
+        "start": 191,
+        "end": 240
+      },
+      {
+        "start": 241,
+        "end": 294
+      },
+      {
+        "start": 295,
+        "end": 340
+      },
+      {
+        "start": 341,
+        "end": 391
+      },
+      {
+        "start": 392,
+        "end": 446
+      },
+      {
+        "start": 447,
+        "end": 487
+      },
+      {
+        "start": 488,
+        "end": 540
+      },
+      {
+        "start": 541,
+        "end": 589
+      },
+      {
+        "start": 590,
+        "end": 634
+      }
+    ]
+  },
+  {
+    "filename": "squat_front_m3_9_3.mp4",
+    "exercise": "squat",
+    "binary_label": "010111111101",
+    "rep_count": 9,
+    "segments": [
+      {
+        "start": 0,
+        "end": 14,
+        "label": "prep"
+      },
+      {
+        "start": 15,
+        "end": 46,
+        "label": "no-rep"
+      },
+      {
+        "start": 47,
+        "end": 90,
+        "label": "rep"
+      },
+      {
+        "start": 91,
+        "end": 128,
+        "label": "no-rep"
+      },
+      {
+        "start": 129,
+        "end": 178,
+        "label": "rep"
+      },
+      {
+        "start": 179,
+        "end": 219,
+        "label": "rep"
+      },
+      {
+        "start": 220,
+        "end": 259,
+        "label": "rep"
+      },
+      {
+        "start": 260,
+        "end": 304,
+        "label": "rep"
+      },
+      {
+        "start": 305,
+        "end": 349,
+        "label": "rep"
+      },
+      {
+        "start": 350,
+        "end": 398,
+        "label": "rep"
+      },
+      {
+        "start": 399,
+        "end": 441,
+        "label": "rep"
+      },
+      {
+        "start": 442,
+        "end": 489,
+        "label": "no-rep"
+      },
+      {
+        "start": 490,
+        "end": 540,
+        "label": "rep"
+      },
+      {
+        "start": 541,
+        "end": 555,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 47,
+        "end": 90
+      },
+      {
+        "start": 129,
+        "end": 178
+      },
+      {
+        "start": 179,
+        "end": 219
+      },
+      {
+        "start": 220,
+        "end": 259
+      },
+      {
+        "start": 260,
+        "end": 304
+      },
+      {
+        "start": 305,
+        "end": 349
+      },
+      {
+        "start": 350,
+        "end": 398
+      },
+      {
+        "start": 399,
+        "end": 441
+      },
+      {
+        "start": 490,
+        "end": 540
+      }
+    ]
+  },
+  {
+    "filename": "squat_front_m4_6_6.mp4",
+    "exercise": "squat",
+    "binary_label": "111111000000",
+    "rep_count": 6,
+    "segments": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "prep"
+      },
+      {
+        "start": 4,
+        "end": 42,
+        "label": "rep"
+      },
+      {
+        "start": 43,
+        "end": 88,
+        "label": "rep"
+      },
+      {
+        "start": 89,
+        "end": 130,
+        "label": "rep"
+      },
+      {
+        "start": 131,
+        "end": 178,
+        "label": "rep"
+      },
+      {
+        "start": 179,
+        "end": 218,
+        "label": "rep"
+      },
+      {
+        "start": 219,
+        "end": 265,
+        "label": "rep"
+      },
+      {
+        "start": 266,
+        "end": 308,
+        "label": "no-rep"
+      },
+      {
+        "start": 309,
+        "end": 352,
+        "label": "no-rep"
+      },
+      {
+        "start": 353,
+        "end": 394,
+        "label": "no-rep"
+      },
+      {
+        "start": 395,
+        "end": 437,
+        "label": "no-rep"
+      },
+      {
+        "start": 438,
+        "end": 484,
+        "label": "no-rep"
+      },
+      {
+        "start": 485,
+        "end": 599,
+        "label": "no-rep"
+      },
+      {
+        "start": 600,
+        "end": 605,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 4,
+        "end": 42
+      },
+      {
+        "start": 43,
+        "end": 88
+      },
+      {
+        "start": 89,
+        "end": 130
+      },
+      {
+        "start": 131,
+        "end": 178
+      },
+      {
+        "start": 179,
+        "end": 218
+      },
+      {
+        "start": 219,
+        "end": 265
+      }
+    ]
+  },
+  {
+    "filename": "squat_front_w1_9_3.mp4",
+    "exercise": "squat",
+    "binary_label": "111100101111",
+    "rep_count": 9,
+    "segments": [
+      {
+        "start": 0,
+        "end": 29,
+        "label": "prep"
+      },
+      {
+        "start": 30,
+        "end": 68,
+        "label": "rep"
+      },
+      {
+        "start": 69,
+        "end": 107,
+        "label": "rep"
+      },
+      {
+        "start": 108,
+        "end": 151,
+        "label": "rep"
+      },
+      {
+        "start": 152,
+        "end": 192,
+        "label": "rep"
+      },
+      {
+        "start": 193,
+        "end": 235,
+        "label": "no-rep"
+      },
+      {
+        "start": 236,
+        "end": 272,
+        "label": "no-rep"
+      },
+      {
+        "start": 273,
+        "end": 310,
+        "label": "rep"
+      },
+      {
+        "start": 311,
+        "end": 350,
+        "label": "no-rep"
+      },
+      {
+        "start": 351,
+        "end": 387,
+        "label": "rep"
+      },
+      {
+        "start": 388,
+        "end": 431,
+        "label": "rep"
+      },
+      {
+        "start": 432,
+        "end": 474,
+        "label": "rep"
+      },
+      {
+        "start": 475,
+        "end": 512,
+        "label": "rep"
+      },
+      {
+        "start": 513,
+        "end": 521,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 30,
+        "end": 68
+      },
+      {
+        "start": 69,
+        "end": 107
+      },
+      {
+        "start": 108,
+        "end": 151
+      },
+      {
+        "start": 152,
+        "end": 192
+      },
+      {
+        "start": 273,
+        "end": 310
+      },
+      {
+        "start": 351,
+        "end": 387
+      },
+      {
+        "start": 388,
+        "end": 431
+      },
+      {
+        "start": 432,
+        "end": 474
+      },
+      {
+        "start": 475,
+        "end": 512
+      }
+    ]
+  },
+  {
+    "filename": "squat_front_w2_9_3.mp4",
+    "exercise": "squat",
+    "binary_label": "111001011111",
+    "rep_count": 9,
+    "segments": [
+      {
+        "start": 0,
+        "end": 2,
+        "label": "prep"
+      },
+      {
+        "start": 3,
+        "end": 50,
+        "label": "rep"
+      },
+      {
+        "start": 51,
+        "end": 96,
+        "label": "rep"
+      },
+      {
+        "start": 97,
+        "end": 141,
+        "label": "rep"
+      },
+      {
+        "start": 142,
+        "end": 179,
+        "label": "no-rep"
+      },
+      {
+        "start": 180,
+        "end": 222,
+        "label": "no-rep"
+      },
+      {
+        "start": 223,
+        "end": 270,
+        "label": "rep"
+      },
+      {
+        "start": 271,
+        "end": 310,
+        "label": "no-rep"
+      },
+      {
+        "start": 311,
+        "end": 354,
+        "label": "rep"
+      },
+      {
+        "start": 355,
+        "end": 402,
+        "label": "rep"
+      },
+      {
+        "start": 403,
+        "end": 451,
+        "label": "rep"
+      },
+      {
+        "start": 452,
+        "end": 498,
+        "label": "rep"
+      },
+      {
+        "start": 499,
+        "end": 542,
+        "label": "rep"
+      },
+      {
+        "start": 543,
+        "end": 561,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 3,
+        "end": 50
+      },
+      {
+        "start": 51,
+        "end": 96
+      },
+      {
+        "start": 97,
+        "end": 141
+      },
+      {
+        "start": 223,
+        "end": 270
+      },
+      {
+        "start": 311,
+        "end": 354
+      },
+      {
+        "start": 355,
+        "end": 402
+      },
+      {
+        "start": 403,
+        "end": 451
+      },
+      {
+        "start": 452,
+        "end": 498
+      },
+      {
+        "start": 499,
+        "end": 542
+      }
+    ]
+  },
+  {
+    "filename": "squat_front_w4_12_0.mp4",
+    "exercise": "squat",
+    "binary_label": "111111111111",
+    "rep_count": 12,
+    "segments": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "prep"
+      },
+      {
+        "start": 8,
+        "end": 57,
+        "label": "rep"
+      },
+      {
+        "start": 58,
+        "end": 108,
+        "label": "rep"
+      },
+      {
+        "start": 109,
+        "end": 154,
+        "label": "rep"
+      },
+      {
+        "start": 155,
+        "end": 203,
+        "label": "rep"
+      },
+      {
+        "start": 204,
+        "end": 252,
+        "label": "rep"
+      },
+      {
+        "start": 253,
+        "end": 300,
+        "label": "rep"
+      },
+      {
+        "start": 301,
+        "end": 345,
+        "label": "rep"
+      },
+      {
+        "start": 346,
+        "end": 394,
+        "label": "rep"
+      },
+      {
+        "start": 395,
+        "end": 444,
+        "label": "rep"
+      },
+      {
+        "start": 445,
+        "end": 490,
+        "label": "rep"
+      },
+      {
+        "start": 491,
+        "end": 537,
+        "label": "rep"
+      },
+      {
+        "start": 538,
+        "end": 588,
+        "label": "rep"
+      },
+      {
+        "start": 589,
+        "end": 598,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 8,
+        "end": 57
+      },
+      {
+        "start": 58,
+        "end": 108
+      },
+      {
+        "start": 109,
+        "end": 154
+      },
+      {
+        "start": 155,
+        "end": 203
+      },
+      {
+        "start": 204,
+        "end": 252
+      },
+      {
+        "start": 253,
+        "end": 300
+      },
+      {
+        "start": 301,
+        "end": 345
+      },
+      {
+        "start": 346,
+        "end": 394
+      },
+      {
+        "start": 395,
+        "end": 444
+      },
+      {
+        "start": 445,
+        "end": 490
+      },
+      {
+        "start": 491,
+        "end": 537
+      },
+      {
+        "start": 538,
+        "end": 588
+      }
+    ]
+  },
+  {
+    "filename": "squat_side_m1_12_0.mp4",
+    "exercise": "squat",
+    "binary_label": "111111111111",
+    "rep_count": 12,
+    "segments": [
+      {
+        "start": 0,
+        "end": 2,
+        "label": "prep"
+      },
+      {
+        "start": 3,
+        "end": 48,
+        "label": "rep"
+      },
+      {
+        "start": 49,
+        "end": 91,
+        "label": "rep"
+      },
+      {
+        "start": 92,
+        "end": 136,
+        "label": "rep"
+      },
+      {
+        "start": 137,
+        "end": 181,
+        "label": "rep"
+      },
+      {
+        "start": 182,
+        "end": 223,
+        "label": "rep"
+      },
+      {
+        "start": 224,
+        "end": 268,
+        "label": "rep"
+      },
+      {
+        "start": 269,
+        "end": 312,
+        "label": "rep"
+      },
+      {
+        "start": 313,
+        "end": 359,
+        "label": "rep"
+      },
+      {
+        "start": 360,
+        "end": 405,
+        "label": "rep"
+      },
+      {
+        "start": 406,
+        "end": 455,
+        "label": "rep"
+      },
+      {
+        "start": 456,
+        "end": 509,
+        "label": "rep"
+      },
+      {
+        "start": 510,
+        "end": 558,
+        "label": "rep"
+      },
+      {
+        "start": 559,
+        "end": 578,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 3,
+        "end": 48
+      },
+      {
+        "start": 49,
+        "end": 91
+      },
+      {
+        "start": 92,
+        "end": 136
+      },
+      {
+        "start": 137,
+        "end": 181
+      },
+      {
+        "start": 182,
+        "end": 223
+      },
+      {
+        "start": 224,
+        "end": 268
+      },
+      {
+        "start": 269,
+        "end": 312
+      },
+      {
+        "start": 313,
+        "end": 359
+      },
+      {
+        "start": 360,
+        "end": 405
+      },
+      {
+        "start": 406,
+        "end": 455
+      },
+      {
+        "start": 456,
+        "end": 509
+      },
+      {
+        "start": 510,
+        "end": 558
+      }
+    ]
+  },
+  {
+    "filename": "squat_side_m2_9_3.mp4",
+    "exercise": "squat",
+    "binary_label": "111011110011",
+    "rep_count": 9,
+    "segments": [
+      {
+        "start": 0,
+        "end": 17,
+        "label": "prep"
+      },
+      {
+        "start": 18,
+        "end": 68,
+        "label": "rep"
+      },
+      {
+        "start": 69,
+        "end": 114,
+        "label": "rep"
+      },
+      {
+        "start": 115,
+        "end": 158,
+        "label": "rep"
+      },
+      {
+        "start": 159,
+        "end": 200,
+        "label": "no-rep"
+      },
+      {
+        "start": 201,
+        "end": 248,
+        "label": "rep"
+      },
+      {
+        "start": 249,
+        "end": 294,
+        "label": "rep"
+      },
+      {
+        "start": 295,
+        "end": 342,
+        "label": "rep"
+      },
+      {
+        "start": 343,
+        "end": 389,
+        "label": "rep"
+      },
+      {
+        "start": 390,
+        "end": 432,
+        "label": "no-rep"
+      },
+      {
+        "start": 433,
+        "end": 480,
+        "label": "no-rep"
+      },
+      {
+        "start": 481,
+        "end": 525,
+        "label": "rep"
+      },
+      {
+        "start": 526,
+        "end": 574,
+        "label": "rep"
+      },
+      {
+        "start": 575,
+        "end": 593,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 18,
+        "end": 68
+      },
+      {
+        "start": 69,
+        "end": 114
+      },
+      {
+        "start": 115,
+        "end": 158
+      },
+      {
+        "start": 201,
+        "end": 248
+      },
+      {
+        "start": 249,
+        "end": 294
+      },
+      {
+        "start": 295,
+        "end": 342
+      },
+      {
+        "start": 343,
+        "end": 389
+      },
+      {
+        "start": 481,
+        "end": 525
+      },
+      {
+        "start": 526,
+        "end": 574
+      }
+    ]
+  },
+  {
+    "filename": "squat_side_m32_9_3.mp4",
+    "exercise": "squat",
+    "binary_label": "111111111000",
+    "rep_count": 9,
+    "segments": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "prep"
+      },
+      {
+        "start": 6,
+        "end": 51,
+        "label": "rep"
+      },
+      {
+        "start": 52,
+        "end": 109,
+        "label": "rep"
+      },
+      {
+        "start": 110,
+        "end": 130,
+        "label": "rep"
+      },
+      {
+        "start": 131,
+        "end": 169,
+        "label": "rep"
+      },
+      {
+        "start": 170,
+        "end": 210,
+        "label": "rep"
+      },
+      {
+        "start": 211,
+        "end": 251,
+        "label": "rep"
+      },
+      {
+        "start": 252,
+        "end": 295,
+        "label": "rep"
+      },
+      {
+        "start": 296,
+        "end": 341,
+        "label": "rep"
+      },
+      {
+        "start": 342,
+        "end": 384,
+        "label": "rep"
+      },
+      {
+        "start": 385,
+        "end": 427,
+        "label": "no-rep"
+      },
+      {
+        "start": 428,
+        "end": 463,
+        "label": "no-rep"
+      },
+      {
+        "start": 464,
+        "end": 504,
+        "label": "no-rep"
+      },
+      {
+        "start": 505,
+        "end": 532,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 6,
+        "end": 51
+      },
+      {
+        "start": 52,
+        "end": 109
+      },
+      {
+        "start": 110,
+        "end": 130
+      },
+      {
+        "start": 131,
+        "end": 169
+      },
+      {
+        "start": 170,
+        "end": 210
+      },
+      {
+        "start": 211,
+        "end": 251
+      },
+      {
+        "start": 252,
+        "end": 295
+      },
+      {
+        "start": 296,
+        "end": 341
+      },
+      {
+        "start": 342,
+        "end": 384
+      }
+    ]
+  },
+  {
+    "filename": "squat_side_m3_11_0.mp4",
+    "exercise": "squat",
+    "binary_label": "11111111111",
+    "rep_count": 11,
+    "segments": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "prep"
+      },
+      {
+        "start": 11,
+        "end": 53,
+        "label": "rep"
+      },
+      {
+        "start": 54,
+        "end": 90,
+        "label": "rep"
+      },
+      {
+        "start": 91,
+        "end": 128,
+        "label": "rep"
+      },
+      {
+        "start": 129,
+        "end": 170,
+        "label": "rep"
+      },
+      {
+        "start": 171,
+        "end": 214,
+        "label": "rep"
+      },
+      {
+        "start": 215,
+        "end": 259,
+        "label": "rep"
+      },
+      {
+        "start": 260,
+        "end": 297,
+        "label": "rep"
+      },
+      {
+        "start": 298,
+        "end": 343,
+        "label": "rep"
+      },
+      {
+        "start": 344,
+        "end": 380,
+        "label": "rep"
+      },
+      {
+        "start": 381,
+        "end": 427,
+        "label": "rep"
+      },
+      {
+        "start": 428,
+        "end": 472,
+        "label": "rep"
+      },
+      {
+        "start": 473,
+        "end": 515,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 11,
+        "end": 53
+      },
+      {
+        "start": 54,
+        "end": 90
+      },
+      {
+        "start": 91,
+        "end": 128
+      },
+      {
+        "start": 129,
+        "end": 170
+      },
+      {
+        "start": 171,
+        "end": 214
+      },
+      {
+        "start": 215,
+        "end": 259
+      },
+      {
+        "start": 260,
+        "end": 297
+      },
+      {
+        "start": 298,
+        "end": 343
+      },
+      {
+        "start": 344,
+        "end": 380
+      },
+      {
+        "start": 381,
+        "end": 427
+      },
+      {
+        "start": 428,
+        "end": 472
+      }
+    ]
+  },
+  {
+    "filename": "squat_side_m4_12_0.mp4",
+    "exercise": "squat",
+    "binary_label": "111111111111",
+    "rep_count": 12,
+    "segments": [
+      {
+        "start": 0,
+        "end": 0,
+        "label": "prep"
+      },
+      {
+        "start": 1,
+        "end": 42,
+        "label": "rep"
+      },
+      {
+        "start": 43,
+        "end": 91,
+        "label": "rep"
+      },
+      {
+        "start": 92,
+        "end": 143,
+        "label": "rep"
+      },
+      {
+        "start": 144,
+        "end": 189,
+        "label": "rep"
+      },
+      {
+        "start": 190,
+        "end": 235,
+        "label": "rep"
+      },
+      {
+        "start": 236,
+        "end": 283,
+        "label": "rep"
+      },
+      {
+        "start": 284,
+        "end": 329,
+        "label": "rep"
+      },
+      {
+        "start": 330,
+        "end": 381,
+        "label": "rep"
+      },
+      {
+        "start": 382,
+        "end": 432,
+        "label": "rep"
+      },
+      {
+        "start": 433,
+        "end": 485,
+        "label": "rep"
+      },
+      {
+        "start": 486,
+        "end": 532,
+        "label": "rep"
+      },
+      {
+        "start": 533,
+        "end": 584,
+        "label": "rep"
+      },
+      {
+        "start": 585,
+        "end": 594,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 1,
+        "end": 42
+      },
+      {
+        "start": 43,
+        "end": 91
+      },
+      {
+        "start": 92,
+        "end": 143
+      },
+      {
+        "start": 144,
+        "end": 189
+      },
+      {
+        "start": 190,
+        "end": 235
+      },
+      {
+        "start": 236,
+        "end": 283
+      },
+      {
+        "start": 284,
+        "end": 329
+      },
+      {
+        "start": 330,
+        "end": 381
+      },
+      {
+        "start": 382,
+        "end": 432
+      },
+      {
+        "start": 433,
+        "end": 485
+      },
+      {
+        "start": 486,
+        "end": 532
+      },
+      {
+        "start": 533,
+        "end": 584
+      }
+    ]
+  },
+  {
+    "filename": "squat_side_w1_12_0.mp4",
+    "exercise": "squat",
+    "binary_label": "111111111111",
+    "rep_count": 12,
+    "segments": [
+      {
+        "start": 0,
+        "end": 57,
+        "label": "prep"
+      },
+      {
+        "start": 58,
+        "end": 102,
+        "label": "rep"
+      },
+      {
+        "start": 103,
+        "end": 140,
+        "label": "rep"
+      },
+      {
+        "start": 141,
+        "end": 178,
+        "label": "rep"
+      },
+      {
+        "start": 179,
+        "end": 221,
+        "label": "rep"
+      },
+      {
+        "start": 222,
+        "end": 263,
+        "label": "rep"
+      },
+      {
+        "start": 264,
+        "end": 304,
+        "label": "rep"
+      },
+      {
+        "start": 305,
+        "end": 343,
+        "label": "rep"
+      },
+      {
+        "start": 344,
+        "end": 388,
+        "label": "rep"
+      },
+      {
+        "start": 389,
+        "end": 428,
+        "label": "rep"
+      },
+      {
+        "start": 429,
+        "end": 471,
+        "label": "rep"
+      },
+      {
+        "start": 472,
+        "end": 514,
+        "label": "rep"
+      },
+      {
+        "start": 515,
+        "end": 557,
+        "label": "rep"
+      },
+      {
+        "start": 558,
+        "end": 574,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 58,
+        "end": 102
+      },
+      {
+        "start": 103,
+        "end": 140
+      },
+      {
+        "start": 141,
+        "end": 178
+      },
+      {
+        "start": 179,
+        "end": 221
+      },
+      {
+        "start": 222,
+        "end": 263
+      },
+      {
+        "start": 264,
+        "end": 304
+      },
+      {
+        "start": 305,
+        "end": 343
+      },
+      {
+        "start": 344,
+        "end": 388
+      },
+      {
+        "start": 389,
+        "end": 428
+      },
+      {
+        "start": 429,
+        "end": 471
+      },
+      {
+        "start": 472,
+        "end": 514
+      },
+      {
+        "start": 515,
+        "end": 557
+      }
+    ]
+  },
+  {
+    "filename": "squat_side_w2_12_0.mp4",
+    "exercise": "squat",
+    "binary_label": "111111111111",
+    "rep_count": 12,
+    "segments": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "prep"
+      },
+      {
+        "start": 9,
+        "end": 53,
+        "label": "rep"
+      },
+      {
+        "start": 54,
+        "end": 98,
+        "label": "rep"
+      },
+      {
+        "start": 99,
+        "end": 142,
+        "label": "rep"
+      },
+      {
+        "start": 143,
+        "end": 187,
+        "label": "rep"
+      },
+      {
+        "start": 188,
+        "end": 239,
+        "label": "rep"
+      },
+      {
+        "start": 240,
+        "end": 291,
+        "label": "rep"
+      },
+      {
+        "start": 292,
+        "end": 337,
+        "label": "rep"
+      },
+      {
+        "start": 338,
+        "end": 388,
+        "label": "rep"
+      },
+      {
+        "start": 389,
+        "end": 436,
+        "label": "rep"
+      },
+      {
+        "start": 437,
+        "end": 485,
+        "label": "rep"
+      },
+      {
+        "start": 486,
+        "end": 540,
+        "label": "rep"
+      },
+      {
+        "start": 541,
+        "end": 592,
+        "label": "rep"
+      },
+      {
+        "start": 593,
+        "end": 617,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 9,
+        "end": 53
+      },
+      {
+        "start": 54,
+        "end": 98
+      },
+      {
+        "start": 99,
+        "end": 142
+      },
+      {
+        "start": 143,
+        "end": 187
+      },
+      {
+        "start": 188,
+        "end": 239
+      },
+      {
+        "start": 240,
+        "end": 291
+      },
+      {
+        "start": 292,
+        "end": 337
+      },
+      {
+        "start": 338,
+        "end": 388
+      },
+      {
+        "start": 389,
+        "end": 436
+      },
+      {
+        "start": 437,
+        "end": 485
+      },
+      {
+        "start": 486,
+        "end": 540
+      },
+      {
+        "start": 541,
+        "end": 592
+      }
+    ]
+  },
+  {
+    "filename": "squat_side_w4_7_6.mp4",
+    "exercise": "squat",
+    "binary_label": "0011100111001",
+    "rep_count": 7,
+    "segments": [
+      {
+        "start": 0,
+        "end": 13,
+        "label": "prep"
+      },
+      {
+        "start": 14,
+        "end": 60,
+        "label": "no-rep"
+      },
+      {
+        "start": 61,
+        "end": 105,
+        "label": "no-rep"
+      },
+      {
+        "start": 106,
+        "end": 147,
+        "label": "rep"
+      },
+      {
+        "start": 148,
+        "end": 196,
+        "label": "rep"
+      },
+      {
+        "start": 197,
+        "end": 244,
+        "label": "rep"
+      },
+      {
+        "start": 245,
+        "end": 292,
+        "label": "no-rep"
+      },
+      {
+        "start": 293,
+        "end": 337,
+        "label": "no-rep"
+      },
+      {
+        "start": 338,
+        "end": 377,
+        "label": "rep"
+      },
+      {
+        "start": 378,
+        "end": 431,
+        "label": "rep"
+      },
+      {
+        "start": 432,
+        "end": 476,
+        "label": "rep"
+      },
+      {
+        "start": 477,
+        "end": 522,
+        "label": "no-rep"
+      },
+      {
+        "start": 523,
+        "end": 574,
+        "label": "no-rep"
+      },
+      {
+        "start": 575,
+        "end": 620,
+        "label": "rep"
+      },
+      {
+        "start": 621,
+        "end": 640,
+        "label": "finish"
+      }
+    ],
+    "rep_windows": [
+      {
+        "start": 106,
+        "end": 147
+      },
+      {
+        "start": 148,
+        "end": 196
+      },
+      {
+        "start": 197,
+        "end": 244
+      },
+      {
+        "start": 338,
+        "end": 377
+      },
+      {
+        "start": 378,
+        "end": 431
+      },
+      {
+        "start": 432,
+        "end": 476
+      },
+      {
+        "start": 575,
+        "end": 620
+      }
+    ]
+  }
+]
