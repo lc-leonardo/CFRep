@@ -6,74 +6,64 @@
     "rep_count": 6,
     "segments": [
       {
-        "start": 0,
-        "end": 162,
-        "label": "prep"
-      },
-      {
-        "start": 163,
-        "end": 188,
+        "start": 156,
+        "end": 182,
         "label": "rep"
       },
       {
-        "start": 189,
-        "end": 235,
+        "start": 216,
+        "end": 240,
         "label": "rep"
       },
       {
-        "start": 236,
+        "start": 267,
         "end": 290,
         "label": "rep"
       },
       {
-        "start": 291,
-        "end": 342,
+        "start": 319,
+        "end": 345,
         "label": "rep"
       },
       {
-        "start": 343,
+        "start": 372,
         "end": 396,
         "label": "rep"
       },
       {
-        "start": 397,
+        "start": 427,
         "end": 452,
         "label": "rep"
       },
       {
-        "start": 453,
-        "end": 515,
+        "start": 486,
+        "end": 523,
         "label": "no-rep"
       },
       {
-        "start": 516,
-        "end": 571,
+        "start": 548,
+        "end": 575,
         "label": "no-rep"
       },
       {
-        "start": 572,
-        "end": 633,
+        "start": 606,
+        "end": 636,
         "label": "no-rep"
       },
       {
-        "start": 634,
-        "end": 692,
+        "start": 663,
+        "end": 687,
         "label": "no-rep"
       },
       {
-        "start": 693,
-        "end": 756,
+        "start": 732,
+        "end": 753,
         "label": "no-rep"
       },
       {
-        "start": 757,
-        "end": 842,
+        "start": 806,
+        "end": 847,
         "label": "no-rep"
-      },
-      {
-        "start": 843,
-        "end": 884,
-        "label": "finish"
       }
     ]
   },
@@ -84,69 +74,59 @@
     "rep_count": 6,
     "segments": [
       {
-        "start": 0,
-        "end": 98,
-        "label": "prep"
-      },
-      {
         "start": 99,
-        "end": 125,
+        "end": 126,
         "label": "rep"
       },
       {
-        "start": 126,
-        "end": 171,
+        "start": 148,
+        "end": 172,
         "label": "rep"
       },
       {
-        "start": 172,
-        "end": 222,
+        "start": 200,
+        "end": 220,
         "label": "rep"
       },
       {
-        "start": 223,
-        "end": 270,
+        "start": 248,
+        "end": 271,
         "label": "rep"
       },
       {
-        "start": 271,
-        "end": 326,
+        "start": 302,
+        "end": 324,
         "label": "rep"
       },
       {
-        "start": 327,
-        "end": 373,
+        "start": 356,
+        "end": 377,
         "label": "rep"
       },
       {
-        "start": 374,
-        "end": 428,
+        "start": 408,
+        "end": 429,
         "label": "no-rep"
       },
       {
-        "start": 429,
-        "end": 474,
+        "start": 455,
+        "end": 476,
         "label": "no-rep"
       },
       {
-        "start": 475,
+        "start": 496,
         "end": 516,
         "label": "no-rep"
       },
       {
-        "start": 517,
-        "end": 559,
+        "start": 540,
+        "end": 562,
         "label": "no-rep"
       },
       {
-        "start": 560,
-        "end": 600,
+        "start": 583,
+        "end": 603,
         "label": "no-rep"
-      },
-      {
-        "start": 601,
-        "end": 657,
-        "label": "finish"
       }
     ]
   },
@@ -157,74 +137,64 @@
     "rep_count": 12,
     "segments": [
       {
-        "start": 0,
-        "end": 64,
-        "label": "prep"
-      },
-      {
         "start": 65,
-        "end": 98,
+        "end": 96,
         "label": "rep"
       },
       {
-        "start": 99,
+        "start": 122,
         "end": 147,
         "label": "rep"
       },
       {
-        "start": 148,
-        "end": 195,
+        "start": 175,
+        "end": 199,
         "label": "rep"
       },
       {
-        "start": 196,
-        "end": 248,
+        "start": 225,
+        "end": 251,
         "label": "rep"
       },
       {
-        "start": 249,
-        "end": 302,
+        "start": 279,
+        "end": 304,
         "label": "rep"
       },
       {
-        "start": 303,
-        "end": 359,
+        "start": 336,
+        "end": 358,
         "label": "rep"
       },
       {
-        "start": 360,
+        "start": 393,
         "end": 418,
         "label": "rep"
       },
       {
-        "start": 419,
-        "end": 470,
+        "start": 447,
+        "end": 474,
         "label": "rep"
       },
       {
-        "start": 471,
-        "end": 524,
+        "start": 504,
+        "end": 529,
         "label": "rep"
       },
       {
-        "start": 525,
+        "start": 561,
         "end": 588,
         "label": "rep"
       },
       {
-        "start": 589,
-        "end": 644,
+        "start": 617,
+        "end": 645,
         "label": "rep"
       },
       {
-        "start": 645,
-        "end": 704,
+        "start": 676,
+        "end": 705,
         "label": "rep"
-      },
-      {
-        "start": 705,
-        "end": 780,
-        "label": "finish"
       }
     ]
   },
@@ -235,79 +205,69 @@
     "rep_count": 7,
     "segments": [
       {
-        "start": 0,
-        "end": 116,
-        "label": "prep"
-      },
-      {
-        "start": 117,
-        "end": 154,
+        "start": 127,
+        "end": 160,
         "label": "rep"
       },
       {
-        "start": 155,
-        "end": 214,
+        "start": 193,
+        "end": 216,
         "label": "rep"
       },
       {
-        "start": 215,
-        "end": 267,
+        "start": 246,
+        "end": 269,
         "label": "rep"
       },
       {
-        "start": 268,
-        "end": 333,
+        "start": 305,
+        "end": 329,
         "label": "rep"
       },
       {
-        "start": 334,
-        "end": 380,
+        "start": 360,
+        "end": 387,
         "label": "rep"
       },
       {
-        "start": 381,
-        "end": 437,
+        "start": 413,
+        "end": 436,
         "label": "rep"
       },
       {
-        "start": 438,
-        "end": 498,
+        "start": 476,
+        "end": 502,
         "label": "rep"
       },
       {
-        "start": 499,
+        "start": 543,
         "end": 563,
         "label": "no-rep"
       },
       {
-        "start": 564,
+        "start": 581,
         "end": 603,
         "label": "no-rep"
       },
       {
-        "start": 604,
+        "start": 623,
         "end": 646,
         "label": "no-rep"
       },
       {
-        "start": 647,
-        "end": 684,
+        "start": 671,
+        "end": 683,
         "label": "no-rep"
       },
       {
-        "start": 685,
-        "end": 727,
+        "start": 712,
+        "end": 728,
         "label": "no-rep"
       },
       {
-        "start": 728,
-        "end": 765,
+        "start": 749,
+        "end": 771,
         "label": "no-rep"
-      },
-      {
-        "start": 766,
-        "end": 808,
-        "label": "finish"
       }
     ]
   },
@@ -318,74 +278,64 @@
     "rep_count": 9,
     "segments": [
       {
-        "start": 0,
-        "end": 149,
-        "label": "prep"
-      },
-      {
-        "start": 150,
-        "end": 215,
+        "start": 172,
+        "end": 213,
         "label": "rep"
       },
       {
-        "start": 216,
-        "end": 275,
+        "start": 248,
+        "end": 274,
         "label": "no-rep"
       },
       {
-        "start": 276,
-        "end": 329,
+        "start": 303,
+        "end": 324,
         "label": "no-rep"
       },
       {
-        "start": 330,
-        "end": 378,
+        "start": 354,
+        "end": 380,
         "label": "rep"
       },
       {
-        "start": 379,
-        "end": 430,
+        "start": 409,
+        "end": 432,
         "label": "rep"
       },
       {
-        "start": 431,
-        "end": 479,
+        "start": 457,
+        "end": 477,
         "label": "no-rep"
       },
       {
-        "start": 480,
-        "end": 519,
+        "start": 496,
+        "end": 520,
         "label": "rep"
       },
       {
-        "start": 520,
-        "end": 563,
+        "start": 540,
+        "end": 565,
         "label": "rep"
       },
       {
-        "start": 564,
-        "end": 607,
+        "start": 588,
+        "end": 610,
         "label": "rep"
       },
       {
-        "start": 608,
-        "end": 653,
+        "start": 632,
+        "end": 657,
         "label": "rep"
       },
       {
-        "start": 654,
-        "end": 706,
+        "start": 683,
+        "end": 707,
         "label": "rep"
       },
       {
-        "start": 707,
-        "end": 754,
+        "start": 731,
+        "end": 755,
         "label": "rep"
-      },
-      {
-        "start": 755,
-        "end": 791,
-        "label": "finish"
       }
     ]
   },
@@ -396,89 +346,79 @@
     "rep_count": 8,
     "segments": [
       {
-        "start": 0,
-        "end": 79,
-        "label": "prep"
-      },
-      {
-        "start": 80,
-        "end": 106,
+        "start": 81,
+        "end": 109,
         "label": "rep"
       },
       {
-        "start": 107,
-        "end": 157,
+        "start": 136,
+        "end": 163,
         "label": "rep"
       },
       {
-        "start": 158,
-        "end": 214,
+        "start": 186,
+        "end": 211,
         "label": "rep"
       },
       {
-        "start": 215,
-        "end": 270,
+        "start": 249,
+        "end": 272,
         "label": "no-rep"
       },
       {
-        "start": 271,
-        "end": 311,
+        "start": 290,
+        "end": 313,
         "label": "no-rep"
       },
       {
-        "start": 312,
-        "end": 353,
+        "start": 332,
+        "end": 352,
         "label": "no-rep"
       },
       {
-        "start": 354,
-        "end": 397,
+        "start": 377,
+        "end": 398,
         "label": "no-rep"
       },
       {
-        "start": 398,
-        "end": 440,
+        "start": 419,
+        "end": 442,
         "label": "no-rep"
       },
       {
-        "start": 441,
-        "end": 484,
+        "start": 462,
+        "end": 485,
         "label": "no-rep"
       },
       {
-        "start": 485,
-        "end": 524,
+        "start": 504,
+        "end": 526,
         "label": "no-rep"
       },
       {
-        "start": 525,
-        "end": 574,
+        "start": 553,
+        "end": 577,
         "label": "rep"
       },
       {
-        "start": 575,
-        "end": 627,
+        "start": 603,
+        "end": 633,
         "label": "rep"
       },
       {
-        "start": 628,
-        "end": 682,
+        "start": 657,
+        "end": 681,
         "label": "rep"
       },
       {
-        "start": 683,
-        "end": 736,
+        "start": 710,
+        "end": 735,
         "label": "rep"
       },
       {
-        "start": 737,
-        "end": 790,
+        "start": 764,
+        "end": 792,
         "label": "rep"
-      },
-      {
-        "start": 791,
-        "end": 824,
-        "label": "finish"
       }
     ]
   },
@@ -489,79 +429,69 @@
     "rep_count": 11,
     "segments": [
       {
-        "start": 0,
-        "end": 50,
-        "label": "prep"
-      },
-      {
-        "start": 51,
-        "end": 87,
+        "start": 55,
+        "end": 84,
         "label": "rep"
       },
       {
-        "start": 88,
-        "end": 140,
+        "start": 113,
+        "end": 137,
         "label": "no-rep"
       },
       {
-        "start": 141,
-        "end": 196,
+        "start": 170,
+        "end": 195,
         "label": "rep"
       },
       {
-        "start": 197,
-        "end": 255,
+        "start": 224,
+        "end": 253,
         "label": "rep"
       },
       {
-        "start": 256,
-        "end": 308,
+        "start": 277,
+        "end": 303,
         "label": "rep"
       },
       {
-        "start": 309,
-        "end": 355,
+        "start": 333,
+        "end": 358,
         "label": "rep"
       },
       {
-        "start": 356,
-        "end": 411,
+        "start": 387,
+        "end": 414,
         "label": "rep"
       },
       {
-        "start": 412,
-        "end": 470,
+        "start": 443,
+        "end": 468,
         "label": "rep"
       },
       {
-        "start": 471,
-        "end": 524,
+        "start": 501,
+        "end": 522,
         "label": "rep"
       },
       {
-        "start": 525,
+        "start": 550,
         "end": 577,
         "label": "no-rep"
       },
       {
-        "start": 578,
-        "end": 632,
+        "start": 603,
+        "end": 629,
         "label": "rep"
       },
       {
-        "start": 633,
-        "end": 683,
+        "start": 661,
+        "end": 680,
         "label": "rep"
       },
       {
-        "start": 684,
-        "end": 733,
+        "start": 713,
+        "end": 734,
         "label": "rep"
-      },
-      {
-        "start": 734,
-        "end": 771,
-        "label": "finish"
       }
     ]
   },
@@ -572,79 +502,69 @@
     "rep_count": 13,
     "segments": [
       {
-        "start": 0,
-        "end": 145,
-        "label": "prep"
-      },
-      {
-        "start": 146,
-        "end": 188,
+        "start": 149,
+        "end": 185,
         "label": "rep"
       },
       {
-        "start": 189,
-        "end": 242,
+        "start": 215,
+        "end": 238,
         "label": "rep"
       },
       {
-        "start": 243,
-        "end": 299,
+        "start": 271,
+        "end": 294,
         "label": "rep"
       },
       {
-        "start": 300,
-        "end": 353,
+        "start": 324,
+        "end": 349,
         "label": "rep"
       },
       {
-        "start": 354,
-        "end": 405,
+        "start": 382,
+        "end": 406,
         "label": "rep"
       },
       {
-        "start": 406,
-        "end": 463,
+        "start": 436,
+        "end": 461,
         "label": "rep"
       },
       {
-        "start": 464,
-        "end": 516,
+        "start": 490,
+        "end": 514,
         "label": "rep"
       },
       {
-        "start": 517,
+        "start": 545,
         "end": 574,
         "label": "rep"
       },
       {
-        "start": 575,
-        "end": 629,
+        "start": 606,
+        "end": 627,
         "label": "rep"
       },
       {
-        "start": 630,
-        "end": 682,
+        "start": 656,
+        "end": 681,
         "label": "rep"
       },
       {
-        "start": 683,
-        "end": 734,
+        "start": 707,
+        "end": 729,
         "label": "rep"
       },
       {
-        "start": 735,
-        "end": 791,
+        "start": 762,
+        "end": 785,
         "label": "rep"
       },
       {
-        "start": 792,
-        "end": 846,
+        "start": 817,
+        "end": 841,
         "label": "rep"
-      },
-      {
-        "start": 847,
-        "end": 900,
-        "label": "finish"
       }
     ]
   },
@@ -655,79 +575,69 @@
     "rep_count": 13,
     "segments": [
       {
-        "start": 0,
-        "end": 66,
-        "label": "prep"
-      },
-      {
-        "start": 67,
-        "end": 91,
+        "start": 68,
+        "end": 94,
         "label": "rep"
       },
       {
-        "start": 92,
+        "start": 120,
         "end": 139,
         "label": "rep"
       },
       {
-        "start": 140,
-        "end": 185,
+        "start": 165,
+        "end": 184,
         "label": "rep"
       },
       {
-        "start": 186,
-        "end": 229,
+        "start": 210,
+        "end": 231,
         "label": "rep"
       },
       {
-        "start": 230,
-        "end": 273,
+        "start": 253,
+        "end": 274,
         "label": "rep"
       },
       {
-        "start": 274,
-        "end": 316,
+        "start": 297,
+        "end": 318,
         "label": "rep"
       },
       {
-        "start": 317,
-        "end": 358,
+        "start": 338,
+        "end": 360,
         "label": "rep"
       },
       {
-        "start": 359,
-        "end": 400,
+        "start": 381,
+        "end": 402,
         "label": "rep"
       },
       {
-        "start": 401,
+        "start": 422,
         "end": 443,
         "label": "rep"
       },
       {
-        "start": 444,
+        "start": 463,
         "end": 485,
         "label": "rep"
       },
       {
-        "start": 486,
-        "end": 524,
+        "start": 507,
+        "end": 527,
         "label": "rep"
       },
       {
-        "start": 525,
-        "end": 567,
+        "start": 546,
+        "end": 568,
         "label": "rep"
       },
       {
-        "start": 568,
-        "end": 615,
+        "start": 590,
+        "end": 612,
         "label": "rep"
-      },
-      {
-        "start": 616,
-        "end": 646,
-        "label": "finish"
       }
     ]
   },
@@ -738,64 +648,54 @@
     "rep_count": 10,
     "segments": [
       {
-        "start": 0,
-        "end": 82,
-        "label": "prep"
-      },
-      {
-        "start": 83,
-        "end": 124,
+        "start": 85,
+        "end": 120,
         "label": "rep"
       },
       {
-        "start": 125,
-        "end": 180,
+        "start": 156,
+        "end": 183,
         "label": "rep"
       },
       {
-        "start": 181,
-        "end": 240,
+        "start": 214,
+        "end": 239,
         "label": "rep"
       },
       {
-        "start": 241,
-        "end": 297,
+        "start": 272,
+        "end": 295,
         "label": "rep"
       },
       {
-        "start": 298,
+        "start": 326,
         "end": 351,
         "label": "rep"
       },
       {
-        "start": 352,
-        "end": 406,
+        "start": 379,
+        "end": 404,
         "label": "rep"
       },
       {
-        "start": 407,
-        "end": 459,
+        "start": 434,
+        "end": 456,
         "label": "rep"
       },
       {
-        "start": 460,
-        "end": 513,
+        "start": 490,
+        "end": 512,
         "label": "rep"
       },
       {
-        "start": 514,
-        "end": 566,
+        "start": 542,
+        "end": 563,
         "label": "rep"
       },
       {
-        "start": 567,
-        "end": 621,
+        "start": 594,
+        "end": 618,
         "label": "rep"
-      },
-      {
-        "start": 622,
-        "end": 685,
-        "label": "finish"
       }
     ]
   },
@@ -806,74 +706,64 @@
     "rep_count": 10,
     "segments": [
       {
-        "start": 0,
-        "end": 16,
-        "label": "prep"
-      },
-      {
-        "start": 17,
-        "end": 50,
+        "start": 23,
+        "end": 52,
         "label": "rep"
       },
       {
-        "start": 51,
-        "end": 114,
+        "start": 90,
+        "end": 113,
         "label": "rep"
       },
       {
-        "start": 115,
-        "end": 162,
+        "start": 145,
+        "end": 166,
         "label": "rep"
       },
       {
-        "start": 163,
-        "end": 219,
+        "start": 193,
+        "end": 217,
         "label": "rep"
       },
       {
-        "start": 220,
+        "start": 262,
         "end": 284,
         "label": "rep"
       },
       {
-        "start": 285,
-        "end": 320,
+        "start": 304,
+        "end": 321,
         "label": "no-rep"
       },
       {
-        "start": 321,
-        "end": 353,
+        "start": 340,
+        "end": 356,
         "label": "no-rep"
       },
       {
-        "start": 354,
-        "end": 420,
+        "start": 374,
+        "end": 391,
         "label": "rep"
       },
       {
-        "start": 421,
-        "end": 530,
+        "start": 506,
+        "end": 532,
         "label": "rep"
       },
       {
-        "start": 531,
-        "end": 593,
+        "start": 559,
+        "end": 589,
         "label": "rep"
       },
       {
-        "start": 594,
-        "end": 649,
+        "start": 622,
+        "end": 646,
         "label": "rep"
       },
       {
-        "start": 650,
-        "end": 710,
+        "start": 682,
+        "end": 712,
         "label": "rep"
-      },
-      {
-        "start": 711,
-        "end": 762,
-        "label": "finish"
       }
     ]
   },
@@ -884,74 +774,64 @@
     "rep_count": 6,
     "segments": [
       {
-        "start": 0,
-        "end": 100,
-        "label": "prep"
-      },
-      {
-        "start": 101,
-        "end": 147,
+        "start": 96,
+        "end": 146,
         "label": "rep"
       },
       {
-        "start": 148,
-        "end": 191,
+        "start": 173,
+        "end": 194,
         "label": "rep"
       },
       {
-        "start": 192,
-        "end": 237,
+        "start": 217,
+        "end": 239,
         "label": "no-rep"
       },
       {
-        "start": 238,
-        "end": 278,
+        "start": 260,
+        "end": 280,
         "label": "no-rep"
       },
       {
-        "start": 279,
-        "end": 318,
+        "start": 300,
+        "end": 319,
         "label": "no-rep"
       },
       {
-        "start": 319,
-        "end": 361,
+        "start": 339,
+        "end": 359,
         "label": "rep"
       },
       {
-        "start": 362,
-        "end": 402,
+        "start": 383,
+        "end": 403,
         "label": "no-rep"
       },
       {
-        "start": 403,
-        "end": 442,
+        "start": 424,
+        "end": 443,
         "label": "no-rep"
       },
       {
-        "start": 443,
-        "end": 484,
+        "start": 464,
+        "end": 487,
         "label": "rep"
       },
       {
-        "start": 485,
+        "start": 509,
         "end": 528,
         "label": "no-rep"
       },
       {
-        "start": 529,
-        "end": 570,
+        "start": 547,
+        "end": 569,
         "label": "rep"
       },
       {
-        "start": 571,
-        "end": 620,
+        "start": 596,
+        "end": 621,
         "label": "rep"
-      },
-      {
-        "start": 621,
-        "end": 776,
-        "label": "finish"
       }
     ]
   },
@@ -962,74 +842,64 @@
     "rep_count": 12,
     "segments": [
       {
-        "start": 0,
-        "end": 57,
-        "label": "prep"
-      },
-      {
-        "start": 58,
-        "end": 83,
+        "start": 59,
+        "end": 85,
         "label": "rep"
       },
       {
-        "start": 84,
-        "end": 142,
+        "start": 116,
+        "end": 141,
         "label": "rep"
       },
       {
-        "start": 143,
-        "end": 197,
+        "start": 171,
+        "end": 195,
         "label": "rep"
       },
       {
-        "start": 198,
-        "end": 260,
+        "start": 232,
+        "end": 263,
         "label": "rep"
       },
       {
-        "start": 261,
-        "end": 326,
+        "start": 294,
+        "end": 322,
         "label": "rep"
       },
       {
-        "start": 327,
-        "end": 391,
+        "start": 360,
+        "end": 384,
         "label": "rep"
       },
       {
-        "start": 392,
-        "end": 450,
+        "start": 425,
+        "end": 451,
         "label": "rep"
       },
       {
-        "start": 451,
-        "end": 517,
+        "start": 490,
+        "end": 518,
         "label": "rep"
       },
       {
-        "start": 518,
-        "end": 592,
+        "start": 558,
+        "end": 584,
         "label": "rep"
       },
       {
-        "start": 593,
-        "end": 660,
+        "start": 625,
+        "end": 653,
         "label": "rep"
       },
       {
-        "start": 661,
-        "end": 731,
+        "start": 695,
+        "end": 721,
         "label": "rep"
       },
       {
-        "start": 732,
-        "end": 796,
+        "start": 773,
+        "end": 800,
         "label": "rep"
-      },
-      {
-        "start": 797,
-        "end": 828,
-        "label": "finish"
       }
     ]
   },
@@ -1040,74 +910,64 @@
     "rep_count": 12,
     "segments": [
       {
-        "start": 0,
-        "end": 67,
-        "label": "prep"
-      },
-      {
-        "start": 68,
-        "end": 103,
+        "start": 71,
+        "end": 100,
         "label": "rep"
       },
       {
-        "start": 104,
-        "end": 152,
+        "start": 124,
+        "end": 149,
         "label": "rep"
       },
       {
-        "start": 153,
+        "start": 174,
         "end": 197,
         "label": "rep"
       },
       {
-        "start": 198,
+        "start": 223,
         "end": 247,
         "label": "rep"
       },
       {
-        "start": 248,
-        "end": 296,
+        "start": 273,
+        "end": 298,
         "label": "rep"
       },
       {
-        "start": 297,
-        "end": 349,
+        "start": 322,
+        "end": 347,
         "label": "rep"
       },
       {
-        "start": 350,
-        "end": 400,
+        "start": 375,
+        "end": 398,
         "label": "rep"
       },
       {
-        "start": 401,
+        "start": 426,
         "end": 451,
         "label": "rep"
       },
       {
-        "start": 452,
-        "end": 503,
+        "start": 479,
+        "end": 501,
         "label": "rep"
       },
       {
-        "start": 504,
+        "start": 530,
         "end": 554,
         "label": "rep"
       },
       {
-        "start": 555,
-        "end": 606,
+        "start": 579,
+        "end": 603,
         "label": "rep"
       },
       {
-        "start": 607,
-        "end": 656,
+        "start": 631,
+        "end": 655,
         "label": "rep"
-      },
-      {
-        "start": 657,
-        "end": 669,
-        "label": "finish"
       }
     ]
   },
@@ -1118,84 +978,74 @@
     "rep_count": 11,
     "segments": [
       {
-        "start": 0,
-        "end": 96,
-        "label": "prep"
-      },
-      {
-        "start": 97,
-        "end": 144,
+        "start": 102,
+        "end": 131,
         "label": "rep"
       },
       {
-        "start": 145,
+        "start": 174,
         "end": 198,
         "label": "rep"
       },
       {
-        "start": 199,
-        "end": 253,
+        "start": 228,
+        "end": 254,
         "label": "rep"
       },
       {
-        "start": 254,
-        "end": 305,
+        "start": 277,
+        "end": 296,
         "label": "rep"
       },
       {
-        "start": 306,
-        "end": 348,
+        "start": 329,
+        "end": 350,
         "label": "rep"
       },
       {
-        "start": 349,
-        "end": 409,
+        "start": 379,
+        "end": 400,
         "label": "rep"
       },
       {
-        "start": 410,
+        "start": 431,
         "end": 455,
         "label": "rep"
       },
       {
-        "start": 456,
+        "start": 484,
         "end": 505,
         "label": "rep"
       },
       {
-        "start": 506,
-        "end": 564,
+        "start": 538,
+        "end": 558,
         "label": "rep"
       },
       {
-        "start": 565,
-        "end": 618,
+        "start": 592,
+        "end": 614,
         "label": "rep"
       },
       {
-        "start": 619,
-        "end": 677,
+        "start": 647,
+        "end": 668,
         "label": "rep"
       },
       {
-        "start": 678,
-        "end": 736,
+        "start": 709,
+        "end": 729,
         "label": "no-rep"
       },
       {
-        "start": 737,
-        "end": 787,
+        "start": 768,
+        "end": 790,
         "label": "no-rep"
       },
       {
-        "start": 788,
-        "end": 832,
+        "start": 813,
+        "end": 833,
         "label": "no-rep"
-      },
-      {
-        "start": 833,
-        "end": 889,
-        "label": "finish"
       }
     ]
   },
@@ -1206,74 +1056,64 @@
     "rep_count": 9,
     "segments": [
       {
-        "start": 0,
-        "end": 327,
-        "label": "prep"
-      },
-      {
-        "start": 328,
+        "start": 331,
         "end": 352,
         "label": "no-rep"
       },
       {
-        "start": 353,
-        "end": 395,
+        "start": 377,
+        "end": 398,
         "label": "no-rep"
       },
       {
-        "start": 396,
-        "end": 439,
+        "start": 423,
+        "end": 441,
         "label": "no-rep"
       },
       {
-        "start": 440,
-        "end": 484,
+        "start": 466,
+        "end": 485,
         "label": "rep"
       },
       {
-        "start": 485,
-        "end": 534,
+        "start": 511,
+        "end": 530,
         "label": "rep"
       },
       {
-        "start": 535,
+        "start": 556,
         "end": 574,
         "label": "rep"
       },
       {
-        "start": 575,
-        "end": 615,
+        "start": 599,
+        "end": 618,
         "label": "rep"
       },
       {
-        "start": 616,
+        "start": 642,
         "end": 661,
         "label": "rep"
       },
       {
-        "start": 662,
-        "end": 701,
+        "start": 686,
+        "end": 704,
         "label": "rep"
       },
       {
-        "start": 702,
+        "start": 726,
         "end": 745,
         "label": "rep"
       },
       {
-        "start": 746,
-        "end": 784,
+        "start": 769,
+        "end": 786,
         "label": "rep"
       },
       {
-        "start": 785,
-        "end": 831,
+        "start": 809,
+        "end": 830,
         "label": "rep"
-      },
-      {
-        "start": 832,
-        "end": 861,
-        "label": "finish"
       }
     ]
   },
@@ -1284,74 +1124,64 @@
     "rep_count": 9,
     "segments": [
       {
-        "start": 0,
-        "end": 91,
-        "label": "prep"
-      },
-      {
         "start": 92,
-        "end": 119,
+        "end": 118,
         "label": "rep"
       },
       {
-        "start": 120,
-        "end": 173,
+        "start": 149,
+        "end": 171,
         "label": "rep"
       },
       {
-        "start": 174,
-        "end": 228,
+        "start": 203,
+        "end": 229,
         "label": "rep"
       },
       {
-        "start": 229,
-        "end": 286,
+        "start": 262,
+        "end": 285,
         "label": "rep"
       },
       {
-        "start": 287,
-        "end": 342,
+        "start": 316,
+        "end": 339,
         "label": "rep"
       },
       {
-        "start": 343,
-        "end": 396,
+        "start": 372,
+        "end": 395,
         "label": "rep"
       },
       {
-        "start": 397,
-        "end": 455,
+        "start": 425,
+        "end": 450,
         "label": "rep"
       },
       {
-        "start": 456,
-        "end": 507,
+        "start": 482,
+        "end": 505,
         "label": "rep"
       },
       {
-        "start": 508,
-        "end": 568,
+        "start": 539,
+        "end": 561,
         "label": "rep"
       },
       {
-        "start": 569,
-        "end": 620,
+        "start": 597,
+        "end": 624,
         "label": "no-rep"
       },
       {
-        "start": 621,
-        "end": 674,
+        "start": 653,
+        "end": 679,
         "label": "no-rep"
       },
       {
-        "start": 675,
+        "start": 709,
         "end": 732,
         "label": "no-rep"
-      },
-      {
-        "start": 733,
-        "end": 779,
-        "label": "finish"
       }
     ]
   },
@@ -1362,69 +1192,59 @@
     "rep_count": 8,
     "segments": [
       {
-        "start": 0,
-        "end": 56,
-        "label": "prep"
-      },
-      {
-        "start": 57,
-        "end": 84,
+        "start": 62,
+        "end": 85,
         "label": "rep"
       },
       {
-        "start": 85,
-        "end": 144,
+        "start": 118,
+        "end": 138,
         "label": "rep"
       },
       {
-        "start": 145,
+        "start": 179,
         "end": 195,
         "label": "rep"
       },
       {
-        "start": 196,
-        "end": 249,
+        "start": 226,
+        "end": 246,
         "label": "rep"
       },
       {
-        "start": 250,
-        "end": 301,
+        "start": 274,
+        "end": 297,
         "label": "rep"
       },
       {
-        "start": 302,
-        "end": 350,
+        "start": 329,
+        "end": 348,
         "label": "rep"
       },
       {
-        "start": 351,
-        "end": 406,
+        "start": 379,
+        "end": 401,
         "label": "rep"
       },
       {
-        "start": 407,
-        "end": 457,
+        "start": 437,
+        "end": 458,
         "label": "rep"
       },
       {
-        "start": 458,
-        "end": 492,
+        "start": 480,
+        "end": 498,
         "label": "no-rep"
       },
       {
-        "start": 493,
-        "end": 533,
+        "start": 518,
+        "end": 536,
         "label": "no-rep"
       },
       {
-        "start": 534,
-        "end": 578,
+        "start": 560,
+        "end": 577,
         "label": "no-rep"
-      },
-      {
-        "start": 579,
-        "end": 638,
-        "label": "finish"
       }
     ]
   },
@@ -1435,74 +1255,64 @@
     "rep_count": 12,
     "segments": [
       {
-        "start": 0,
-        "end": 75,
-        "label": "prep"
-      },
-      {
-        "start": 76,
-        "end": 109,
+        "start": 84,
+        "end": 111,
         "label": "rep"
       },
       {
-        "start": 110,
+        "start": 136,
         "end": 158,
         "label": "rep"
       },
       {
-        "start": 159,
-        "end": 209,
+        "start": 185,
+        "end": 207,
         "label": "rep"
       },
       {
-        "start": 210,
-        "end": 263,
+        "start": 237,
+        "end": 259,
         "label": "rep"
       },
       {
-        "start": 264,
-        "end": 314,
+        "start": 289,
+        "end": 308,
         "label": "rep"
       },
       {
-        "start": 315,
-        "end": 366,
+        "start": 340,
+        "end": 365,
         "label": "rep"
       },
       {
-        "start": 367,
-        "end": 421,
+        "start": 393,
+        "end": 418,
         "label": "rep"
       },
       {
-        "start": 422,
-        "end": 477,
+        "start": 451,
+        "end": 470,
         "label": "rep"
       },
       {
-        "start": 478,
-        "end": 529,
+        "start": 503,
+        "end": 531,
         "label": "rep"
       },
       {
-        "start": 530,
-        "end": 587,
+        "start": 561,
+        "end": 585,
         "label": "rep"
       },
       {
-        "start": 588,
-        "end": 647,
+        "start": 619,
+        "end": 641,
         "label": "rep"
       },
       {
-        "start": 648,
-        "end": 700,
+        "start": 675,
+        "end": 698,
         "label": "rep"
-      },
-      {
-        "start": 701,
-        "end": 721,
-        "label": "finish"
       }
     ]
   },
@@ -1513,74 +1323,64 @@
     "rep_count": 9,
     "segments": [
       {
-        "start": 0,
-        "end": 81,
-        "label": "prep"
-      },
-      {
-        "start": 82,
-        "end": 111,
+        "start": 88,
+        "end": 112,
         "label": "rep"
       },
       {
-        "start": 112,
-        "end": 166,
+        "start": 140,
+        "end": 162,
         "label": "rep"
       },
       {
-        "start": 167,
-        "end": 221,
+        "start": 195,
+        "end": 216,
         "label": "rep"
       },
       {
-        "start": 222,
+        "start": 254,
         "end": 273,
         "label": "no-rep"
       },
       {
-        "start": 274,
-        "end": 322,
+        "start": 300,
+        "end": 320,
         "label": "no-rep"
       },
       {
-        "start": 323,
-        "end": 372,
+        "start": 349,
+        "end": 370,
         "label": "no-rep"
       },
       {
-        "start": 373,
-        "end": 420,
+        "start": 394,
+        "end": 417,
         "label": "rep"
       },
       {
-        "start": 421,
-        "end": 477,
+        "start": 451,
+        "end": 472,
         "label": "rep"
       },
       {
-        "start": 478,
-        "end": 530,
+        "start": 505,
+        "end": 528,
         "label": "rep"
       },
       {
-        "start": 531,
-        "end": 588,
+        "start": 560,
+        "end": 583,
         "label": "rep"
       },
       {
-        "start": 589,
-        "end": 641,
+        "start": 617,
+        "end": 637,
         "label": "rep"
       },
       {
-        "start": 642,
-        "end": 699,
+        "start": 673,
+        "end": 695,
         "label": "rep"
-      },
-      {
-        "start": 700,
-        "end": 723,
-        "label": "finish"
       }
     ]
   },
@@ -1591,79 +1391,69 @@
     "rep_count": 7,
     "segments": [
       {
-        "start": 0,
-        "end": 56,
-        "label": "prep"
-      },
-      {
-        "start": 57,
-        "end": 93,
+        "start": 64,
+        "end": 86,
         "label": "rep"
       },
       {
-        "start": 94,
+        "start": 118,
         "end": 143,
         "label": "no-rep"
       },
       {
-        "start": 144,
-        "end": 194,
+        "start": 169,
+        "end": 193,
         "label": "no-rep"
       },
       {
-        "start": 195,
-        "end": 247,
+        "start": 221,
+        "end": 245,
         "label": "rep"
       },
       {
-        "start": 248,
-        "end": 303,
+        "start": 273,
+        "end": 298,
         "label": "rep"
       },
       {
-        "start": 304,
-        "end": 352,
+        "start": 328,
+        "end": 349,
         "label": "no-rep"
       },
       {
-        "start": 353,
-        "end": 410,
+        "start": 379,
+        "end": 403,
         "label": "no-rep"
       },
       {
-        "start": 411,
-        "end": 460,
+        "start": 434,
+        "end": 453,
         "label": "rep"
       },
       {
-        "start": 461,
-        "end": 507,
+        "start": 481,
+        "end": 503,
         "label": "no-rep"
       },
       {
-        "start": 508,
-        "end": 554,
+        "start": 526,
+        "end": 546,
         "label": "no-rep"
       },
       {
-        "start": 555,
-        "end": 602,
+        "start": 578,
+        "end": 599,
         "label": "rep"
       },
       {
-        "start": 603,
-        "end": 655,
+        "start": 630,
+        "end": 651,
         "label": "rep"
       },
       {
-        "start": 656,
-        "end": 697,
+        "start": 679,
+        "end": 699,
         "label": "rep"
-      },
-      {
-        "start": 698,
-        "end": 735,
-        "label": "finish"
       }
     ]
   },
@@ -4232,10 +4022,10 @@
     ]
   },
   {
-    "filename": "squat_diag_m4_6_6.mp4",
+    "filename": "squat_diag_m4_5_7.mp4",
     "exercise": "squat",
-    "binary_label": "110001111000",
-    "rep_count": 6,
+    "binary_label": "010001111000",
+    "rep_count": 5,
     "segments": [
       {
         "start": 0,
@@ -4245,7 +4035,7 @@
       {
         "start": 25,
         "end": 66,
-        "label": "rep"
+        "label": "no-rep"
       },
       {
         "start": 67,
