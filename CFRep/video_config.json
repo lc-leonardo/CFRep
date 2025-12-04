@@ -1464,42 +1464,37 @@
     "rep_count": 12,
     "segments": [
       {
-        "start": 0,
-        "end": 13,
-        "label": "prep"
-      },
-      {
-        "start": 14,
-        "end": 28,
+        "start": 8,
+        "end": 26,
         "label": "no-rep"
       },
       {
-        "start": 29,
-        "end": 45,
+        "start": 27,
+        "end": 44,
         "label": "rep"
       },
       {
-        "start": 46,
-        "end": 63,
+        "start": 45,
+        "end": 60,
         "label": "rep"
       },
       {
-        "start": 64,
-        "end": 77,
+        "start": 61,
+        "end": 78,
         "label": "rep"
       },
       {
-        "start": 78,
+        "start": 79,
         "end": 94,
         "label": "rep"
       },
       {
         "start": 95,
-        "end": 112,
+        "end": 111,
         "label": "rep"
       },
       {
-        "start": 113,
+        "start": 112,
         "end": 127,
         "label": "rep"
       },
@@ -1525,23 +1520,23 @@
       },
       {
         "start": 195,
-        "end": 212,
+        "end": 213,
         "label": "rep"
       },
       {
-        "start": 213,
-        "end": 229,
+        "start": 214,
+        "end": 228,
         "label": "rep"
       },
       {
-        "start": 230,
-        "end": 247,
+        "start": 229,
+        "end": 245,
         "label": "no-rep"
       },
       {
-        "start": 248,
-        "end": 271,
-        "label": "finish"
+        "start": 246,
+        "end": 262,
+        "label": "no-rep"
       }
     ]
   },
@@ -1679,12 +1674,7 @@
     "rep_count": 9,
     "segments": [
       {
-        "start": 0,
-        "end": 35,
-        "label": "prep"
-      },
-      {
-        "start": 36,
+        "start": 37,
         "end": 52,
         "label": "no-rep"
       },
@@ -1695,78 +1685,73 @@
       },
       {
         "start": 66,
-        "end": 76,
+        "end": 77,
         "label": "no-rep"
       },
       {
-        "start": 77,
+        "start": 78,
         "end": 88,
         "label": "no-rep"
       },
       {
         "start": 89,
-        "end": 100,
+        "end": 99,
         "label": "no-rep"
       },
       {
-        "start": 101,
-        "end": 112,
+        "start": 100,
+        "end": 111,
         "label": "no-rep"
       },
       {
-        "start": 113,
-        "end": 128,
+        "start": 112,
+        "end": 127,
         "label": "rep"
       },
       {
-        "start": 129,
-        "end": 145,
+        "start": 128,
+        "end": 144,
         "label": "rep"
       },
       {
-        "start": 146,
+        "start": 145,
         "end": 162,
         "label": "rep"
       },
       {
         "start": 163,
-        "end": 180,
+        "end": 178,
         "label": "rep"
       },
       {
-        "start": 181,
-        "end": 196,
+        "start": 179,
+        "end": 195,
         "label": "rep"
       },
       {
-        "start": 197,
-        "end": 213,
+        "start": 196,
+        "end": 212,
         "label": "rep"
       },
       {
-        "start": 214,
-        "end": 231,
+        "start": 213,
+        "end": 229,
         "label": "rep"
       },
       {
-        "start": 232,
-        "end": 247,
+        "start": 230,
+        "end": 246,
         "label": "rep"
       },
       {
-        "start": 248,
+        "start": 247,
         "end": 263,
         "label": "rep"
       },
       {
         "start": 264,
-        "end": 279,
+        "end": 280,
         "label": "no-rep"
-      },
-      {
-        "start": 280,
-        "end": 367,
-        "label": "finish"
       }
     ]
   },
@@ -1777,32 +1762,27 @@
     "rep_count": 6,
     "segments": [
       {
-        "start": 0,
-        "end": 16,
-        "label": "prep"
-      },
-      {
-        "start": 17,
-        "end": 29,
+        "start": 14,
+        "end": 30,
         "label": "no-rep"
       },
       {
-        "start": 30,
+        "start": 31,
         "end": 45,
         "label": "no-rep"
       },
       {
         "start": 46,
-        "end": 60,
+        "end": 59,
         "label": "no-rep"
       },
       {
-        "start": 61,
-        "end": 74,
+        "start": 60,
+        "end": 73,
         "label": "no-rep"
       },
       {
-        "start": 75,
+        "start": 74,
         "end": 88,
         "label": "no-rep"
       },
@@ -1818,33 +1798,28 @@
       },
       {
         "start": 122,
-        "end": 138,
+        "end": 139,
         "label": "rep"
       },
       {
-        "start": 139,
-        "end": 154,
+        "start": 140,
+        "end": 155,
         "label": "rep"
       },
       {
-        "start": 155,
-        "end": 170,
+        "start": 156,
+        "end": 171,
         "label": "rep"
       },
       {
-        "start": 171,
-        "end": 188,
+        "start": 172,
+        "end": 187,
         "label": "rep"
       },
       {
-        "start": 189,
+        "start": 188,
         "end": 204,
         "label": "rep"
-      },
-      {
-        "start": 205,
-        "end": 241,
-        "label": "finish"
       }
     ]
   },
@@ -1855,42 +1830,37 @@
     "rep_count": 14,
     "segments": [
       {
-        "start": 0,
-        "end": 28,
-        "label": "prep"
-      },
-      {
-        "start": 29,
-        "end": 48,
+        "start": 28,
+        "end": 46,
         "label": "no-rep"
       },
       {
-        "start": 49,
-        "end": 64,
+        "start": 47,
+        "end": 63,
         "label": "no-rep"
       },
       {
-        "start": 65,
-        "end": 80,
+        "start": 64,
+        "end": 79,
         "label": "rep"
       },
       {
-        "start": 81,
-        "end": 97,
+        "start": 80,
+        "end": 98,
         "label": "rep"
       },
       {
-        "start": 98,
-        "end": 114,
+        "start": 99,
+        "end": 113,
         "label": "rep"
       },
       {
-        "start": 115,
-        "end": 130,
+        "start": 114,
+        "end": 129,
         "label": "rep"
       },
       {
-        "start": 131,
+        "start": 130,
         "end": 146,
         "label": "rep"
       },
@@ -1906,11 +1876,11 @@
       },
       {
         "start": 179,
-        "end": 194,
+        "end": 193,
         "label": "rep"
       },
       {
-        "start": 195,
+        "start": 194,
         "end": 210,
         "label": "rep"
       },
@@ -1926,35 +1896,30 @@
       },
       {
         "start": 244,
-        "end": 259,
+        "end": 258,
         "label": "rep"
       },
       {
-        "start": 260,
+        "start": 259,
         "end": 276,
         "label": "rep"
       },
       {
         "start": 277,
-        "end": 293,
+        "end": 291,
         "label": "rep"
       },
       {
-        "start": 294,
-        "end": 306,
+        "start": 292,
+        "end": 308,
         "label": "no-rep"
-      },
-      {
-        "start": 307,
-        "end": 334,
-        "label": "finish"
       }
     ]
   },
   {
-    "filename": "double-unders_diag_w2_6_4.mp4",
+    "filename": "double-unders_diag_w2_6_5.mp4",
     "exercise": "double_unders",
-    "binary_label": "1100110110",
+    "binary_label": "11001101100",
     "rep_count": 6,
     "segments": [
       {
@@ -2014,6 +1979,11 @@
       },
       {
         "start": 203,
+        "end": 254,
+        "label": "no-rep"
+      },
+      {
+        "start": 255,
         "end": 254,
         "label": "finish"
       }
@@ -5029,73 +4999,63 @@
     "segments": [
       {
         "start": 0,
-        "end": 0,
-        "label": "prep"
-      },
-      {
-        "start": 1,
-        "end": 42,
+        "end": 19,
         "label": "no-rep"
       },
       {
-        "start": 43,
-        "end": 91,
+        "start": 42,
+        "end": 69,
         "label": "rep"
       },
       {
         "start": 92,
-        "end": 143,
+        "end": 118,
         "label": "rep"
       },
       {
-        "start": 144,
-        "end": 189,
+        "start": 142,
+        "end": 167,
         "label": "rep"
       },
       {
         "start": 190,
-        "end": 235,
+        "end": 213,
         "label": "rep"
       },
       {
-        "start": 236,
-        "end": 283,
+        "start": 238,
+        "end": 261,
         "label": "rep"
       },
       {
         "start": 284,
-        "end": 329,
+        "end": 307,
         "label": "rep"
       },
       {
-        "start": 330,
-        "end": 381,
+        "start": 334,
+        "end": 358,
         "label": "rep"
       },
       {
-        "start": 382,
-        "end": 432,
+        "start": 383,
+        "end": 405,
         "label": "rep"
       },
       {
-        "start": 433,
-        "end": 485,
+        "start": 435,
+        "end": 466,
         "label": "rep"
       },
       {
-        "start": 486,
-        "end": 532,
+        "start": 488,
+        "end": 512,
         "label": "rep"
       },
       {
-        "start": 533,
-        "end": 584,
+        "start": 538,
+        "end": 561,
         "label": "rep"
-      },
-      {
-        "start": 585,
-        "end": 594,
-        "label": "finish"
       }
     ]
   },
@@ -5106,74 +5066,64 @@
     "rep_count": 12,
     "segments": [
       {
-        "start": 0,
-        "end": 57,
-        "label": "prep"
-      },
-      {
-        "start": 58,
-        "end": 102,
+        "start": 60,
+        "end": 84,
         "label": "rep"
       },
       {
-        "start": 103,
-        "end": 140,
+        "start": 104,
+        "end": 124,
         "label": "rep"
       },
       {
-        "start": 141,
-        "end": 178,
+        "start": 143,
+        "end": 162,
         "label": "rep"
       },
       {
-        "start": 179,
-        "end": 221,
+        "start": 182,
+        "end": 202,
         "label": "rep"
       },
       {
         "start": 222,
-        "end": 263,
+        "end": 243,
         "label": "rep"
       },
       {
-        "start": 264,
-        "end": 304,
+        "start": 262,
+        "end": 284,
         "label": "rep"
       },
       {
-        "start": 305,
-        "end": 343,
+        "start": 304,
+        "end": 325,
         "label": "rep"
       },
       {
-        "start": 344,
-        "end": 388,
+        "start": 346,
+        "end": 367,
         "label": "rep"
       },
       {
-        "start": 389,
-        "end": 428,
+        "start": 387,
+        "end": 409,
         "label": "rep"
       },
       {
-        "start": 429,
-        "end": 471,
+        "start": 431,
+        "end": 453,
         "label": "rep"
       },
       {
-        "start": 472,
-        "end": 514,
+        "start": 474,
+        "end": 494,
         "label": "rep"
       },
       {
-        "start": 515,
-        "end": 557,
+        "start": 513,
+        "end": 535,
         "label": "rep"
-      },
-      {
-        "start": 558,
-        "end": 574,
-        "label": "finish"
       }
     ]
   },
@@ -5184,74 +5134,64 @@
     "rep_count": 12,
     "segments": [
       {
-        "start": 0,
-        "end": 8,
-        "label": "prep"
-      },
-      {
-        "start": 9,
-        "end": 53,
+        "start": 8,
+        "end": 32,
         "label": "rep"
       },
       {
         "start": 54,
-        "end": 98,
+        "end": 75,
         "label": "rep"
       },
       {
-        "start": 99,
-        "end": 142,
+        "start": 95,
+        "end": 119,
         "label": "rep"
       },
       {
-        "start": 143,
-        "end": 187,
+        "start": 140,
+        "end": 167,
         "label": "rep"
       },
       {
-        "start": 188,
-        "end": 239,
+        "start": 186,
+        "end": 215,
         "label": "rep"
       },
       {
-        "start": 240,
-        "end": 291,
+        "start": 241,
+        "end": 264,
         "label": "rep"
       },
       {
-        "start": 292,
-        "end": 337,
+        "start": 286,
+        "end": 315,
         "label": "rep"
       },
       {
-        "start": 338,
-        "end": 388,
+        "start": 337,
+        "end": 364,
         "label": "rep"
       },
       {
-        "start": 389,
-        "end": 436,
+        "start": 385,
+        "end": 413,
         "label": "rep"
       },
       {
-        "start": 437,
-        "end": 485,
+        "start": 439,
+        "end": 463,
         "label": "rep"
       },
       {
-        "start": 486,
-        "end": 540,
+        "start": 490,
+        "end": 514,
         "label": "rep"
       },
       {
         "start": 541,
-        "end": 592,
+        "end": 567,
         "label": "rep"
-      },
-      {
-        "start": 593,
-        "end": 617,
-        "label": "finish"
       }
     ]
   },
@@ -5262,79 +5202,69 @@
     "rep_count": 7,
     "segments": [
       {
-        "start": 0,
-        "end": 13,
-        "label": "prep"
-      },
-      {
-        "start": 14,
-        "end": 60,
+        "start": 13,
+        "end": 38,
         "label": "no-rep"
       },
       {
-        "start": 61,
-        "end": 105,
+        "start": 59,
+        "end": 82,
         "label": "no-rep"
       },
       {
-        "start": 106,
-        "end": 147,
+        "start": 104,
+        "end": 128,
         "label": "rep"
       },
       {
         "start": 148,
-        "end": 196,
+        "end": 174,
         "label": "rep"
       },
       {
-        "start": 197,
-        "end": 244,
+        "start": 199,
+        "end": 221,
         "label": "rep"
       },
       {
-        "start": 245,
-        "end": 292,
+        "start": 244,
+        "end": 269,
         "label": "no-rep"
       },
       {
-        "start": 293,
-        "end": 337,
+        "start": 291,
+        "end": 315,
         "label": "no-rep"
       },
       {
-        "start": 338,
-        "end": 377,
+        "start": 336,
+        "end": 357,
         "label": "rep"
       },
       {
-        "start": 378,
-        "end": 431,
+        "start": 381,
+        "end": 405,
         "label": "rep"
       },
       {
-        "start": 432,
-        "end": 476,
+        "start": 430,
+        "end": 455,
         "label": "rep"
       },
       {
-        "start": 477,
-        "end": 522,
+        "start": 478,
+        "end": 502,
         "label": "no-rep"
       },
       {
-        "start": 523,
-        "end": 574,
+        "start": 527,
+        "end": 552,
         "label": "no-rep"
       },
       {
-        "start": 575,
-        "end": 620,
+        "start": 573,
+        "end": 597,
         "label": "rep"
-      },
-      {
-        "start": 621,
-        "end": 640,
-        "label": "finish"
       }
     ]
   }
