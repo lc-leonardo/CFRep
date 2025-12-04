@@ -41679,79 +41679,69 @@
   "binary_label": "0011100111001",
   "annotations": [
     {
-      "start": 0,
-      "end": 13,
-      "label": "prep"
-    },
-    {
-      "start": 14,
-      "end": 60,
+      "start": 13,
+      "end": 38,
       "label": "no-rep"
     },
     {
-      "start": 61,
-      "end": 105,
+      "start": 59,
+      "end": 82,
       "label": "no-rep"
     },
     {
-      "start": 106,
-      "end": 147,
+      "start": 104,
+      "end": 128,
       "label": "rep"
     },
     {
       "start": 148,
-      "end": 196,
+      "end": 174,
       "label": "rep"
     },
     {
-      "start": 197,
-      "end": 244,
+      "start": 199,
+      "end": 221,
       "label": "rep"
     },
     {
-      "start": 245,
-      "end": 292,
+      "start": 244,
+      "end": 269,
       "label": "no-rep"
     },
     {
-      "start": 293,
-      "end": 337,
+      "start": 291,
+      "end": 315,
       "label": "no-rep"
     },
     {
-      "start": 338,
-      "end": 377,
+      "start": 336,
+      "end": 357,
       "label": "rep"
     },
     {
-      "start": 378,
-      "end": 431,
+      "start": 381,
+      "end": 405,
       "label": "rep"
     },
     {
-      "start": 432,
-      "end": 476,
+      "start": 430,
+      "end": 455,
       "label": "rep"
     },
     {
-      "start": 477,
-      "end": 522,
+      "start": 478,
+      "end": 502,
       "label": "no-rep"
     },
     {
-      "start": 523,
-      "end": 574,
+      "start": 527,
+      "end": 552,
       "label": "no-rep"
     },
     {
-      "start": 575,
-      "end": 620,
+      "start": 573,
+      "end": 597,
       "label": "rep"
-    },
-    {
-      "start": 621,
-      "end": 640,
-      "label": "finish"
     }
   ]
 }

@@ -71,3 +71,21 @@ CFRep is an open-access video dataset designed for rep-based exercise validation
   - Studies on exercise quality assessment.
   - Automated judging systems.
   - Lightweight fitness tracking on edge devices.
+
+## Video Pose Repetition Labellers
+
+Two desktop tools are available for creating and editing repetition annotations. Both follow the same state sequence derived from the binary label (`prep` → `rep`/`no-rep` blocks → `finish`) and propagate the saved `annotations` back into every JSON file associated with the selected sample.
+
+### Tkinter + OpenCV interface (recommended)
+
+Run the Tkinter application from the project root:
+
+```bash
+python video_pose_labeller.py
+```
+
+Select the `json_keypoints` directory when prompted (defaults to `CFRep/json_keypoints` if it exists). Choose an exercise, pick a sample, and use the transport controls to play/pause, step frames, or scrub via the slider. Press **Mark end of current state** to commit each phase, **Undo last mark** to roll back mistakes, and **Save annotations** to write the final segments (including the auto-assigned `finish`) to all 11 JSON files for that sample. Existing annotations are detected automatically so you can review them or clear and start over.
+
+### PyQt5 interface
+
+`video_pose_labeller_qt.py` remains available if you prefer the PyQt5-based UI that ships with the dataset. Its workflow mirrors the Tkinter tool.

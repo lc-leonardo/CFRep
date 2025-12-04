@@ -1923,17 +1923,12 @@
     "rep_count": 6,
     "segments": [
       {
-        "start": 0,
-        "end": 33,
-        "label": "prep"
-      },
-      {
-        "start": 34,
-        "end": 55,
+        "start": 28,
+        "end": 53,
         "label": "rep"
       },
       {
-        "start": 56,
+        "start": 54,
         "end": 72,
         "label": "rep"
       },
@@ -1944,11 +1939,11 @@
       },
       {
         "start": 89,
-        "end": 103,
+        "end": 104,
         "label": "no-rep"
       },
       {
-        "start": 104,
+        "start": 105,
         "end": 120,
         "label": "rep"
       },
@@ -1959,11 +1954,11 @@
       },
       {
         "start": 138,
-        "end": 154,
+        "end": 152,
         "label": "no-rep"
       },
       {
-        "start": 155,
+        "start": 153,
         "end": 169,
         "label": "rep"
       },
@@ -1979,13 +1974,8 @@
       },
       {
         "start": 203,
-        "end": 254,
+        "end": 218,
         "label": "no-rep"
-      },
-      {
-        "start": 255,
-        "end": 254,
-        "label": "finish"
       }
     ]
   },
@@ -1996,22 +1986,17 @@
     "rep_count": 8,
     "segments": [
       {
-        "start": 0,
-        "end": 31,
-        "label": "prep"
-      },
-      {
         "start": 32,
         "end": 47,
         "label": "no-rep"
       },
       {
         "start": 48,
-        "end": 63,
+        "end": 60,
         "label": "no-rep"
       },
       {
-        "start": 64,
+        "start": 61,
         "end": 73,
         "label": "no-rep"
       },
@@ -2022,26 +2007,26 @@
       },
       {
         "start": 89,
-        "end": 100,
+        "end": 101,
         "label": "no-rep"
       },
       {
-        "start": 101,
-        "end": 116,
+        "start": 102,
+        "end": 115,
         "label": "no-rep"
       },
       {
-        "start": 117,
-        "end": 131,
+        "start": 116,
+        "end": 132,
         "label": "rep"
       },
       {
-        "start": 132,
-        "end": 150,
+        "start": 133,
+        "end": 149,
         "label": "rep"
       },
       {
-        "start": 151,
+        "start": 150,
         "end": 165,
         "label": "rep"
       },
@@ -2052,28 +2037,23 @@
       },
       {
         "start": 184,
-        "end": 201,
+        "end": 200,
         "label": "rep"
       },
       {
-        "start": 202,
-        "end": 219,
+        "start": 201,
+        "end": 216,
         "label": "rep"
       },
       {
-        "start": 220,
-        "end": 234,
+        "start": 217,
+        "end": 235,
         "label": "rep"
       },
       {
-        "start": 235,
-        "end": 250,
+        "start": 236,
+        "end": 252,
         "label": "rep"
-      },
-      {
-        "start": 251,
-        "end": 281,
-        "label": "finish"
       }
     ]
   },
@@ -2081,90 +2061,80 @@
     "filename": "double-unders_diag_w4_15_10.mp4",
     "exercise": "double_unders",
     "binary_label": "0000111111111111000011001",
-    "rep_count": 15,
+    "rep_count": 16,
     "segments": [
       {
-        "start": 0,
-        "end": 0,
-        "label": "prep"
-      },
-      {
-        "start": 1,
-        "end": 9,
+        "start": 9,
+        "end": 23,
         "label": "no-rep"
       },
       {
-        "start": 10,
-        "end": 25,
-        "label": "no-rep"
-      },
-      {
-        "start": 26,
+        "start": 24,
         "end": 38,
         "label": "no-rep"
       },
       {
         "start": 39,
-        "end": 54,
+        "end": 53,
         "label": "no-rep"
       },
       {
-        "start": 55,
-        "end": 71,
+        "start": 54,
+        "end": 70,
         "label": "rep"
       },
       {
-        "start": 72,
+        "start": 71,
         "end": 87,
         "label": "rep"
       },
       {
         "start": 88,
-        "end": 105,
+        "end": 104,
         "label": "rep"
       },
       {
-        "start": 106,
-        "end": 123,
+        "start": 105,
+        "end": 122,
         "label": "rep"
       },
       {
-        "start": 124,
-        "end": 140,
+        "start": 123,
+        "end": 139,
         "label": "rep"
       },
       {
-        "start": 141,
-        "end": 155,
+        "start": 140,
+        "end": 156,
         "label": "rep"
       },
       {
-        "start": 156,
-        "end": 174,
+        "start": 157,
+        "end": 173,
         "label": "rep"
       },
       {
-        "start": 175,
-        "end": 190,
+        "start": 174,
+        "end": 189,
         "label": "rep"
       },
       {
-        "start": 191,
-        "end": 207,
+        "start": 190,
+        "end": 208,
         "label": "rep"
       },
       {
-        "start": 208,
+        "start": 209,
         "end": 224,
         "label": "rep"
       },
       {
         "start": 225,
-        "end": 242,
+        "end": 241,
         "label": "rep"
       },
       {
-        "start": 243,
+        "start": 242,
         "end": 259,
         "label": "rep"
       },
@@ -2180,21 +2150,21 @@
       },
       {
         "start": 292,
-        "end": 305,
+        "end": 307,
         "label": "no-rep"
       },
       {
-        "start": 306,
-        "end": 322,
+        "start": 308,
+        "end": 323,
         "label": "no-rep"
       },
       {
-        "start": 323,
-        "end": 341,
+        "start": 324,
+        "end": 340,
         "label": "rep"
       },
       {
-        "start": 342,
+        "start": 341,
         "end": 357,
         "label": "rep"
       },
@@ -2215,8 +2185,8 @@
       },
       {
         "start": 407,
-        "end": 447,
-        "label": "finish"
+        "end": 424,
+        "label": "rep"
       }
     ]
   },
@@ -2227,12 +2197,7 @@
     "rep_count": 9,
     "segments": [
       {
-        "start": 0,
-        "end": 20,
-        "label": "prep"
-      },
-      {
-        "start": 21,
+        "start": 20,
         "end": 37,
         "label": "no-rep"
       },
@@ -2248,245 +2213,6 @@
       },
       {
         "start": 74,
-        "end": 90,
-        "label": "rep"
-      },
-      {
-        "start": 91,
-        "end": 106,
-        "label": "rep"
-      },
-      {
-        "start": 107,
-        "end": 124,
-        "label": "rep"
-      },
-      {
-        "start": 125,
-        "end": 143,
-        "label": "rep"
-      },
-      {
-        "start": 144,
-        "end": 158,
-        "label": "rep"
-      },
-      {
-        "start": 159,
-        "end": 173,
-        "label": "rep"
-      },
-      {
-        "start": 174,
-        "end": 187,
-        "label": "rep"
-      },
-      {
-        "start": 188,
-        "end": 214,
-        "label": "finish"
-      }
-    ]
-  },
-  {
-    "filename": "double-unders_front_m2_12_2.mp4",
-    "exercise": "double_unders",
-    "binary_label": "01111111111110",
-    "rep_count": 12,
-    "segments": [
-      {
-        "start": 0,
-        "end": 20,
-        "label": "prep"
-      },
-      {
-        "start": 21,
-        "end": 39,
-        "label": "no-rep"
-      },
-      {
-        "start": 40,
-        "end": 55,
-        "label": "rep"
-      },
-      {
-        "start": 56,
-        "end": 71,
-        "label": "rep"
-      },
-      {
-        "start": 72,
-        "end": 87,
-        "label": "rep"
-      },
-      {
-        "start": 88,
-        "end": 105,
-        "label": "rep"
-      },
-      {
-        "start": 106,
-        "end": 122,
-        "label": "rep"
-      },
-      {
-        "start": 123,
-        "end": 139,
-        "label": "rep"
-      },
-      {
-        "start": 140,
-        "end": 155,
-        "label": "rep"
-      },
-      {
-        "start": 156,
-        "end": 172,
-        "label": "rep"
-      },
-      {
-        "start": 173,
-        "end": 186,
-        "label": "rep"
-      },
-      {
-        "start": 187,
-        "end": 202,
-        "label": "rep"
-      },
-      {
-        "start": 203,
-        "end": 219,
-        "label": "rep"
-      },
-      {
-        "start": 220,
-        "end": 234,
-        "label": "rep"
-      },
-      {
-        "start": 235,
-        "end": 248,
-        "label": "no-rep"
-      },
-      {
-        "start": 249,
-        "end": 270,
-        "label": "finish"
-      }
-    ]
-  },
-  {
-    "filename": "double-unders_front_m3_12_2.mp4",
-    "exercise": "double_unders",
-    "binary_label": "01111111111110",
-    "rep_count": 12,
-    "segments": [
-      {
-        "start": 0,
-        "end": 34,
-        "label": "prep"
-      },
-      {
-        "start": 35,
-        "end": 52,
-        "label": "no-rep"
-      },
-      {
-        "start": 53,
-        "end": 69,
-        "label": "rep"
-      },
-      {
-        "start": 70,
-        "end": 87,
-        "label": "rep"
-      },
-      {
-        "start": 88,
-        "end": 103,
-        "label": "rep"
-      },
-      {
-        "start": 104,
-        "end": 119,
-        "label": "rep"
-      },
-      {
-        "start": 120,
-        "end": 134,
-        "label": "rep"
-      },
-      {
-        "start": 135,
-        "end": 150,
-        "label": "rep"
-      },
-      {
-        "start": 151,
-        "end": 165,
-        "label": "rep"
-      },
-      {
-        "start": 166,
-        "end": 182,
-        "label": "rep"
-      },
-      {
-        "start": 183,
-        "end": 198,
-        "label": "rep"
-      },
-      {
-        "start": 199,
-        "end": 214,
-        "label": "rep"
-      },
-      {
-        "start": 215,
-        "end": 230,
-        "label": "rep"
-      },
-      {
-        "start": 231,
-        "end": 245,
-        "label": "rep"
-      },
-      {
-        "start": 246,
-        "end": 262,
-        "label": "no-rep"
-      },
-      {
-        "start": 263,
-        "end": 276,
-        "label": "finish"
-      }
-    ]
-  },
-  {
-    "filename": "double-unders_front_m4_14_2.mp4",
-    "exercise": "double_unders",
-    "binary_label": "0111111111111110",
-    "rep_count": 14,
-    "segments": [
-      {
-        "start": 0,
-        "end": 36,
-        "label": "prep"
-      },
-      {
-        "start": 37,
-        "end": 55,
-        "label": "no-rep"
-      },
-      {
-        "start": 56,
-        "end": 73,
-        "label": "rep"
-      },
-      {
-        "start": 74,
         "end": 88,
         "label": "rep"
       },
@@ -2497,21 +2223,230 @@
       },
       {
         "start": 107,
+        "end": 123,
+        "label": "rep"
+      },
+      {
+        "start": 124,
+        "end": 138,
+        "label": "rep"
+      },
+      {
+        "start": 139,
+        "end": 156,
+        "label": "rep"
+      },
+      {
+        "start": 157,
+        "end": 172,
+        "label": "rep"
+      },
+      {
+        "start": 173,
+        "end": 187,
+        "label": "rep"
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_front_m2_12_2.mp4",
+    "exercise": "double_unders",
+    "binary_label": "01111111111110",
+    "rep_count": 12,
+    "segments": [
+      {
+        "start": 25,
+        "end": 39,
+        "label": "no-rep"
+      },
+      {
+        "start": 40,
+        "end": 56,
+        "label": "rep"
+      },
+      {
+        "start": 57,
+        "end": 72,
+        "label": "rep"
+      },
+      {
+        "start": 73,
+        "end": 87,
+        "label": "rep"
+      },
+      {
+        "start": 88,
+        "end": 106,
+        "label": "rep"
+      },
+      {
+        "start": 107,
         "end": 121,
         "label": "rep"
       },
       {
         "start": 122,
-        "end": 137,
+        "end": 138,
         "label": "rep"
       },
       {
-        "start": 138,
-        "end": 155,
+        "start": 139,
+        "end": 154,
         "label": "rep"
       },
       {
-        "start": 156,
+        "start": 155,
+        "end": 169,
+        "label": "rep"
+      },
+      {
+        "start": 170,
+        "end": 186,
+        "label": "rep"
+      },
+      {
+        "start": 187,
+        "end": 201,
+        "label": "rep"
+      },
+      {
+        "start": 202,
+        "end": 218,
+        "label": "rep"
+      },
+      {
+        "start": 219,
+        "end": 233,
+        "label": "rep"
+      },
+      {
+        "start": 234,
+        "end": 251,
+        "label": "no-rep"
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_front_m3_12_2.mp4",
+    "exercise": "double_unders",
+    "binary_label": "01111111111110",
+    "rep_count": 12,
+    "segments": [
+      {
+        "start": 34,
+        "end": 51,
+        "label": "no-rep"
+      },
+      {
+        "start": 52,
+        "end": 69,
+        "label": "rep"
+      },
+      {
+        "start": 70,
+        "end": 86,
+        "label": "rep"
+      },
+      {
+        "start": 87,
+        "end": 102,
+        "label": "rep"
+      },
+      {
+        "start": 103,
+        "end": 118,
+        "label": "rep"
+      },
+      {
+        "start": 119,
+        "end": 133,
+        "label": "rep"
+      },
+      {
+        "start": 134,
+        "end": 150,
+        "label": "rep"
+      },
+      {
+        "start": 151,
+        "end": 166,
+        "label": "rep"
+      },
+      {
+        "start": 167,
+        "end": 182,
+        "label": "rep"
+      },
+      {
+        "start": 183,
+        "end": 198,
+        "label": "rep"
+      },
+      {
+        "start": 199,
+        "end": 215,
+        "label": "rep"
+      },
+      {
+        "start": 216,
+        "end": 229,
+        "label": "rep"
+      },
+      {
+        "start": 230,
+        "end": 245,
+        "label": "rep"
+      },
+      {
+        "start": 246,
+        "end": 262,
+        "label": "no-rep"
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_front_m4_14_2.mp4",
+    "exercise": "double_unders",
+    "binary_label": "0111111111111110",
+    "rep_count": 14,
+    "segments": [
+      {
+        "start": 35,
+        "end": 55,
+        "label": "no-rep"
+      },
+      {
+        "start": 56,
+        "end": 72,
+        "label": "rep"
+      },
+      {
+        "start": 73,
+        "end": 88,
+        "label": "rep"
+      },
+      {
+        "start": 89,
+        "end": 105,
+        "label": "rep"
+      },
+      {
+        "start": 106,
+        "end": 121,
+        "label": "rep"
+      },
+      {
+        "start": 122,
+        "end": 138,
+        "label": "rep"
+      },
+      {
+        "start": 139,
+        "end": 154,
+        "label": "rep"
+      },
+      {
+        "start": 155,
         "end": 171,
         "label": "rep"
       },
@@ -2522,16 +2457,16 @@
       },
       {
         "start": 188,
-        "end": 204,
+        "end": 203,
         "label": "rep"
       },
       {
-        "start": 205,
-        "end": 221,
+        "start": 204,
+        "end": 220,
         "label": "rep"
       },
       {
-        "start": 222,
+        "start": 221,
         "end": 238,
         "label": "rep"
       },
@@ -2542,23 +2477,18 @@
       },
       {
         "start": 255,
-        "end": 271,
+        "end": 272,
         "label": "rep"
       },
       {
-        "start": 272,
+        "start": 273,
         "end": 288,
         "label": "rep"
       },
       {
         "start": 289,
-        "end": 302,
+        "end": 303,
         "label": "no-rep"
-      },
-      {
-        "start": 303,
-        "end": 341,
-        "label": "finish"
       }
     ]
   },
@@ -2569,17 +2499,12 @@
     "rep_count": 13,
     "segments": [
       {
-        "start": 0,
-        "end": 23,
-        "label": "prep"
-      },
-      {
         "start": 24,
-        "end": 41,
+        "end": 42,
         "label": "rep"
       },
       {
-        "start": 42,
+        "start": 43,
         "end": 58,
         "label": "rep"
       },
@@ -2600,16 +2525,16 @@
       },
       {
         "start": 107,
-        "end": 121,
+        "end": 122,
         "label": "rep"
       },
       {
-        "start": 122,
-        "end": 137,
+        "start": 123,
+        "end": 138,
         "label": "rep"
       },
       {
-        "start": 138,
+        "start": 139,
         "end": 153,
         "label": "rep"
       },
@@ -2625,11 +2550,11 @@
       },
       {
         "start": 186,
-        "end": 200,
+        "end": 201,
         "label": "rep"
       },
       {
-        "start": 201,
+        "start": 202,
         "end": 216,
         "label": "rep"
       },
@@ -2640,13 +2565,8 @@
       },
       {
         "start": 234,
-        "end": 246,
+        "end": 247,
         "label": "no-rep"
-      },
-      {
-        "start": 247,
-        "end": 275,
-        "label": "finish"
       }
     ]
   },
@@ -2657,208 +2577,22 @@
     "rep_count": 7,
     "segments": [
       {
-        "start": 0,
-        "end": 12,
-        "label": "prep"
-      },
-      {
         "start": 13,
         "end": 25,
         "label": "no-rep"
       },
       {
         "start": 26,
-        "end": 39,
+        "end": 38,
         "label": "no-rep"
       },
       {
-        "start": 40,
-        "end": 54,
+        "start": 39,
+        "end": 53,
         "label": "no-rep"
       },
       {
-        "start": 55,
-        "end": 70,
-        "label": "rep"
-      },
-      {
-        "start": 71,
-        "end": 87,
-        "label": "rep"
-      },
-      {
-        "start": 88,
-        "end": 106,
-        "label": "rep"
-      },
-      {
-        "start": 107,
-        "end": 123,
-        "label": "rep"
-      },
-      {
-        "start": 124,
-        "end": 141,
-        "label": "no-rep"
-      },
-      {
-        "start": 142,
-        "end": 155,
-        "label": "no-rep"
-      },
-      {
-        "start": 156,
-        "end": 169,
-        "label": "no-rep"
-      },
-      {
-        "start": 170,
-        "end": 182,
-        "label": "no-rep"
-      },
-      {
-        "start": 183,
-        "end": 198,
-        "label": "rep"
-      },
-      {
-        "start": 199,
-        "end": 216,
-        "label": "rep"
-      },
-      {
-        "start": 217,
-        "end": 233,
-        "label": "rep"
-      },
-      {
-        "start": 234,
-        "end": 249,
-        "label": "no-rep"
-      },
-      {
-        "start": 250,
-        "end": 276,
-        "label": "finish"
-      }
-    ]
-  },
-  {
-    "filename": "double-unders_front_w4_12_3.mp4",
-    "exercise": "double_unders",
-    "binary_label": "011111111111001",
-    "rep_count": 12,
-    "segments": [
-      {
-        "start": 0,
-        "end": 33,
-        "label": "prep"
-      },
-      {
-        "start": 34,
-        "end": 51,
-        "label": "no-rep"
-      },
-      {
-        "start": 52,
-        "end": 69,
-        "label": "rep"
-      },
-      {
-        "start": 70,
-        "end": 85,
-        "label": "rep"
-      },
-      {
-        "start": 86,
-        "end": 103,
-        "label": "rep"
-      },
-      {
-        "start": 104,
-        "end": 120,
-        "label": "rep"
-      },
-      {
-        "start": 121,
-        "end": 136,
-        "label": "rep"
-      },
-      {
-        "start": 137,
-        "end": 154,
-        "label": "rep"
-      },
-      {
-        "start": 155,
-        "end": 171,
-        "label": "rep"
-      },
-      {
-        "start": 172,
-        "end": 188,
-        "label": "rep"
-      },
-      {
-        "start": 189,
-        "end": 206,
-        "label": "rep"
-      },
-      {
-        "start": 207,
-        "end": 222,
-        "label": "rep"
-      },
-      {
-        "start": 223,
-        "end": 239,
-        "label": "rep"
-      },
-      {
-        "start": 240,
-        "end": 257,
-        "label": "no-rep"
-      },
-      {
-        "start": 258,
-        "end": 273,
-        "label": "no-rep"
-      },
-      {
-        "start": 274,
-        "end": 290,
-        "label": "rep"
-      },
-      {
-        "start": 291,
-        "end": 328,
-        "label": "finish"
-      }
-    ]
-  },
-  {
-    "filename": "double-unders_side_m1_13_2.mp4",
-    "exercise": "double_unders",
-    "binary_label": "011111111111110",
-    "rep_count": 13,
-    "segments": [
-      {
-        "start": 0,
-        "end": 17,
-        "label": "prep"
-      },
-      {
-        "start": 18,
-        "end": 37,
-        "label": "no-rep"
-      },
-      {
-        "start": 38,
-        "end": 54,
-        "label": "rep"
-      },
-      {
-        "start": 55,
+        "start": 54,
         "end": 71,
         "label": "rep"
       },
@@ -2874,26 +2608,187 @@
       },
       {
         "start": 106,
+        "end": 123,
+        "label": "rep"
+      },
+      {
+        "start": 124,
+        "end": 141,
+        "label": "no-rep"
+      },
+      {
+        "start": 142,
+        "end": 154,
+        "label": "no-rep"
+      },
+      {
+        "start": 155,
+        "end": 167,
+        "label": "no-rep"
+      },
+      {
+        "start": 168,
+        "end": 180,
+        "label": "no-rep"
+      },
+      {
+        "start": 181,
+        "end": 198,
+        "label": "rep"
+      },
+      {
+        "start": 199,
+        "end": 215,
+        "label": "rep"
+      },
+      {
+        "start": 216,
+        "end": 234,
+        "label": "rep"
+      },
+      {
+        "start": 235,
+        "end": 251,
+        "label": "no-rep"
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_front_w4_12_3.mp4",
+    "exercise": "double_unders",
+    "binary_label": "011111111111001",
+    "rep_count": 12,
+    "segments": [
+      {
+        "start": 27,
+        "end": 52,
+        "label": "no-rep"
+      },
+      {
+        "start": 53,
+        "end": 69,
+        "label": "rep"
+      },
+      {
+        "start": 70,
+        "end": 86,
+        "label": "rep"
+      },
+      {
+        "start": 87,
+        "end": 104,
+        "label": "rep"
+      },
+      {
+        "start": 105,
+        "end": 119,
+        "label": "rep"
+      },
+      {
+        "start": 120,
+        "end": 136,
+        "label": "rep"
+      },
+      {
+        "start": 137,
+        "end": 154,
+        "label": "rep"
+      },
+      {
+        "start": 155,
+        "end": 172,
+        "label": "rep"
+      },
+      {
+        "start": 173,
+        "end": 188,
+        "label": "rep"
+      },
+      {
+        "start": 189,
+        "end": 205,
+        "label": "rep"
+      },
+      {
+        "start": 206,
+        "end": 221,
+        "label": "rep"
+      },
+      {
+        "start": 222,
+        "end": 240,
+        "label": "rep"
+      },
+      {
+        "start": 241,
+        "end": 257,
+        "label": "no-rep"
+      },
+      {
+        "start": 258,
+        "end": 272,
+        "label": "no-rep"
+      },
+      {
+        "start": 273,
+        "end": 289,
+        "label": "rep"
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_side_m1_13_2.mp4",
+    "exercise": "double_unders",
+    "binary_label": "011111111111110",
+    "rep_count": 13,
+    "segments": [
+      {
+        "start": 17,
+        "end": 35,
+        "label": "no-rep"
+      },
+      {
+        "start": 36,
+        "end": 54,
+        "label": "rep"
+      },
+      {
+        "start": 55,
+        "end": 71,
+        "label": "rep"
+      },
+      {
+        "start": 72,
+        "end": 89,
+        "label": "rep"
+      },
+      {
+        "start": 90,
+        "end": 105,
+        "label": "rep"
+      },
+      {
+        "start": 106,
         "end": 121,
         "label": "rep"
       },
       {
         "start": 122,
-        "end": 140,
+        "end": 139,
         "label": "rep"
       },
       {
-        "start": 141,
-        "end": 157,
+        "start": 140,
+        "end": 158,
         "label": "rep"
       },
       {
-        "start": 158,
-        "end": 173,
+        "start": 159,
+        "end": 174,
         "label": "rep"
       },
       {
-        "start": 174,
+        "start": 175,
         "end": 190,
         "label": "rep"
       },
@@ -2914,18 +2809,13 @@
       },
       {
         "start": 242,
-        "end": 259,
+        "end": 258,
         "label": "rep"
       },
       {
-        "start": 260,
-        "end": 274,
+        "start": 259,
+        "end": 275,
         "label": "no-rep"
-      },
-      {
-        "start": 275,
-        "end": 317,
-        "label": "finish"
       }
     ]
   },
@@ -2936,155 +2826,37 @@
     "rep_count": 17,
     "segments": [
       {
-        "start": 0,
-        "end": 15,
-        "label": "prep"
-      },
-      {
-        "start": 16,
-        "end": 33,
+        "start": 18,
+        "end": 32,
         "label": "no-rep"
       },
       {
-        "start": 34,
+        "start": 33,
         "end": 51,
         "label": "rep"
       },
       {
         "start": 52,
-        "end": 68,
+        "end": 67,
         "label": "rep"
       },
       {
-        "start": 69,
-        "end": 88,
+        "start": 68,
+        "end": 86,
         "label": "rep"
       },
       {
-        "start": 89,
-        "end": 105,
+        "start": 87,
+        "end": 104,
         "label": "rep"
       },
       {
-        "start": 106,
+        "start": 105,
         "end": 122,
         "label": "rep"
       },
       {
         "start": 123,
-        "end": 140,
-        "label": "rep"
-      },
-      {
-        "start": 141,
-        "end": 157,
-        "label": "rep"
-      },
-      {
-        "start": 158,
-        "end": 175,
-        "label": "rep"
-      },
-      {
-        "start": 176,
-        "end": 192,
-        "label": "rep"
-      },
-      {
-        "start": 193,
-        "end": 209,
-        "label": "rep"
-      },
-      {
-        "start": 210,
-        "end": 227,
-        "label": "rep"
-      },
-      {
-        "start": 228,
-        "end": 244,
-        "label": "rep"
-      },
-      {
-        "start": 245,
-        "end": 262,
-        "label": "rep"
-      },
-      {
-        "start": 263,
-        "end": 279,
-        "label": "rep"
-      },
-      {
-        "start": 280,
-        "end": 296,
-        "label": "rep"
-      },
-      {
-        "start": 297,
-        "end": 313,
-        "label": "rep"
-      },
-      {
-        "start": 314,
-        "end": 330,
-        "label": "no-rep"
-      },
-      {
-        "start": 331,
-        "end": 347,
-        "label": "rep"
-      },
-      {
-        "start": 348,
-        "end": 388,
-        "label": "finish"
-      }
-    ]
-  },
-  {
-    "filename": "double-unders_side_m3_15_4.mp4",
-    "exercise": "double_unders",
-    "binary_label": "0111101111100111111",
-    "rep_count": 15,
-    "segments": [
-      {
-        "start": 0,
-        "end": 23,
-        "label": "prep"
-      },
-      {
-        "start": 24,
-        "end": 41,
-        "label": "no-rep"
-      },
-      {
-        "start": 42,
-        "end": 57,
-        "label": "rep"
-      },
-      {
-        "start": 58,
-        "end": 74,
-        "label": "rep"
-      },
-      {
-        "start": 75,
-        "end": 91,
-        "label": "rep"
-      },
-      {
-        "start": 92,
-        "end": 108,
-        "label": "rep"
-      },
-      {
-        "start": 109,
-        "end": 125,
-        "label": "no-rep"
-      },
-      {
-        "start": 126,
         "end": 139,
         "label": "rep"
       },
@@ -3105,53 +2877,151 @@
       },
       {
         "start": 192,
-        "end": 208,
+        "end": 209,
         "label": "rep"
       },
       {
-        "start": 209,
-        "end": 225,
+        "start": 210,
+        "end": 226,
+        "label": "rep"
+      },
+      {
+        "start": 227,
+        "end": 245,
+        "label": "rep"
+      },
+      {
+        "start": 246,
+        "end": 262,
+        "label": "rep"
+      },
+      {
+        "start": 263,
+        "end": 279,
+        "label": "rep"
+      },
+      {
+        "start": 280,
+        "end": 297,
+        "label": "rep"
+      },
+      {
+        "start": 298,
+        "end": 313,
+        "label": "rep"
+      },
+      {
+        "start": 314,
+        "end": 329,
         "label": "no-rep"
       },
       {
-        "start": 226,
+        "start": 330,
+        "end": 345,
+        "label": "rep"
+      }
+    ]
+  },
+  {
+    "filename": "double-unders_side_m3_15_4.mp4",
+    "exercise": "double_unders",
+    "binary_label": "0111101111100111111",
+    "rep_count": 15,
+    "segments": [
+      {
+        "start": 19,
+        "end": 40,
+        "label": "no-rep"
+      },
+      {
+        "start": 41,
+        "end": 58,
+        "label": "rep"
+      },
+      {
+        "start": 59,
+        "end": 74,
+        "label": "rep"
+      },
+      {
+        "start": 75,
+        "end": 91,
+        "label": "rep"
+      },
+      {
+        "start": 92,
+        "end": 108,
+        "label": "rep"
+      },
+      {
+        "start": 109,
+        "end": 125,
+        "label": "no-rep"
+      },
+      {
+        "start": 126,
+        "end": 140,
+        "label": "rep"
+      },
+      {
+        "start": 141,
+        "end": 157,
+        "label": "rep"
+      },
+      {
+        "start": 158,
+        "end": 174,
+        "label": "rep"
+      },
+      {
+        "start": 175,
+        "end": 191,
+        "label": "rep"
+      },
+      {
+        "start": 192,
+        "end": 207,
+        "label": "rep"
+      },
+      {
+        "start": 208,
+        "end": 224,
+        "label": "no-rep"
+      },
+      {
+        "start": 225,
         "end": 244,
         "label": "no-rep"
       },
       {
         "start": 245,
-        "end": 260,
+        "end": 258,
         "label": "rep"
       },
       {
-        "start": 261,
-        "end": 276,
+        "start": 259,
+        "end": 277,
         "label": "rep"
       },
       {
-        "start": 277,
-        "end": 293,
+        "start": 278,
+        "end": 292,
         "label": "rep"
       },
       {
-        "start": 294,
-        "end": 310,
+        "start": 293,
+        "end": 308,
         "label": "rep"
       },
       {
-        "start": 311,
+        "start": 309,
         "end": 326,
         "label": "rep"
       },
       {
         "start": 327,
-        "end": 342,
+        "end": 341,
         "label": "rep"
-      },
-      {
-        "start": 343,
-        "end": 379,
-        "label": "finish"
       }
     ]
   },
@@ -3162,62 +3032,57 @@
     "rep_count": 11,
     "segments": [
       {
-        "start": 0,
-        "end": 19,
-        "label": "prep"
-      },
-      {
         "start": 20,
-        "end": 39,
+        "end": 37,
         "label": "no-rep"
       },
       {
-        "start": 40,
+        "start": 38,
         "end": 55,
         "label": "rep"
       },
       {
         "start": 56,
-        "end": 72,
+        "end": 71,
         "label": "rep"
       },
       {
-        "start": 73,
-        "end": 88,
+        "start": 72,
+        "end": 86,
         "label": "rep"
       },
       {
-        "start": 89,
-        "end": 104,
+        "start": 87,
+        "end": 103,
         "label": "rep"
       },
       {
-        "start": 105,
-        "end": 120,
+        "start": 104,
+        "end": 119,
         "label": "rep"
       },
       {
-        "start": 121,
-        "end": 136,
+        "start": 120,
+        "end": 134,
         "label": "rep"
       },
       {
-        "start": 137,
-        "end": 152,
+        "start": 135,
+        "end": 151,
         "label": "rep"
       },
       {
-        "start": 153,
-        "end": 169,
+        "start": 152,
+        "end": 168,
         "label": "rep"
       },
       {
-        "start": 170,
-        "end": 187,
+        "start": 169,
+        "end": 186,
         "label": "no-rep"
       },
       {
-        "start": 188,
+        "start": 187,
         "end": 201,
         "label": "no-rep"
       },
@@ -3232,12 +3097,12 @@
         "label": "no-rep"
       },
       {
-        "start": 233,
-        "end": 318,
+        "start": 302,
+        "end": 317,
         "label": "no-rep"
       },
       {
-        "start": 319,
+        "start": 318,
         "end": 333,
         "label": "rep"
       },
@@ -3253,13 +3118,8 @@
       },
       {
         "start": 366,
-        "end": 381,
+        "end": 382,
         "label": "no-rep"
-      },
-      {
-        "start": 382,
-        "end": 452,
-        "label": "finish"
       }
     ]
   },
@@ -3395,27 +3255,22 @@
     "rep_count": 11,
     "segments": [
       {
-        "start": 0,
-        "end": 13,
-        "label": "prep"
-      },
-      {
-        "start": 14,
-        "end": 36,
+        "start": 11,
+        "end": 37,
         "label": "rep"
       },
       {
-        "start": 37,
-        "end": 52,
+        "start": 38,
+        "end": 53,
         "label": "rep"
       },
       {
-        "start": 53,
-        "end": 67,
+        "start": 54,
+        "end": 68,
         "label": "rep"
       },
       {
-        "start": 68,
+        "start": 69,
         "end": 83,
         "label": "rep"
       },
@@ -3426,26 +3281,26 @@
       },
       {
         "start": 99,
-        "end": 113,
+        "end": 114,
         "label": "rep"
       },
       {
-        "start": 114,
+        "start": 115,
         "end": 129,
         "label": "rep"
       },
       {
         "start": 130,
-        "end": 144,
+        "end": 145,
         "label": "no-rep"
       },
       {
-        "start": 145,
-        "end": 158,
+        "start": 146,
+        "end": 159,
         "label": "no-rep"
       },
       {
-        "start": 159,
+        "start": 160,
         "end": 174,
         "label": "rep"
       },
@@ -3456,23 +3311,18 @@
       },
       {
         "start": 191,
-        "end": 205,
+        "end": 206,
         "label": "rep"
       },
       {
-        "start": 206,
+        "start": 207,
         "end": 221,
         "label": "rep"
       },
       {
         "start": 222,
-        "end": 237,
+        "end": 236,
         "label": "no-rep"
-      },
-      {
-        "start": 238,
-        "end": 269,
-        "label": "finish"
       }
     ]
   },
@@ -3483,52 +3333,47 @@
     "rep_count": 9,
     "segments": [
       {
-        "start": 0,
-        "end": 14,
-        "label": "prep"
-      },
-      {
         "start": 15,
-        "end": 28,
+        "end": 27,
         "label": "no-rep"
       },
       {
-        "start": 29,
+        "start": 28,
         "end": 41,
         "label": "no-rep"
       },
       {
         "start": 42,
-        "end": 54,
+        "end": 55,
         "label": "no-rep"
       },
       {
-        "start": 55,
-        "end": 70,
+        "start": 56,
+        "end": 68,
         "label": "no-rep"
       },
       {
-        "start": 71,
-        "end": 85,
+        "start": 69,
+        "end": 84,
         "label": "no-rep"
       },
       {
-        "start": 86,
-        "end": 102,
+        "start": 85,
+        "end": 101,
         "label": "rep"
       },
       {
-        "start": 103,
+        "start": 102,
         "end": 119,
         "label": "rep"
       },
       {
         "start": 120,
-        "end": 136,
+        "end": 137,
         "label": "rep"
       },
       {
-        "start": 137,
+        "start": 138,
         "end": 154,
         "label": "no-rep"
       },
@@ -3544,11 +3389,11 @@
       },
       {
         "start": 184,
-        "end": 201,
+        "end": 200,
         "label": "rep"
       },
       {
-        "start": 202,
+        "start": 201,
         "end": 218,
         "label": "rep"
       },
@@ -3574,28 +3419,23 @@
       },
       {
         "start": 284,
-        "end": 299,
+        "end": 298,
         "label": "rep"
       },
       {
-        "start": 300,
-        "end": 317,
+        "start": 299,
+        "end": 316,
         "label": "rep"
       },
       {
-        "start": 318,
-        "end": 335,
+        "start": 317,
+        "end": 334,
         "label": "rep"
       },
       {
-        "start": 336,
-        "end": 354,
+        "start": 335,
+        "end": 353,
         "label": "no-rep"
-      },
-      {
-        "start": 355,
-        "end": 382,
-        "label": "finish"
       }
     ]
   },
@@ -3606,17 +3446,12 @@
     "rep_count": 15,
     "segments": [
       {
-        "start": 0,
-        "end": 56,
-        "label": "prep"
-      },
-      {
-        "start": 57,
-        "end": 75,
+        "start": 56,
+        "end": 74,
         "label": "no-rep"
       },
       {
-        "start": 76,
+        "start": 75,
         "end": 90,
         "label": "no-rep"
       },
@@ -3627,36 +3462,36 @@
       },
       {
         "start": 106,
-        "end": 123,
+        "end": 122,
         "label": "rep"
       },
       {
-        "start": 124,
+        "start": 123,
         "end": 140,
         "label": "rep"
       },
       {
         "start": 141,
-        "end": 156,
+        "end": 157,
         "label": "rep"
       },
       {
-        "start": 157,
-        "end": 173,
+        "start": 158,
+        "end": 174,
         "label": "rep"
       },
       {
-        "start": 174,
+        "start": 175,
         "end": 191,
         "label": "rep"
       },
       {
         "start": 192,
-        "end": 208,
+        "end": 207,
         "label": "rep"
       },
       {
-        "start": 209,
+        "start": 208,
         "end": 225,
         "label": "rep"
       },
@@ -3667,11 +3502,11 @@
       },
       {
         "start": 243,
-        "end": 258,
+        "end": 259,
         "label": "rep"
       },
       {
-        "start": 259,
+        "start": 260,
         "end": 276,
         "label": "rep"
       },
@@ -3687,58 +3522,53 @@
       },
       {
         "start": 311,
-        "end": 326,
+        "end": 327,
         "label": "no-rep"
       },
       {
-        "start": 327,
-        "end": 341,
+        "start": 328,
+        "end": 342,
         "label": "no-rep"
       },
       {
-        "start": 342,
+        "start": 343,
         "end": 356,
         "label": "no-rep"
       },
       {
         "start": 357,
-        "end": 373,
+        "end": 374,
         "label": "rep"
       },
       {
-        "start": 374,
+        "start": 375,
         "end": 390,
         "label": "no-rep"
       },
       {
         "start": 391,
-        "end": 405,
+        "end": 406,
         "label": "no-rep"
       },
       {
-        "start": 406,
+        "start": 407,
         "end": 423,
         "label": "rep"
       },
       {
         "start": 424,
-        "end": 441,
+        "end": 440,
         "label": "rep"
       },
       {
-        "start": 442,
+        "start": 441,
         "end": 458,
         "label": "no-rep"
       },
       {
         "start": 459,
-        "end": 476,
+        "end": 475,
         "label": "no-rep"
-      },
-      {
-        "start": 477,
-        "end": 490,
-        "label": "finish"
       }
     ]
   },

@@ -50865,73 +50865,63 @@
   "annotations": [
     {
       "start": 0,
-      "end": 24,
-      "label": "prep"
+      "end": 3,
+      "label": "no-rep"
     },
     {
       "start": 25,
-      "end": 66,
+      "end": 44,
       "label": "rep"
     },
     {
-      "start": 67,
-      "end": 106,
+      "start": 63,
+      "end": 88,
+      "label": "no-rep"
+    },
+    {
+      "start": 109,
+      "end": 127,
+      "label": "no-rep"
+    },
+    {
+      "start": 150,
+      "end": 172,
+      "label": "no-rep"
+    },
+    {
+      "start": 188,
+      "end": 207,
       "label": "rep"
     },
     {
-      "start": 107,
-      "end": 148,
-      "label": "no-rep"
-    },
-    {
-      "start": 149,
-      "end": 189,
-      "label": "no-rep"
-    },
-    {
-      "start": 190,
-      "end": 228,
-      "label": "no-rep"
-    },
-    {
-      "start": 229,
-      "end": 264,
+      "start": 227,
+      "end": 246,
       "label": "rep"
     },
     {
-      "start": 265,
-      "end": 310,
+      "start": 267,
+      "end": 287,
       "label": "rep"
     },
     {
-      "start": 311,
-      "end": 364,
+      "start": 323,
+      "end": 346,
       "label": "rep"
     },
     {
-      "start": 365,
-      "end": 405,
-      "label": "rep"
-    },
-    {
-      "start": 406,
-      "end": 448,
+      "start": 407,
+      "end": 431,
       "label": "no-rep"
     },
     {
-      "start": 449,
-      "end": 488,
+      "start": 448,
+      "end": 467,
       "label": "no-rep"
     },
     {
-      "start": 489,
-      "end": 524,
+      "start": 487,
+      "end": 507,
       "label": "no-rep"
-    },
-    {
-      "start": 525,
-      "end": 564,
-      "label": "finish"
     }
   ]
 }
