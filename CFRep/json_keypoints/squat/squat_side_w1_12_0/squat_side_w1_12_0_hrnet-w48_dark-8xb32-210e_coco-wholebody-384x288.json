@@ -172504,5 +172504,67 @@
       }
     }
   ],
-  "binary_label": "111111111111"
+  "binary_label": "111111111111",
+  "annotations": [
+    {
+      "start": 60,
+      "end": 103,
+      "label": "rep"
+    },
+    {
+      "start": 104,
+      "end": 142,
+      "label": "rep"
+    },
+    {
+      "start": 143,
+      "end": 181,
+      "label": "rep"
+    },
+    {
+      "start": 182,
+      "end": 221,
+      "label": "rep"
+    },
+    {
+      "start": 222,
+      "end": 261,
+      "label": "rep"
+    },
+    {
+      "start": 262,
+      "end": 303,
+      "label": "rep"
+    },
+    {
+      "start": 304,
+      "end": 345,
+      "label": "rep"
+    },
+    {
+      "start": 346,
+      "end": 386,
+      "label": "rep"
+    },
+    {
+      "start": 387,
+      "end": 430,
+      "label": "rep"
+    },
+    {
+      "start": 431,
+      "end": 473,
+      "label": "rep"
+    },
+    {
+      "start": 474,
+      "end": 512,
+      "label": "rep"
+    },
+    {
+      "start": 513,
+      "end": 554,
+      "label": "rep"
+    }
+  ]
 }

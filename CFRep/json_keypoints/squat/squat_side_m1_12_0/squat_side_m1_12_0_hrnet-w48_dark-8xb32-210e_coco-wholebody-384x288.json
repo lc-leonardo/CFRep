@@ -173704,5 +173704,67 @@
       }
     }
   ],
-  "binary_label": "111111111111"
+  "binary_label": "111111111111",
+  "annotations": [
+    {
+      "start": 4,
+      "end": 48,
+      "label": "rep"
+    },
+    {
+      "start": 49,
+      "end": 91,
+      "label": "rep"
+    },
+    {
+      "start": 92,
+      "end": 135,
+      "label": "rep"
+    },
+    {
+      "start": 136,
+      "end": 180,
+      "label": "rep"
+    },
+    {
+      "start": 181,
+      "end": 222,
+      "label": "rep"
+    },
+    {
+      "start": 223,
+      "end": 267,
+      "label": "rep"
+    },
+    {
+      "start": 268,
+      "end": 313,
+      "label": "rep"
+    },
+    {
+      "start": 314,
+      "end": 360,
+      "label": "rep"
+    },
+    {
+      "start": 361,
+      "end": 408,
+      "label": "rep"
+    },
+    {
+      "start": 409,
+      "end": 457,
+      "label": "rep"
+    },
+    {
+      "start": 458,
+      "end": 510,
+      "label": "rep"
+    },
+    {
+      "start": 511,
+      "end": 562,
+      "label": "rep"
+    }
+  ]
 }

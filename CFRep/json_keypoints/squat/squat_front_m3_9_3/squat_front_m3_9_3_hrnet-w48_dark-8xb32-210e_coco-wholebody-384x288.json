@@ -166804,5 +166804,67 @@
       }
     }
   ],
-  "binary_label": "010111111101"
+  "binary_label": "010111111101",
+  "annotations": [
+    {
+      "start": 12,
+      "end": 51,
+      "label": "no-rep"
+    },
+    {
+      "start": 52,
+      "end": 93,
+      "label": "rep"
+    },
+    {
+      "start": 94,
+      "end": 135,
+      "label": "no-rep"
+    },
+    {
+      "start": 136,
+      "end": 179,
+      "label": "rep"
+    },
+    {
+      "start": 180,
+      "end": 222,
+      "label": "rep"
+    },
+    {
+      "start": 223,
+      "end": 265,
+      "label": "rep"
+    },
+    {
+      "start": 266,
+      "end": 310,
+      "label": "rep"
+    },
+    {
+      "start": 311,
+      "end": 357,
+      "label": "rep"
+    },
+    {
+      "start": 358,
+      "end": 405,
+      "label": "rep"
+    },
+    {
+      "start": 406,
+      "end": 450,
+      "label": "rep"
+    },
+    {
+      "start": 451,
+      "end": 502,
+      "label": "no-rep"
+    },
+    {
+      "start": 503,
+      "end": 541,
+      "label": "rep"
+    }
+  ]
 }
