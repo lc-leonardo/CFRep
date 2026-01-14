@@ -89,3 +89,16 @@ Select the `json_keypoints` directory when prompted (defaults to `CFRep/json_key
 ### PyQt5 interface
 
 `video_pose_labeller_qt.py` remains available if you prefer the PyQt5-based UI that ships with the dataset. Its workflow mirrors the Tkinter tool.
+
+
+### Citation
+If you find ARMBench useful, please considering citing our work:
+```
+
+@article{alves2025repval,
+  title={RepVal: A Skeleton-based Validation System for Functional Fitness Repetition on Edge Devices},
+  author={Alves, Lucas and Li, Fan and Xu, Lanyu},
+  booktitle={2025 ACM/IEEE Symposium on Edge Computing (SEC)},
+  year={2025}
+}
+```
