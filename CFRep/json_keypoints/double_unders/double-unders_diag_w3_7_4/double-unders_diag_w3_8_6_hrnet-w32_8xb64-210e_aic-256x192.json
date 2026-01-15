@@ -18341,77 +18341,62 @@
     "timestamp": "2025-10-02 11:37:40",
     "model_suffix": "hrnet_w32_aic_256x192-30a4e465_20200826"
   },
-  "binary_label": "00000011111111",
+  "binary_label": "00011111110",
   "annotations": [
     {
-      "start": 32,
-      "end": 47,
+      "start": 0,
+      "end": 14,
       "label": "no-rep"
     },
     {
-      "start": 48,
-      "end": 60,
+      "start": 15,
+      "end": 28,
       "label": "no-rep"
     },
     {
-      "start": 61,
-      "end": 73,
+      "start": 29,
+      "end": 42,
       "label": "no-rep"
     },
     {
-      "start": 74,
-      "end": 88,
+      "start": 43,
+      "end": 58,
+      "label": "rep"
+    },
+    {
+      "start": 59,
+      "end": 75,
+      "label": "rep"
+    },
+    {
+      "start": 76,
+      "end": 92,
+      "label": "rep"
+    },
+    {
+      "start": 93,
+      "end": 109,
+      "label": "rep"
+    },
+    {
+      "start": 110,
+      "end": 126,
+      "label": "rep"
+    },
+    {
+      "start": 127,
+      "end": 143,
+      "label": "rep"
+    },
+    {
+      "start": 144,
+      "end": 160,
+      "label": "rep"
+    },
+    {
+      "start": 161,
+      "end": 176,
       "label": "no-rep"
-    },
-    {
-      "start": 89,
-      "end": 101,
-      "label": "no-rep"
-    },
-    {
-      "start": 102,
-      "end": 115,
-      "label": "no-rep"
-    },
-    {
-      "start": 116,
-      "end": 132,
-      "label": "rep"
-    },
-    {
-      "start": 133,
-      "end": 149,
-      "label": "rep"
-    },
-    {
-      "start": 150,
-      "end": 165,
-      "label": "rep"
-    },
-    {
-      "start": 166,
-      "end": 183,
-      "label": "rep"
-    },
-    {
-      "start": 184,
-      "end": 200,
-      "label": "rep"
-    },
-    {
-      "start": 201,
-      "end": 216,
-      "label": "rep"
-    },
-    {
-      "start": 217,
-      "end": 235,
-      "label": "rep"
-    },
-    {
-      "start": 236,
-      "end": 252,
-      "label": "rep"
     }
   ]
 }

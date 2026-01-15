@@ -1980,10 +1980,10 @@
     ]
   },
   {
-    "filename": "double-unders_diag_w3_8_6.mp4",
+    "filename": "double-unders_diag_w3_7_4.mp4",
     "exercise": "double_unders",
-    "binary_label": "00000011111111",
-    "rep_count": 8,
+    "binary_label": "00011111110",
+    "rep_count": 7,
     "segments": [
       {
         "start": 32,
