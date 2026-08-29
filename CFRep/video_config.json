@@ -6,63 +6,63 @@
     "rep_count": 6,
     "segments": [
       {
-        "start": 156,
-        "end": 182,
+        "start": 61,
+        "end": 87,
         "label": "rep"
       },
       {
-        "start": 216,
-        "end": 240,
+        "start": 121,
+        "end": 145,
         "label": "rep"
       },
       {
-        "start": 267,
-        "end": 290,
+        "start": 172,
+        "end": 195,
         "label": "rep"
       },
       {
-        "start": 319,
-        "end": 345,
+        "start": 224,
+        "end": 250,
         "label": "rep"
       },
       {
-        "start": 372,
-        "end": 396,
+        "start": 277,
+        "end": 301,
         "label": "rep"
       },
       {
-        "start": 427,
-        "end": 452,
+        "start": 332,
+        "end": 357,
         "label": "rep"
       },
       {
-        "start": 486,
-        "end": 523,
+        "start": 391,
+        "end": 428,
         "label": "no-rep"
       },
       {
-        "start": 548,
-        "end": 575,
+        "start": 453,
+        "end": 480,
         "label": "no-rep"
       },
       {
-        "start": 606,
-        "end": 636,
+        "start": 511,
+        "end": 541,
         "label": "no-rep"
       },
       {
-        "start": 663,
-        "end": 687,
+        "start": 568,
+        "end": 592,
         "label": "no-rep"
       },
       {
-        "start": 732,
-        "end": 753,
+        "start": 637,
+        "end": 658,
         "label": "no-rep"
       },
       {
-        "start": 806,
-        "end": 847,
+        "start": 711,
+        "end": 752,
         "label": "no-rep"
       }
     ]
@@ -3903,7 +3903,7 @@
       },
       {
         "start": 390,
-        "end": 487,
+        "end": 437,
         "label": "rep"
       },
       {
